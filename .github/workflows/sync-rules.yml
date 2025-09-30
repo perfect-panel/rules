@@ -1,0 +1,193 @@
+name: Sync Rules
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    paths:
+      - ".github/workflows/sync-rules.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref || 'schedule' }}
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout target repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Prepare clean branch (keep workflow & READMEs)
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Action"
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+
+          # Detect target branch
+          BRANCH="${GITHUB_REF_NAME:-}"
+          if [ -z "$BRANCH" ]; then
+            BRANCH="$(git remote show origin | sed -n '/HEAD branch/s/.*: //p' || true)"
+          fi
+          if [ -z "$BRANCH" ]; then
+            BRANCH="main"
+          fi
+          echo "Target branch: $BRANCH"
+          echo "BRANCH=$BRANCH" >> $GITHUB_ENV
+
+          # Create temp work branch
+          NEW_BRANCH="temp-sync-$(date -u +%s)"
+          git switch -c "$NEW_BRANCH"
+          echo "NEW_BRANCH=$NEW_BRANCH" >> $GITHUB_ENV
+
+          # Clean repo root but keep .git / .github / README(.zh-CN).md (case-insensitive)
+          find . -mindepth 1 -maxdepth 1 \
+            ! -name .git \
+            ! -name .github \
+            ! \( -iname 'readme.md' -o -iname 'readme.zh-cn.md' \) \
+            -exec rm -rf -- {} +
+
+          # Sanity check
+          test -f .github/workflows/sync-rules.yml || {
+            echo "Error: workflow file missing after cleanup" >&2; exit 1; }
+
+      - name: Checkout upstream ios_rule_script (sparse)
+        uses: actions/checkout@v4
+        with:
+          repository: blackmatrix7/ios_rule_script
+          ref: master
+          path: upstream_rule
+          fetch-depth: 1
+          sparse-checkout: |
+            blank
+            external
+            rewrite
+            rule
+            script
+          sparse-checkout-cone: true
+
+      - name: Checkout upstream MetaCubeX meta-rules-dat (sparse)
+        uses: actions/checkout@v4
+        with:
+          repository: MetaCubeX/meta-rules-dat
+          ref: sing
+          path: upstream_meta
+          fetch-depth: 1
+          sparse-checkout: |
+            geo
+            geo-lite
+          sparse-checkout-cone: true
+
+      - name: Checkout upstream VirgilClyne GetSomeFries (sparse)
+        uses: actions/checkout@v4
+        with:
+          repository: VirgilClyne/GetSomeFries
+          ref: main
+          path: upstream_fries
+          fetch-depth: 1
+          sparse-checkout: |
+            ruleset
+          sparse-checkout-cone: true
+
+      - name: Sync from ios_rule_script (blank/external/rewrite/rule/script)
+        shell: bash
+        run: |
+          set -euo pipefail
+          set -x
+          for d in blank external rewrite rule script; do
+            if [ -d "upstream_rule/$d" ]; then
+              mkdir -p "$d"
+              rsync -av --delete "upstream_rule/${d}/" "${d}/"
+              echo "== Synced: $d =="; ls -al "${d}" | head -n 50 || true
+            else
+              echo "ERROR: upstream ios_rule_script '$d' not found under upstream_rule/" >&2
+              exit 1
+            fi
+          done
+
+      - name: Sync geo from meta-rules-dat → geo (repo root)
+        shell: bash
+        run: |
+          set -euo pipefail
+          set -x
+          if [ -d "upstream_meta/geo" ]; then
+            mkdir -p "geo"
+            rsync -av --delete "upstream_meta/geo/" "geo/"
+            echo "== Synced: geo =="; ls -al geo | head -n 50 || true
+          else
+            echo "ERROR: upstream meta-rules-dat 'geo' not found under upstream_meta/" >&2
+            echo "Hint: verify 'ref: sing' and sparse-checkout list."
+            exit 1
+          fi
+
+      - name: Sync ruleset from GetSomeFries → ruleset (repo root)
+        shell: bash
+        run: |
+          set -euo pipefail
+          set -x
+          if [ -d "upstream_fries/ruleset" ]; then
+            mkdir -p "ruleset"
+            rsync -av --delete "upstream_fries/ruleset/" "ruleset/"
+            echo "== Synced: ruleset =="; ls -al ruleset | head -n 50 || true
+          else
+            echo "ERROR: upstream GetSomeFries 'ruleset' not found under upstream_fries/" >&2
+            exit 1
+          fi
+
+      - name: Commit and push
+        shell: bash
+        run: |
+          set -euo pipefail
+          set -x
+
+          # Remove temporary upstream checkouts from worktree
+          rm -rf upstream_rule upstream_meta upstream_fries || true
+
+          # Stage known paths if present (avoid pathspec errors)
+          for p in \
+            .github/workflows/sync-rules.yml \
+            blank external rewrite rule script \
+            geo ruleset \
+            README.md README.zh-CN.md \
+            Readme.md Readme.zh-CN.md readme.md readme.zh-CN.md
+          do
+            if [ -e "$p" ]; then git add "$p"; fi
+          done
+
+          # If absolutely nothing staged, exit gracefully
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          # Extra guard: if none of the mirrored directories exist, treat as sync failure
+          if [ ! -d blank ] && [ ! -d external ] && [ ! -d rewrite ] && [ ! -d rule ] && [ ! -d script ] \
+             && [ ! -d geo ] && [ ! -d ruleset ]; then
+            echo "ERROR: no synced directories found. Aborting to avoid invalid commit." >&2
+            exit 2
+          fi
+
+          git commit -m "🔄 chore(sync) $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          git push -u origin "$NEW_BRANCH"
+
+          git fetch origin "$BRANCH" || true
+          git checkout "$BRANCH" || git switch -c "$BRANCH"
+          if git merge --ff-only "$NEW_BRANCH"; then
+            git push origin "$BRANCH"
+            git branch -D "$NEW_BRANCH" || true
+            git push origin --delete "$NEW_BRANCH" || true
+            echo "Merged into $BRANCH via fast-forward."
+          else
+            echo "Fast-forward merge failed (likely branch protection or conflicts)."
+            echo "Keeping temp branch '$NEW_BRANCH' pushed to origin for manual review."
+            exit 0
+          fi
