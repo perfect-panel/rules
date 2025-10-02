@@ -3,10 +3,10 @@
   "rules": [
     {
       "domain_suffix": [
-        "thetype.cloud",
-        "tvbc.com.cn",
         "etnet.com.cn",
         "etnetchina.com.cn",
+        "thetype.cloud",
+        "tvbc.com.cn",
         "cn-cdn1.skymansion.net"
       ]
     }
