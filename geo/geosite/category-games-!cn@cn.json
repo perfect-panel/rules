@@ -6,6 +6,7 @@
         "alibaba.cdn.steampipe.steamcontent.com",
         "lv.queniujq.cn",
         "xz.pphimalayanrt.com",
+        "uplaypc-s-ubisoft.cdn.ubi.com",
         "gog.qtlglb.com",
         "gogalaxy.gog-statics.com",
         "menu-static.gog-statics.com",
@@ -13,14 +14,10 @@
         "static-login.gog-statics.com",
         "www4-static.gog-statics.com",
         "gog-cdn-fastly.gog.com",
-        "gog-cdn.akamaized.net",
-        "uplaypc-s-ubisoft.cdn.ubi.com"
+        "gog-cdn.akamaized.net"
       ],
       "domain_suffix": [
-        "leagueoflegends.cn",
-        "lpl.com.cn",
         "xboxlive.cn",
-        "bluearchive-cn.com",
         "steamserver.net",
         "steamusercontent.com",
         "csgo.wmsj.cn",
@@ -35,6 +32,9 @@
         "steamstatic.com.8686c.com",
         "steamchina.com",
         "gstore.val.manlaxy.com",
+        "leagueoflegends.cn",
+        "lpl.com.cn",
+        "bluearchive-cn.com",
         "legendofzelda.cn",
         "legendofzelda.com.cn",
         "miitomo.com.cn",

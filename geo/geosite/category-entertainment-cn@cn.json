@@ -3,12 +3,6 @@
   "rules": [
     {
       "domain_suffix": [
-        "bilibiligame.cn",
-        "bilibiligame.co",
-        "bilibiligame.net",
-        "biligame.co",
-        "biligame.com",
-        "biligame.net",
         "kurogames.com",
         "aki-game.com",
         "mhystatic.com",
@@ -111,6 +105,12 @@
         "anticheatexpert.com",
         "17roco.com",
         "roco.qq.com",
+        "bilibiligame.cn",
+        "bilibiligame.co",
+        "bilibiligame.net",
+        "biligame.co",
+        "biligame.com",
+        "biligame.net",
         "sl916.com",
         "bilibiligame.cn",
         "bilibiligame.co",
