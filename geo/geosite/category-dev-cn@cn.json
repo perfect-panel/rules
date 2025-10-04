@@ -3,7 +3,6 @@
   "rules": [
     {
       "domain_suffix": [
-        "weui.io",
         "bisheng.cn",
         "bishengcompiler.cn",
         "devui.design",
@@ -26,7 +25,8 @@
         "mindspore.cn",
         "owsgo.com",
         "teleows.com",
-        "saasops.tech"
+        "saasops.tech",
+        "weui.io"
       ]
     }
   ]

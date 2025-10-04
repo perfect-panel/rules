@@ -3,11 +3,11 @@
   "rules": [
     {
       "domain_suffix": [
-        "tvbc.com.cn",
-        "cn-cdn1.skymansion.net",
+        "thetype.cloud",
         "etnet.com.cn",
         "etnetchina.com.cn",
-        "thetype.cloud"
+        "cn-cdn1.skymansion.net",
+        "tvbc.com.cn"
       ]
     }
   ]
