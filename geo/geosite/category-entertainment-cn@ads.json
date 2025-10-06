@@ -3,9 +3,9 @@
   "rules": [
     {
       "domain": [
-        "apilog-web.acfun.cn",
         "log-sdk.gifshow.com",
         "wlog.kuaishou.com",
+        "apilog-web.acfun.cn",
         "ads3-normal-hl.zijieapi.com",
         "ads5-normal-hl.zijieapi.com",
         "log3-applog-hl.fqnovel.com",
@@ -17,6 +17,19 @@
         "rtlog5-applog-hl.fqnovel.com"
       ],
       "domain_suffix": [
+        "adbkwai.com",
+        "adkwai.com",
+        "adukwai.com",
+        "e.kuaishou.cn",
+        "e.kuaishou.com",
+        "ads.service.kugou.com",
+        "adserviceretry.kglink.cn",
+        "adserviceretry.kugou.com",
+        "click.gamersky.com",
+        "ja.gamersky.com",
+        "ja1.gamersky.com",
+        "ja2.gamersky.com",
+        "wmbd.gamersky.com",
         "api.game.letvstore.com",
         "ark.letv.com",
         "dc.letv.com",
@@ -47,25 +60,12 @@
         "msg2.video.qiyi.com",
         "policy.video.iqiyi.com",
         "yuedu.iqiyi.com",
-        "ads.service.kugou.com",
-        "adserviceretry.kglink.cn",
-        "adserviceretry.kugou.com",
-        "click.gamersky.com",
-        "ja.gamersky.com",
-        "ja1.gamersky.com",
-        "ja2.gamersky.com",
-        "wmbd.gamersky.com",
         "click.hunantv.com",
         "da.hunantv.com",
         "da.mgtv.com",
         "log.hunantv.com",
         "log.v2.hunantv.com",
-        "res.hunantv.com",
-        "adbkwai.com",
-        "adkwai.com",
-        "adukwai.com",
-        "e.kuaishou.cn",
-        "e.kuaishou.com"
+        "res.hunantv.com"
       ]
     }
   ]
