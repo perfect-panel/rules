@@ -40,9 +40,9 @@
         "wscont1.apps.microsoft.com",
         "wscont2.apps.microsoft.com",
         "xb.dlservice.microsoft.com",
+        "www.microsoft.com",
         "bj1.api.bing.com",
-        "emoi-cncdn.bing.com",
-        "www.microsoft.com"
+        "emoi-cncdn.bing.com"
       ],
       "domain_suffix": [
         "dcg.microsoft.com",
@@ -82,16 +82,6 @@
         "sharepoint.cn",
         "dl.delivery.mp.microsoft.com",
         "download.windowsupdate.com",
-        "bing.com.cn",
-        "cn.bing.com",
-        "cn.bing.net",
-        "cn.mm.bing.net",
-        "ditu.live.com",
-        "r.bing.com",
-        "th.bing.com",
-        "microsoftreactor.cn",
-        "microsoftreactor.com.cn",
-        "reactorms.com.cn",
         "microsoftnews.cn",
         "msn.cn",
         "xboxlive.cn",
@@ -179,7 +169,17 @@
         "azure-dns-7.cn",
         "azure-dns-8.cn",
         "azure-dns-9.cn",
-        "azure-dns-10.cn"
+        "azure-dns-10.cn",
+        "bing.com.cn",
+        "cn.bing.com",
+        "cn.bing.net",
+        "cn.mm.bing.net",
+        "ditu.live.com",
+        "r.bing.com",
+        "th.bing.com",
+        "microsoftreactor.cn",
+        "microsoftreactor.com.cn",
+        "reactorms.com.cn"
       ]
     }
   ]
