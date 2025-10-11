@@ -9,14 +9,6 @@
         "biligame.co",
         "biligame.com",
         "biligame.net",
-        "bilibiligame.cn",
-        "bilibiligame.co",
-        "bilibiligame.net",
-        "biligame.co",
-        "biligame.com",
-        "biligame.net",
-        "kurogames.com",
-        "aki-game.com",
         "mhystatic.com",
         "mhyurl.cn",
         "mihayo.com",
@@ -33,6 +25,8 @@
         "yuanshen.com",
         "juequling.com",
         "sl916.com",
+        "kurogames.com",
+        "aki-game.com",
         "battlecare.net",
         "gameitop.com",
         "gameloop.com",
@@ -117,7 +111,13 @@
         "tcfmglobal.com",
         "anticheatexpert.com",
         "17roco.com",
-        "roco.qq.com"
+        "roco.qq.com",
+        "bilibiligame.cn",
+        "bilibiligame.co",
+        "bilibiligame.net",
+        "biligame.co",
+        "biligame.com",
+        "biligame.net"
       ],
       "domain_regex": "^.+-mihayo\\.akamaized\\.net$"
     }
