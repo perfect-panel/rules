@@ -3,13 +3,27 @@
   "rules": [
     {
       "domain": [
+        "sentry.hetzner.company",
         "analytics.google.com",
         "o33249.ingest.sentry.io",
         "openaicom.imgix.net",
-        "browser-intake-datadoghq.com",
-        "sentry.hetzner.company"
+        "browser-intake-datadoghq.com"
       ],
       "domain_suffix": [
+        "ads-api.duolingo.com",
+        "metrics.duolingo.com",
+        "analytics.vpc.duolingo.com",
+        "clarity.ms",
+        "nelreports.net",
+        "advertising.adobe.com",
+        "tubemogul.com",
+        "amazon-adsystem.com",
+        "serving-sys.com",
+        "snapads.com",
+        "graph.instagram.com",
+        "graph-fallback.instagram.com",
+        "graph.whatsapp.com",
+        "graph.whatsapp.net",
         "2mdn-cn.net",
         "2mdn.net",
         "admob-cn.com",
@@ -53,31 +67,17 @@
         "mail-ads.google.com",
         "marketingplatform.google.com",
         "urchin.com",
-        "ads-api.duolingo.com",
-        "metrics.duolingo.com",
-        "analytics.vpc.duolingo.com",
-        "graph.whatsapp.com",
-        "graph.whatsapp.net",
-        "graph.instagram.com",
-        "graph-fallback.instagram.com",
+        "samsungads.com",
         "api-adservices.apple.com",
         "iadsdk.apple.com",
         "iad.apple.com",
         "qwapi.com",
-        "samsungads.com",
-        "advertising.adobe.com",
-        "tubemogul.com",
         "ads.yahoo.com",
         "gemini.yahoo.com",
         "ysm.yahoo.com",
-        "clarity.ms",
-        "nelreports.net",
         "ads.yahoo.com",
         "gemini.yahoo.com",
-        "ysm.yahoo.com",
-        "snapads.com",
-        "amazon-adsystem.com",
-        "serving-sys.com"
+        "ysm.yahoo.com"
       ],
       "domain_regex": "^adservice\\.google\\.([a-z]{2}|com?)(\\.[a-z]{2})?$"
     }
