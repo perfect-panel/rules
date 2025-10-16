@@ -11,15 +11,14 @@
         "www4-static.gog-statics.com",
         "gog-cdn-fastly.gog.com",
         "gog-cdn.akamaized.net",
+        "uplaypc-s-ubisoft.cdn.ubi.com",
         "alibaba.cdn.steampipe.steamcontent.com",
         "lv.queniujq.cn",
-        "xz.pphimalayanrt.com",
-        "uplaypc-s-ubisoft.cdn.ubi.com"
+        "xz.pphimalayanrt.com"
       ],
       "domain_suffix": [
         "leagueoflegends.cn",
         "lpl.com.cn",
-        "bluearchive-cn.com",
         "legendofzelda.cn",
         "legendofzelda.com.cn",
         "miitomo.com.cn",
@@ -32,6 +31,7 @@
         "mariokart.cn",
         "mariokart.com.cn",
         "supermariobros.com.cn",
+        "bluearchive-cn.com",
         "steamserver.net",
         "steamusercontent.com",
         "csgo.wmsj.cn",
