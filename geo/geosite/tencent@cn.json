@@ -3,7 +3,6 @@
   "rules": [
     {
       "domain_suffix": [
-        "weui.io",
         "battlecare.net",
         "gameitop.com",
         "gameloop.com",
@@ -88,7 +87,8 @@
         "tcfmglobal.com",
         "anticheatexpert.com",
         "17roco.com",
-        "roco.qq.com"
+        "roco.qq.com",
+        "weui.io"
       ]
     }
   ]

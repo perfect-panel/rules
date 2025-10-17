@@ -4,11 +4,11 @@
     {
       "domain": "upos-hz-mirrorakam.akamaized.net",
       "domain_suffix": [
-        "supercell.com",
         "bilibili.tv",
         "biliintl.com",
         "dreamcast.hk",
-        "iq.com"
+        "iq.com",
+        "supercell.com"
       ]
     }
   ]
