@@ -2,6 +2,7 @@
   "version": 2,
   "rules": [
     {
+      "domain": "yt3.googleusercontent.com",
       "domain_suffix": [
         "youtube",
         "youtube.ru",

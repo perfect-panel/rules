@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "pddcdn.com",
         "pddpic.com",
         "pinduoduo.com",
         "pinduoduo.net",

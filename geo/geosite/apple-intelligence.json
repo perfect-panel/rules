@@ -3,9 +3,10 @@
   "rules": [
     {
       "domain": [
-        "apple-relay.mask.apple-dns.net",
         "apple-relay.apple.com",
-        "apple-relay.cloudflare.com"
+        "apple-relay.cloudflare.com",
+        "apple-relay.fastly-edge.com",
+        "apple-relay.mask.apple-dns.net"
       ]
     }
   ]
