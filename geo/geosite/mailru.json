@@ -3,9 +3,13 @@
   "rules": [
     {
       "domain_suffix": [
+        "boosty.to",
+        "donationalerts.com",
         "imgsmail.ru",
         "mail.ru",
-        "mycdn.me"
+        "memealerts.com",
+        "mycdn.me",
+        "okcdn.ru"
       ]
     }
   ]
