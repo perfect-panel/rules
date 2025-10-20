@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "x315.com",
         "qcc.com",
         "qichacha.com",
         "qichamao.com",
@@ -10,9 +11,8 @@
         "qyyjt.cn",
         "jindidata.com",
         "tianyancha.com",
-        "x315.com",
-        "hongdunwang.com.cn",
-        "aiqicha.baidu.com"
+        "aiqicha.baidu.com",
+        "hongdunwang.com.cn"
       ]
     }
   ]
