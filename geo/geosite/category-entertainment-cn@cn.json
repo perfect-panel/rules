@@ -9,6 +9,12 @@
         "biligame.co",
         "biligame.com",
         "biligame.net",
+        "bilibiligame.cn",
+        "bilibiligame.co",
+        "bilibiligame.net",
+        "biligame.co",
+        "biligame.com",
+        "biligame.net",
         "mhystatic.com",
         "mhyurl.cn",
         "mihayo.com",
@@ -111,13 +117,7 @@
         "roco.qq.com",
         "sl916.com",
         "kurogames.com",
-        "aki-game.com",
-        "bilibiligame.cn",
-        "bilibiligame.co",
-        "bilibiligame.net",
-        "biligame.co",
-        "biligame.com",
-        "biligame.net"
+        "aki-game.com"
       ],
       "domain_regex": "^.+-mihayo\\.akamaized\\.net$"
     }
