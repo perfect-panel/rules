@@ -280,6 +280,12 @@
         "icloud.com.cn",
         "icloud.net.cn",
         "icloudapple.cn",
+        "swiftui.cn",
+        "swiftui.com.cn",
+        "researchkit.cn",
+        "researchkit.com.cn",
+        "swiftui.cn",
+        "swiftui.com.cn",
         "beats1.cn",
         "beats1.com.cn",
         "beats2.com.cn",
@@ -291,13 +297,7 @@
         "itunes-apple.cn",
         "itunesapple.cn",
         "itunesradio.cn",
-        "itunesradio.com.cn",
-        "swiftui.cn",
-        "swiftui.com.cn",
-        "researchkit.cn",
-        "researchkit.com.cn",
-        "swiftui.cn",
-        "swiftui.com.cn"
+        "itunesradio.com.cn"
       ]
     }
   ]

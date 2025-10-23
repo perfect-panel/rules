@@ -3,34 +3,26 @@
   "rules": [
     {
       "domain": [
+        "sentry.hetzner.company",
+        "analytics.google.com",
         "o33249.ingest.sentry.io",
         "openaicom.imgix.net",
-        "browser-intake-datadoghq.com",
-        "sentry.hetzner.company",
-        "analytics.google.com"
+        "browser-intake-datadoghq.com"
       ],
       "domain_suffix": [
-        "advertising.adobe.com",
-        "tubemogul.com",
-        "amazon-adsystem.com",
-        "serving-sys.com",
         "graph.instagram.com",
         "graph-fallback.instagram.com",
         "graph.whatsapp.com",
         "graph.whatsapp.net",
-        "samsungads.com",
-        "ads-api.duolingo.com",
-        "metrics.duolingo.com",
-        "analytics.vpc.duolingo.com",
+        "clarity.ms",
+        "nelreports.net",
         "ads.yahoo.com",
         "gemini.yahoo.com",
         "ysm.yahoo.com",
-        "api-adservices.apple.com",
-        "iadsdk.apple.com",
-        "iad.apple.com",
-        "qwapi.com",
-        "clarity.ms",
-        "nelreports.net",
+        "advertising.adobe.com",
+        "tubemogul.com",
+        "amazon-adsystem.com",
+        "serving-sys.com",
         "2mdn-cn.net",
         "2mdn.net",
         "admob-cn.com",
@@ -77,7 +69,15 @@
         "snapads.com",
         "ads.yahoo.com",
         "gemini.yahoo.com",
-        "ysm.yahoo.com"
+        "ysm.yahoo.com",
+        "api-adservices.apple.com",
+        "iadsdk.apple.com",
+        "iad.apple.com",
+        "qwapi.com",
+        "ads-api.duolingo.com",
+        "metrics.duolingo.com",
+        "analytics.vpc.duolingo.com",
+        "samsungads.com"
       ],
       "domain_regex": "^adservice\\.google\\.([a-z]{2}|com?)(\\.[a-z]{2})?$"
     }
