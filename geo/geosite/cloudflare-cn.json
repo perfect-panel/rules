@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "cf-china.info",
         "cf-ns.com",
         "cf-ns.net",
         "cf-ns.site",

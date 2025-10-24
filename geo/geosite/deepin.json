@@ -3,12 +3,21 @@
   "rules": [
     {
       "domain_suffix": [
-        "deepin.cn",
+        "91changxie.com",
         "deepin.com",
-        "deepin.io",
-        "deepin.org",
+        "sndu.cn",
+        "51changxie.com",
+        "51jianxie.cn",
+        "deepin.cn",
+        "changxie.com",
         "chinauos.com",
-        "uniontech.com"
+        "linglong.space",
+        "uniontech.cn",
+        "uniontech.com",
+        "deepin.org.cn",
+        "linyaps.org.cn",
+        "deepin.io",
+        "deepin.org"
       ]
     }
   ]
