@@ -5,7 +5,7 @@
       "domain_suffix": [
         "chrome",
         "librewolf.net",
-        "epicbrowser.com",
+        "torproject.org",
         "kmeleonbrowser.org",
         "brave.com",
         "bromite.org",
@@ -26,10 +26,10 @@
         "qutebrowser.org",
         "vivaldi.com",
         "minbrowser.org",
+        "censorship.no",
+        "epicbrowser.com",
         "firefox.com",
         "firefoxusercontent.com",
-        "torproject.org",
-        "censorship.no",
         "browser.kagi.com"
       ]
     }
