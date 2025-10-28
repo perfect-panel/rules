@@ -3,6 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
+        "kurogames.com",
+        "aki-game.com",
         "bilibiligame.cn",
         "bilibiligame.co",
         "bilibiligame.net",
@@ -10,8 +12,6 @@
         "biligame.com",
         "biligame.net",
         "sl916.com",
-        "kurogames.com",
-        "aki-game.com",
         "mhystatic.com",
         "mhyurl.cn",
         "mihayo.com",

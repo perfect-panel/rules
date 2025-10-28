@@ -27,19 +27,19 @@
       "domain_suffix": [
         "yahoo.cn",
         "yahoo.com.cn",
+        "dcocsp.cn",
+        "digicert.cn",
         "sslcom.cn",
-        "oemssl.cn",
-        "oemssl.cn.cdn.cloudflare.net",
-        "sectigochina.com",
-        "sectigochina.com.cdn.cloudflare.net",
-        "trust-provider.cn",
         "alphassl.com",
         "easy-signing.com",
         "globalsign.cn",
         "globalsign.com",
         "globalsigncdn.com",
-        "dcocsp.cn",
-        "digicert.cn"
+        "oemssl.cn",
+        "oemssl.cn.cdn.cloudflare.net",
+        "sectigochina.com",
+        "sectigochina.com.cdn.cloudflare.net",
+        "trust-provider.cn"
       ]
     }
   ]
