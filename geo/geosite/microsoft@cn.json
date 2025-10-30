@@ -75,8 +75,6 @@
         "sharepoint.cn",
         "dl.delivery.mp.microsoft.com",
         "download.windowsupdate.com",
-        "microsoftnews.cn",
-        "msn.cn",
         "xboxlive.cn",
         "21vbc.com",
         "21vbluecloud.com",
@@ -172,7 +170,9 @@
         "th.bing.com",
         "microsoftreactor.cn",
         "microsoftreactor.com.cn",
-        "reactorms.com.cn"
+        "reactorms.com.cn",
+        "microsoftnews.cn",
+        "msn.cn"
       ]
     }
   ]
