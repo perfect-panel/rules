@@ -9,8 +9,8 @@
       "domain_suffix": [
         "lfai.foundation",
         "linuxfoundation.org",
-        "linux.org",
         "openjsf.org",
+        "mochajs.org",
         "nodejs.org",
         "amp.dev",
         "ampproject.com",
@@ -20,8 +20,8 @@
         "jquery.com",
         "jquerymobile.com",
         "jqueryui.com",
-        "mochajs.org",
-        "kernel.org"
+        "kernel.org",
+        "linux.org"
       ]
     }
   ]

@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain": [
+        "csis-prod.s3.amazonaws.com",
         "a.ppy.sh",
         "assets.ppy.sh",
         "c.ppy.sh",
@@ -11,8 +12,7 @@
         "lazer.ppy.sh",
         "notify.ppy.sh",
         "sentry.ppy.sh",
-        "spectator.ppy.sh",
-        "csis-prod.s3.amazonaws.com"
+        "spectator.ppy.sh"
       ],
       "domain_suffix": [
         "aomedia.org",
@@ -29,18 +29,6 @@
         "who.int",
         "wi-fi.org",
         "wto.org",
-        "archive-it.org",
-        "archive.md",
-        "archive.org",
-        "archive.ph",
-        "archive.today",
-        "openlibrary.org",
-        "4pcdn.org",
-        "4plebs.org",
-        "emojipedia.org",
-        "worldemojiawards.com",
-        "worldemojiday.com",
-        "xn--yt8h.la",
         "acousticbrainz.org",
         "bookbrainz.org",
         "coverartarchive.org",
@@ -58,14 +46,23 @@
         "osmfoundation.org",
         "stateofthemap.com",
         "stateofthemap.org",
-        "ppy.sh",
-        "rolfoundation.org",
-        "rolsociety.org",
+        "paskoocheh.com",
+        "archive-it.org",
+        "archive.md",
+        "archive.org",
+        "archive.ph",
+        "archive.today",
+        "openlibrary.org",
+        "4pcdn.org",
+        "4plebs.org",
         "ccstatic.org",
         "creativecommons.org",
         "creativecommons.engineering",
         "licensebuttons.net",
-        "csis.org",
+        "emojipedia.org",
+        "worldemojiawards.com",
+        "worldemojiday.com",
+        "xn--yt8h.la",
         "f-dro1d.org",
         "f-droid.com",
         "f-droid.org",
@@ -124,9 +121,12 @@
         "signalprocessingsociety.org",
         "technologyandsociety.org",
         "vtsociety.org",
+        "csis.org",
         "nist.gov",
         "time.gov",
-        "paskoocheh.com"
+        "ppy.sh",
+        "rolfoundation.org",
+        "rolsociety.org"
       ]
     }
   ]
