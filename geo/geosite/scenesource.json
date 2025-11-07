@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "predb.me",
         "scenesource.me",
         "scnsrc.me"
       ]
