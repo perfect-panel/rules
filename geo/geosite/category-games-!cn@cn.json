@@ -33,7 +33,6 @@
         "steamstatic.com.8686c.com",
         "steamchina.com",
         "gstore.val.manlaxy.com",
-        "bluearchive-cn.com",
         "xboxlive.cn",
         "legendofzelda.cn",
         "legendofzelda.com.cn",
@@ -46,7 +45,8 @@
         "xn--mts47c3w9b1qr.cn",
         "mariokart.cn",
         "mariokart.com.cn",
-        "supermariobros.com.cn"
+        "supermariobros.com.cn",
+        "bluearchive-cn.com"
       ],
       "domain_regex": [
         "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$",
