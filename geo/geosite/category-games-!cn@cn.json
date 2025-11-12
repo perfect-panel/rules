@@ -17,8 +17,7 @@
         "gog-cdn.akamaized.net"
       ],
       "domain_suffix": [
-        "leagueoflegends.cn",
-        "lpl.com.cn",
+        "xboxlive.cn",
         "steamserver.net",
         "steamusercontent.com",
         "csgo.wmsj.cn",
@@ -33,7 +32,9 @@
         "steamstatic.com.8686c.com",
         "steamchina.com",
         "gstore.val.manlaxy.com",
-        "xboxlive.cn",
+        "leagueoflegends.cn",
+        "lpl.com.cn",
+        "bluearchive-cn.com",
         "legendofzelda.cn",
         "legendofzelda.com.cn",
         "miitomo.com.cn",
@@ -45,8 +46,7 @@
         "xn--mts47c3w9b1qr.cn",
         "mariokart.cn",
         "mariokart.com.cn",
-        "supermariobros.com.cn",
-        "bluearchive-cn.com"
+        "supermariobros.com.cn"
       ],
       "domain_regex": [
         "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$",
