@@ -3,20 +3,20 @@
   "rules": [
     {
       "domain": [
-        "sentry.hetzner.company",
         "analytics.google.com",
-        "o33249.ingest.sentry.io",
-        "openaicom.imgix.net",
-        "browser-intake-datadoghq.com"
+        "sentry.hetzner.company"
       ],
       "domain_suffix": [
         "samsungads.com",
+        "amazon-adsystem.com",
+        "serving-sys.com",
+        "snapads.com",
         "ads.yahoo.com",
         "gemini.yahoo.com",
         "ysm.yahoo.com",
-        "ads.yahoo.com",
-        "gemini.yahoo.com",
-        "ysm.yahoo.com",
+        "ads-api.duolingo.com",
+        "metrics.duolingo.com",
+        "analytics.vpc.duolingo.com",
         "2mdn-cn.net",
         "2mdn.net",
         "admob-cn.com",
@@ -60,24 +60,21 @@
         "mail-ads.google.com",
         "marketingplatform.google.com",
         "urchin.com",
+        "clarity.ms",
+        "nelreports.net",
+        "graph.whatsapp.com",
+        "graph.whatsapp.net",
+        "graph.instagram.com",
+        "graph-fallback.instagram.com",
+        "ads.yahoo.com",
+        "gemini.yahoo.com",
+        "ysm.yahoo.com",
         "advertising.adobe.com",
         "tubemogul.com",
-        "ads-api.duolingo.com",
-        "metrics.duolingo.com",
-        "analytics.vpc.duolingo.com",
-        "snapads.com",
         "api-adservices.apple.com",
         "iadsdk.apple.com",
         "iad.apple.com",
-        "qwapi.com",
-        "clarity.ms",
-        "nelreports.net",
-        "amazon-adsystem.com",
-        "serving-sys.com",
-        "graph.instagram.com",
-        "graph-fallback.instagram.com",
-        "graph.whatsapp.com",
-        "graph.whatsapp.net"
+        "qwapi.com"
       ],
       "domain_regex": "^adservice\\.google\\.([a-z]{2}|com?)(\\.[a-z]{2})?$"
     }
