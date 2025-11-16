@@ -3,8 +3,7 @@
   "rules": [
     {
       "domain": [
-        "log-sdk.gifshow.com",
-        "wlog.kuaishou.com",
+        "apilog-web.acfun.cn",
         "ads3-normal-hl.zijieapi.com",
         "ads5-normal-hl.zijieapi.com",
         "log3-applog-hl.fqnovel.com",
@@ -14,7 +13,8 @@
         "p9-ad-sign.byteimg.com",
         "rtlog3-applog-hl.fqnovel.com",
         "rtlog5-applog-hl.fqnovel.com",
-        "apilog-web.acfun.cn"
+        "log-sdk.gifshow.com",
+        "wlog.kuaishou.com"
       ],
       "domain_suffix": [
         "click.hunantv.com",
@@ -39,11 +39,6 @@
         "pro.letv.com",
         "stat.letv.com",
         "static.app.m.letv.com",
-        "adbkwai.com",
-        "adkwai.com",
-        "adukwai.com",
-        "e.kuaishou.cn",
-        "e.kuaishou.com",
         "click.gamersky.com",
         "ja.gamersky.com",
         "ja1.gamersky.com",
@@ -65,7 +60,12 @@
         "msg.video.qiyi.com",
         "msg2.video.qiyi.com",
         "policy.video.iqiyi.com",
-        "yuedu.iqiyi.com"
+        "yuedu.iqiyi.com",
+        "adbkwai.com",
+        "adkwai.com",
+        "adukwai.com",
+        "e.kuaishou.cn",
+        "e.kuaishou.com"
       ]
     }
   ]
