@@ -41,8 +41,7 @@
         "creativecommons.org",
         "creativecommons.engineering",
         "licensebuttons.net",
-        "nist.gov",
-        "time.gov",
+        "csis.org",
         "openmaps.org",
         "openstreetmap.com",
         "openstreetmap.net",
@@ -52,8 +51,9 @@
         "osmfoundation.org",
         "stateofthemap.com",
         "stateofthemap.org",
-        "paskoocheh.com",
-        "csis.org",
+        "ppy.sh",
+        "rolfoundation.org",
+        "rolsociety.org",
         "emojipedia.org",
         "worldemojiawards.com",
         "worldemojiday.com",
@@ -124,9 +124,9 @@
         "messybrainz.org",
         "metabrainz.org",
         "musicbrainz.org",
-        "ppy.sh",
-        "rolfoundation.org",
-        "rolsociety.org"
+        "nist.gov",
+        "time.gov",
+        "paskoocheh.com"
       ]
     }
   ]
