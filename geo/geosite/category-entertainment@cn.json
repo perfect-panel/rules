@@ -6,7 +6,6 @@
         "alibaba.cdn.steampipe.steamcontent.com",
         "lv.queniujq.cn",
         "xz.pphimalayanrt.com",
-        "uplaypc-s-ubisoft.cdn.ubi.com",
         "gog.qtlglb.com",
         "gogalaxy.gog-statics.com",
         "menu-static.gog-statics.com",
@@ -14,7 +13,8 @@
         "static-login.gog-statics.com",
         "www4-static.gog-statics.com",
         "gog-cdn-fastly.gog.com",
-        "gog-cdn.akamaized.net"
+        "gog-cdn.akamaized.net",
+        "uplaypc-s-ubisoft.cdn.ubi.com"
       ],
       "domain_suffix": [
         "amazonprimevideo.cn",
@@ -34,10 +34,6 @@
         "steamstatic.com.8686c.com",
         "steamchina.com",
         "gstore.val.manlaxy.com",
-        "xboxlive.cn",
-        "bluearchive-cn.com",
-        "leagueoflegends.cn",
-        "lpl.com.cn",
         "legendofzelda.cn",
         "legendofzelda.com.cn",
         "miitomo.com.cn",
@@ -49,7 +45,11 @@
         "xn--mts47c3w9b1qr.cn",
         "mariokart.cn",
         "mariokart.com.cn",
-        "supermariobros.com.cn"
+        "supermariobros.com.cn",
+        "xboxlive.cn",
+        "bluearchive-cn.com",
+        "leagueoflegends.cn",
+        "lpl.com.cn"
       ],
       "domain_regex": [
         "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$",
