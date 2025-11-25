@@ -3,7 +3,6 @@
   "rules": [
     {
       "domain": [
-        "kc.kexinshe.com",
         "ntp.aliyun.com",
         "ntp1.aliyun.com",
         "ntp2.aliyun.com",
@@ -20,11 +19,15 @@
         "ntp2.tencent.com",
         "ntp3.tencent.com",
         "ntp4.tencent.com",
-        "ntp5.tencent.com"
+        "ntp5.tencent.com",
+        "kc.kexinshe.com"
       ],
       "domain_suffix": [
-        "kurogames.com",
-        "aki-game.com",
+        "weui.io",
+        "cn.pool.ntp.org",
+        "ntp.neu.edu.cn",
+        "ntp.ntsc.ac.cn",
+        "ntp.org.cn",
         "cf-china.info",
         "cf-ns.com",
         "cf-ns.net",
@@ -44,11 +47,6 @@
         "cloudflareprod.com",
         "cloudflarestaging.com",
         "cloudflarestoragegw.com",
-        "cn.pool.ntp.org",
-        "ntp.neu.edu.cn",
-        "ntp.ntsc.ac.cn",
-        "ntp.org.cn",
-        "weui.io",
         "a2z.org.cn",
         "amazonaws.cn",
         "amazonaws.com.cn",
@@ -74,6 +72,8 @@
         "amzndns-cn.cn",
         "amzndns-cn.com",
         "amzndns-cn.net",
+        "kurogames.com",
+        "aki-game.com",
         "bisheng.cn",
         "bishengcompiler.cn",
         "devui.design",
@@ -97,6 +97,7 @@
         "owsgo.com",
         "teleows.com",
         "saasops.tech",
+        "weui.io",
         "bisheng.cn",
         "bishengcompiler.cn",
         "devui.design",
@@ -119,13 +120,12 @@
         "mindspore.cn",
         "owsgo.com",
         "teleows.com",
-        "saasops.tech",
-        "weui.io"
+        "saasops.tech"
       ],
       "domain_regex": [
-        "^.+-mihayo\\.akamaized\\.net$",
         ".+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top)$",
-        ".+\\.awsdns-cn-[0-9][a-e0-9]\\.cn$"
+        ".+\\.awsdns-cn-[0-9][a-e0-9]\\.cn$",
+        "^.+-mihayo\\.akamaized\\.net$"
       ]
     }
   ]
