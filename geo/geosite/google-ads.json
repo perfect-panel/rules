@@ -2,7 +2,10 @@
   "version": 2,
   "rules": [
     {
-      "domain": "analytics.google.com",
+      "domain": [
+        "analytics.google.com",
+        "fundingchoicesmessages.google.com"
+      ],
       "domain_suffix": [
         "2mdn-cn.net",
         "2mdn.net",
@@ -18,6 +21,8 @@
         "adwords-community.com",
         "adwords.com",
         "adwordsexpress.com",
+        "app-analytics-services.com",
+        "app-analytics-services-att.com",
         "app-measurement-cn.com",
         "app-measurement.com",
         "doubleclick-cn.net",
@@ -27,6 +32,7 @@
         "google-analytics-cn.com",
         "google-analytics.com",
         "googleadapis.com",
+        "googleadapis.l.google.com",
         "googleads-cn.com",
         "googleads.com",
         "googleadservices-cn.com",
@@ -45,7 +51,10 @@
         "googletraveladservices.com",
         "googlevads-cn.com",
         "mail-ads.google.com",
+        "mobileads.google.com",
         "marketingplatform.google.com",
+        "pagead.l.google.com",
+        "partnerad.l.google.com",
         "urchin.com"
       ],
       "domain_regex": "^adservice\\.google\\.([a-z]{2}|com?)(\\.[a-z]{2})?$"

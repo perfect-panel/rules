@@ -2,7 +2,10 @@
   "version": 2,
   "rules": [
     {
-      "domain_suffix": "sentry.io"
+      "domain_suffix": [
+        "sentry.io",
+        "sentry-cdn.com"
+      ]
     }
   ]
 }
