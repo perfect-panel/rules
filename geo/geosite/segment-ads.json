@@ -2,7 +2,12 @@
   "version": 2,
   "rules": [
     {
-      "domain_suffix": "cdn.segment.com"
+      "domain_suffix": [
+        "segment.com",
+        "segment.io",
+        "segmenthub.com",
+        "segmentify.com"
+      ]
     }
   ]
 }
