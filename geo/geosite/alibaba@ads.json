@@ -3,10 +3,6 @@
   "rules": [
     {
       "domain_suffix": [
-        "alog.umeng.com",
-        "alog.umengcloud.com",
-        "w.cnzz.com",
-        "z.gds.cnzz.com",
         "a.alimama.cn",
         "acjs.aliyun.com",
         "adash-c.m.taobao.com",
@@ -69,7 +65,11 @@
         "statis.api.3g.youku.com",
         "v6-adashx.ut.youku.com",
         "yk-ssp.ad.youku.com",
-        "ykad-data.youku.com"
+        "ykad-data.youku.com",
+        "alog.umeng.com",
+        "alog.umengcloud.com",
+        "w.cnzz.com",
+        "z.gds.cnzz.com"
       ]
     }
   ]
