@@ -3,11 +3,16 @@
   "rules": [
     {
       "domain_suffix": [
-        "cn",
-        "citic",
+        "alibaba",
+        "alipay",
         "baidu",
-        "unicom",
+        "citic",
+        "cn",
+        "icbc",
         "sohu",
+        "taobao",
+        "tmall",
+        "unicom",
         "xn--fiqs8s",
         "xn--fiqz9s",
         "xn--zfr164b",

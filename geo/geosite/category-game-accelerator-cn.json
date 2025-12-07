@@ -3,12 +3,13 @@
   "rules": [
     {
       "domain_suffix": [
+        "htjsq.mobi",
+        "ccspeed.cn",
+        "qiyou.cn",
         "htjsq.com",
         "xunyou.com",
-        "guaiku.com",
-        "htjsq.mobi",
         "bohejiasuqi.com",
-        "fhyx.com",
+        "guaiku.com",
         "golink.com",
         "golinkapi.com",
         "golinkcn.com",
@@ -18,16 +19,16 @@
         "benfuip.com",
         "funjsq.com",
         "biubiu001.com",
-        "qiyou.cn",
-        "et-api.com",
         "tmjiasuqi.com",
+        "et-api.com",
         "leigod.com",
+        "fhyx.com",
         "akspeedy.com",
         "yebaojiasu.com",
         "liuxing.com",
         "lxjiasu.com",
         "ggkuai.com",
-        "ccspeed.cn",
+        "leigod.cn",
         "yuelun.com",
         "gijsq.com",
         "kk1.vip",
@@ -36,8 +37,8 @@
         "lorhf.com",
         "oojsq.com",
         "et001.com",
-        "jiasu.bohe.com",
-        "uu.163.com"
+        "uu.163.com",
+        "jiasu.bohe.com"
       ]
     }
   ]

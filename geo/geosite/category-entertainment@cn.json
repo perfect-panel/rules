@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain": [
+        "uplaypc-s-ubisoft.cdn.ubi.com",
         "gog.qtlglb.com",
         "gogalaxy.gog-statics.com",
         "menu-static.gog-statics.com",
@@ -13,13 +14,10 @@
         "gog-cdn.akamaized.net",
         "alibaba.cdn.steampipe.steamcontent.com",
         "lv.queniujq.cn",
-        "xz.pphimalayanrt.com",
-        "uplaypc-s-ubisoft.cdn.ubi.com"
+        "xz.pphimalayanrt.com"
       ],
       "domain_suffix": [
-        "ggpht.cn",
-        "amazonprimevideo.cn",
-        "amazonprimevideo.com.cn",
+        "bluearchive-cn.com",
         "xboxlive.cn",
         "legendofzelda.cn",
         "legendofzelda.com.cn",
@@ -47,16 +45,18 @@
         "steamstatic.com.8686c.com",
         "steamchina.com",
         "gstore.val.manlaxy.com",
-        "bluearchive-cn.com",
         "leagueoflegends.cn",
-        "lpl.com.cn"
+        "lpl.com.cn",
+        "ggpht.cn",
+        "amazonprimevideo.cn",
+        "amazonprimevideo.com.cn"
       ],
       "domain_regex": [
+        "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$",
+        "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$",
         "^cdn-akamai-.+\\.gog-services\\.com$",
         "^gog-cdn-.+\\.footprint\\.net$",
-        "^images(-\\d)?\\.gog-statics\\.com$",
-        "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$",
-        "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$"
+        "^images(-\\d)?\\.gog-statics\\.com$"
       ]
     }
   ]
