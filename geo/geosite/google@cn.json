@@ -146,14 +146,14 @@
         "www.pxcc.com",
         "xn--flw351e.com",
         "redirector.c.play.google.com",
-        "firebase-settings.crashlytics.com",
         "pki-goog.l.google.com",
         "c.pki.goog",
         "i.pki.goog",
         "o.pki.goog",
         "crl.pki.goog",
         "crls.pki.goog",
-        "ocsp.pki.goog"
+        "ocsp.pki.goog",
+        "firebase-settings.crashlytics.com"
       ],
       "domain_suffix": [
         "google.cn",
