@@ -17,8 +17,6 @@
         "gog-cdn.akamaized.net"
       ],
       "domain_suffix": [
-        "amazonprimevideo.cn",
-        "amazonprimevideo.com.cn",
         "legendofzelda.cn",
         "legendofzelda.com.cn",
         "miitomo.com.cn",
@@ -31,6 +29,7 @@
         "mariokart.cn",
         "mariokart.com.cn",
         "supermariobros.com.cn",
+        "xboxlive.cn",
         "steamserver.net",
         "steamusercontent.com",
         "csgo.wmsj.cn",
@@ -45,10 +44,11 @@
         "steamstatic.com.8686c.com",
         "steamchina.com",
         "gstore.val.manlaxy.com",
-        "xboxlive.cn",
-        "bluearchive-cn.com",
         "leagueoflegends.cn",
         "lpl.com.cn",
+        "bluearchive-cn.com",
+        "amazonprimevideo.cn",
+        "amazonprimevideo.com.cn",
         "ggpht.cn"
       ],
       "domain_regex": [
