@@ -3,6 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
+        "crash2.zhihu.com",
+        "zhihu-web-analytics.zhihu.com",
         "ad.sina.com.cn",
         "ad.us.sinaimg.cn",
         "adbox.sina.com.cn",

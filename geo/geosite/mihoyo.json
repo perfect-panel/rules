@@ -25,7 +25,9 @@
         "bhsr.com",
         "themisweeps.com",
         "yuanshen.com",
-        "juequling.com"
+        "juequling.com",
+        "log-upload-os.hoyoverse.com",
+        "log-upload.mihoyo.com"
       ],
       "domain_regex": "^.+-mihayo\\.akamaized\\.net$"
     }

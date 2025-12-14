@@ -3,8 +3,10 @@
   "rules": [
     {
       "domain_suffix": [
+        "aaid.umeng.com",
         "alog.umeng.com",
         "alog.umengcloud.com",
+        "utoken.umeng.com",
         "w.cnzz.com",
         "z.gds.cnzz.com"
       ]
