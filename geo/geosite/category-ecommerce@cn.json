@@ -3,12 +3,17 @@
   "rules": [
     {
       "domain_suffix": [
-        "bestbuy.cn",
-        "bestbuy.com.cn",
-        "magnoliaav.com.cn",
+        "ikea.cn",
+        "ingka-dt.cn",
+        "ingka-internal.cn",
+        "ingka-system.cn",
+        "muji.com.cn",
         "shopee.cn",
         "shopeesz.com",
-        "muji.com.cn",
+        "booking.cn",
+        "miniso.cn",
+        "minisohome.cn",
+        "minsio.cn",
         "hm.com.cn",
         "just-do-it.cn",
         "nike-shox.cn",
@@ -30,19 +35,15 @@
         "nikerunclub.com.cn",
         "nikerunning.com.cn",
         "nikestore.cn",
+        "bestbuy.cn",
+        "bestbuy.com.cn",
+        "magnoliaav.com.cn",
         "gucci.cn",
+        "adidas.com.cn",
         "farfetch.cn",
         "farfetch.com.cn",
         "farfetch.net.cn",
-        "miniso.cn",
-        "minisohome.cn",
-        "minsio.cn",
         "walmart.cn",
-        "adidas.com.cn",
-        "ikea.cn",
-        "ingka-dt.cn",
-        "ingka-internal.cn",
-        "ingka-system.cn",
         "adcommerce.cn",
         "appforebay.cn",
         "connectcommerce.cn",
@@ -79,8 +80,7 @@
         "kijijidns.cn",
         "kijijidns.com.cn",
         "mobileinternational.com.cn",
-        "terapeak.cn",
-        "booking.cn"
+        "terapeak.cn"
       ]
     }
   ]

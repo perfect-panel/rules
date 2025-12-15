@@ -5,10 +5,10 @@
       "domain": "upos-hz-mirrorakam.akamaized.net",
       "domain_suffix": [
         "iq.com",
-        "taptap.io",
         "bilibili.tv",
         "biliintl.com",
-        "dreamcast.hk"
+        "dreamcast.hk",
+        "taptap.io"
       ]
     }
   ]
