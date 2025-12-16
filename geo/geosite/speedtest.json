@@ -14,7 +14,8 @@
         "speedtest.co",
         "speedtest.net",
         "speedtestcustom.com",
-        "webtest.net"
+        "webtest.net",
+        "ookla-speedtest-central.hgconair.hgc.com.hk"
       ],
       "domain_regex": "^speed\\.(coe|open)\\.ad\\.[a-z]{2,6}\\.prod\\.hosts\\.ooklaserver\\.net$"
     }
