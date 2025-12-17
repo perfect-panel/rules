@@ -2,11 +2,11 @@
   "version": 2,
   "rules": [
     {
-      "domain_suffix": [
-        "collector.xhamster.com",
+      "domain": [
         "ad-channel.diwodiwo.xyz",
         "ad-display.diwodiwo.xyz"
-      ]
+      ],
+      "domain_suffix": "collector.xhamster.com"
     }
   ]
 }

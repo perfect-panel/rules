@@ -2,10 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "domain": [
-        "analytics.google.com",
-        "fundingchoicesmessages.google.com"
-      ],
+      "domain": "analytics.google.com",
       "domain_suffix": [
         "2mdn-cn.net",
         "2mdn.net",

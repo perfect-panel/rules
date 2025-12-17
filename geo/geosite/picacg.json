@@ -2,6 +2,10 @@
   "version": 2,
   "rules": [
     {
+      "domain": [
+        "ad-channel.diwodiwo.xyz",
+        "ad-display.diwodiwo.xyz"
+      ],
       "domain_suffix": [
         "bikaa.xyz",
         "bikac.xyz",
@@ -13,10 +17,8 @@
         "picacomic.com",
         "picacomic.xyz",
         "wikawika.xyz",
-        "ad-channel.diwodiwo.xyz",
-        "ad-display.diwodiwo.xyz"
-      ],
-      "domain_regex": "^([a-z0-9-]+\\.)*(?!ad-display\\.|ad-channel\\.)[a-z0-9-]+\\.diwodiwo\\.xyz$"
+        "diwodiwo.xyz"
+      ]
     }
   ]
 }
