@@ -3,7 +3,6 @@
   "rules": [
     {
       "domain": [
-        "www.microsoft.com",
         "certs-lb.apple.com.akadns.net",
         "certs.apple.com",
         "crl-lb.apple.com.akadns.net",
@@ -22,12 +21,12 @@
         "o.pki.goog",
         "crl.pki.goog",
         "crls.pki.goog",
-        "ocsp.pki.goog"
+        "ocsp.pki.goog",
+        "www.microsoft.com"
       ],
       "domain_suffix": [
-        "yahoo.cn",
-        "yahoo.com.cn",
-        "sslcom.cn",
+        "dcocsp.cn",
+        "digicert.cn",
         "oemssl.cn",
         "oemssl.cn.cdn.cloudflare.net",
         "sectigochina.com",
@@ -38,8 +37,9 @@
         "globalsign.cn",
         "globalsign.com",
         "globalsigncdn.com",
-        "dcocsp.cn",
-        "digicert.cn"
+        "sslcom.cn",
+        "yahoo.cn",
+        "yahoo.com.cn"
       ]
     }
   ]
