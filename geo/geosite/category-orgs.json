@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain": [
+        "csis-prod.s3.amazonaws.com",
         "a.ppy.sh",
         "assets.ppy.sh",
         "c.ppy.sh",
@@ -11,8 +12,7 @@
         "lazer.ppy.sh",
         "notify.ppy.sh",
         "sentry.ppy.sh",
-        "spectator.ppy.sh",
-        "csis-prod.s3.amazonaws.com"
+        "spectator.ppy.sh"
       ],
       "domain_suffix": [
         "aomedia.org",
@@ -29,10 +29,9 @@
         "who.int",
         "wi-fi.org",
         "wto.org",
-        "ccstatic.org",
-        "creativecommons.org",
-        "creativecommons.engineering",
-        "licensebuttons.net",
+        "rolfoundation.org",
+        "rolsociety.org",
+        "csis.org",
         "emojipedia.org",
         "worldemojiawards.com",
         "worldemojiday.com",
@@ -49,26 +48,12 @@
         "messybrainz.org",
         "metabrainz.org",
         "musicbrainz.org",
-        "openmaps.org",
-        "openstreetmap.com",
-        "openstreetmap.net",
-        "openstreetmap.org",
-        "openstreetmaps.org",
-        "osm.org",
-        "osmfoundation.org",
-        "stateofthemap.com",
-        "stateofthemap.org",
         "paskoocheh.com",
-        "rolfoundation.org",
-        "rolsociety.org",
-        "archive-it.org",
-        "archive.md",
-        "archive.org",
-        "archive.ph",
-        "archive.today",
-        "openlibrary.org",
-        "4pcdn.org",
-        "4plebs.org",
+        "ppy.sh",
+        "ccstatic.org",
+        "creativecommons.org",
+        "creativecommons.engineering",
+        "licensebuttons.net",
         "ieee.org",
         "ieee.tv",
         "tryengineering.org",
@@ -125,8 +110,15 @@
         "vtsociety.org",
         "nist.gov",
         "time.gov",
-        "ppy.sh",
-        "csis.org"
+        "openmaps.org",
+        "openstreetmap.com",
+        "openstreetmap.net",
+        "openstreetmap.org",
+        "openstreetmaps.org",
+        "osm.org",
+        "osmfoundation.org",
+        "stateofthemap.com",
+        "stateofthemap.org"
       ]
     }
   ]
