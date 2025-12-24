@@ -3,17 +3,18 @@
   "rules": [
     {
       "domain_suffix": [
-        "futuesop.com",
         "futufin.com",
         "futuhk.com",
+        "futuhkapp.com",
         "futuhn.com",
         "futuholdings.com",
-        "futuniuniu.com",
-        "futunn.com",
-        "futustatic.com",
         "moomoo.com",
         "moomooequity.com",
-        "moomootrustee.com"
+        "moomootrustee.com",
+        "futuesop.com",
+        "futuniuniu.com",
+        "futunn.com",
+        "futustatic.com"
       ]
     }
   ]
