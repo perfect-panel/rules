@@ -3,11 +3,6 @@
   "rules": [
     {
       "domain_suffix": [
-        "citics.com.hk",
-        "cncbinternational.com",
-        "csci.hk",
-        "cmbi.com.hk",
-        "cmbwinglungbank.com",
         "icbc-at.com",
         "icbc-cz.com",
         "icbc-ltd.com",
@@ -55,7 +50,12 @@
         "icbkus.com",
         "bochk.com",
         "ccbintl.com.hk",
-        "ccbseoul.com"
+        "ccbseoul.com",
+        "citics.com.hk",
+        "cncbinternational.com",
+        "csci.hk",
+        "cmbi.com.hk",
+        "cmbwinglungbank.com"
       ]
     }
   ]
