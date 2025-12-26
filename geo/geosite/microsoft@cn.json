@@ -77,6 +77,9 @@
         "download.windowsupdate.com",
         "microsoftnews.cn",
         "msn.cn",
+        "microsoftreactor.cn",
+        "microsoftreactor.com.cn",
+        "reactorms.com.cn",
         "xboxlive.cn",
         "21vbc.com",
         "21vbluecloud.com",
@@ -169,10 +172,7 @@
         "cn.mm.bing.net",
         "ditu.live.com",
         "r.bing.com",
-        "th.bing.com",
-        "microsoftreactor.cn",
-        "microsoftreactor.com.cn",
-        "reactorms.com.cn"
+        "th.bing.com"
       ]
     }
   ]
