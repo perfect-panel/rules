@@ -17,7 +17,11 @@
         "uplaypc-s-ubisoft.cdn.ubi.com"
       ],
       "domain_suffix": [
+        "ggpht.cn",
         "bluearchive-cn.com",
+        "xboxlive.cn",
+        "leagueoflegends.cn",
+        "lpl.com.cn",
         "legendofzelda.cn",
         "legendofzelda.com.cn",
         "miitomo.com.cn",
@@ -30,9 +34,6 @@
         "mariokart.cn",
         "mariokart.com.cn",
         "supermariobros.com.cn",
-        "leagueoflegends.cn",
-        "lpl.com.cn",
-        "xboxlive.cn",
         "steamserver.net",
         "steamusercontent.com",
         "csgo.wmsj.cn",
@@ -47,7 +48,6 @@
         "steamstatic.com.8686c.com",
         "steamchina.com",
         "gstore.val.manlaxy.com",
-        "ggpht.cn",
         "amazonprimevideo.cn",
         "amazonprimevideo.com.cn"
       ],
