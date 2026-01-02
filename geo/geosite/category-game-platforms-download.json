@@ -494,7 +494,10 @@
         "cdn-ws.content.steamchina.com",
         "cdn-qc.content.steamchina.com"
       ],
-      "domain_suffix": "egdownload.fastly-edge.com"
+      "domain_suffix": [
+        "egdownload.fastly-edge.com",
+        "dl.playstation.net"
+      ]
     }
   ]
 }
