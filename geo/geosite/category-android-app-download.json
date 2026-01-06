@@ -3,13 +3,13 @@
   "rules": [
     {
       "domain_suffix": [
-        "apkmirror.com",
         "apkpure.com",
         "apkpure.net",
         "cdnpure.com",
         "pureapk.com",
         "winudf.com",
-        "apkcombo.com"
+        "apkcombo.com",
+        "apkmirror.com"
       ]
     }
   ]
