@@ -4,7 +4,6 @@
     {
       "domain": [
         "www.recaptcha.net",
-        "safebrowsing-cache.google.com",
         "265.com",
         "2mdn-cn.net",
         "2mdn.net",
@@ -33,7 +32,6 @@
         "connectivitycheck.gstatic.com",
         "content.googleadapis.com",
         "crashlyticsreports-pa.googleapis.com",
-        "crl.pki.goog",
         "csi.gstatic.com",
         "dartsearch-cn.net",
         "dg-meta.video.google.com",
@@ -45,7 +43,6 @@
         "download.qatp1.net",
         "download.tensorflow.google.com",
         "emmapplecodevice.googleapis.com",
-        "firebase-settings.crashlytics.com",
         "fontfiles.googleapis.com",
         "fonts.googleapis.com",
         "fonts.gstatic.com",
@@ -84,10 +81,8 @@
         "logger.corp.google.com",
         "login.corp.google.com",
         "monitoring.qpdp1.net",
-        "ocsp.pki.goog",
         "pagead-googlehosted.l.google.com",
         "performanceparameters.googleapis.com",
-        "pki-goog.l.google.com",
         "prod-controlbe.floonet.goog",
         "prod-databe.floonet.goog",
         "prod.databe.floonet.goog",
@@ -106,7 +101,6 @@
         "redirector.c.chat.google.com",
         "redirector.c.mail.google.com",
         "redirector.c.pack.google.com",
-        "redirector.c.play.google.com",
         "redirector.c.youtubeeducation.com",
         "redirector.gcpcdn.gvt1.com",
         "redirector.gvt1.com",
@@ -145,7 +139,6 @@
         "www.gstatic.com",
         "www.pxcc.com",
         "xn--flw351e.com",
-        "redirector.c.play.google.com",
         "pki-goog.l.google.com",
         "c.pki.goog",
         "i.pki.goog",
@@ -153,6 +146,7 @@
         "crl.pki.goog",
         "crls.pki.goog",
         "ocsp.pki.goog",
+        "redirector.c.play.google.com",
         "firebase-settings.crashlytics.com"
       ],
       "domain_suffix": [
