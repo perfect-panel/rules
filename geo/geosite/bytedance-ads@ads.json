@@ -20,12 +20,15 @@
         "rtlog5-applog.fqnovel.com"
       ],
       "domain_suffix": [
+        "ad.toutiao.com",
+        "analytics.tiktok.com",
         "bds.snssdk.com",
         "byteadverts.com",
         "ctobsnssdk.com",
         "dig.bdurl.net",
         "extlog.snssdk.com",
         "i.snssdk.com",
+        "log.zijieapi.com",
         "mcs.snssdk.com",
         "pangolin-dsp-toutiao-b.com",
         "pangolin-dsp-toutiao.com",
