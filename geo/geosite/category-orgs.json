@@ -3,7 +3,6 @@
   "rules": [
     {
       "domain": [
-        "csis-prod.s3.amazonaws.com",
         "a.ppy.sh",
         "assets.ppy.sh",
         "c.ppy.sh",
@@ -12,7 +11,8 @@
         "lazer.ppy.sh",
         "notify.ppy.sh",
         "sentry.ppy.sh",
-        "spectator.ppy.sh"
+        "spectator.ppy.sh",
+        "csis-prod.s3.amazonaws.com"
       ],
       "domain_suffix": [
         "aomedia.org",
@@ -31,11 +31,22 @@
         "wto.org",
         "rolfoundation.org",
         "rolsociety.org",
-        "csis.org",
         "f-dro1d.org",
         "f-droid.com",
         "f-droid.org",
         "fdroid.org",
+        "acousticbrainz.org",
+        "bookbrainz.org",
+        "coverartarchive.org",
+        "critiquebrainz.org",
+        "listenbrainz.org",
+        "messybrainz.org",
+        "metabrainz.org",
+        "musicbrainz.org",
+        "emojipedia.org",
+        "worldemojiawards.com",
+        "worldemojiday.com",
+        "xn--yt8h.la",
         "ieee.org",
         "ieee.tv",
         "tryengineering.org",
@@ -92,23 +103,6 @@
         "vtsociety.org",
         "nist.gov",
         "time.gov",
-        "paskoocheh.com",
-        "ccstatic.org",
-        "creativecommons.org",
-        "creativecommons.engineering",
-        "licensebuttons.net",
-        "emojipedia.org",
-        "worldemojiawards.com",
-        "worldemojiday.com",
-        "xn--yt8h.la",
-        "acousticbrainz.org",
-        "bookbrainz.org",
-        "coverartarchive.org",
-        "critiquebrainz.org",
-        "listenbrainz.org",
-        "messybrainz.org",
-        "metabrainz.org",
-        "musicbrainz.org",
         "openmaps.org",
         "openstreetmap.com",
         "openstreetmap.net",
@@ -118,7 +112,13 @@
         "osmfoundation.org",
         "stateofthemap.com",
         "stateofthemap.org",
-        "ppy.sh"
+        "paskoocheh.com",
+        "ppy.sh",
+        "ccstatic.org",
+        "creativecommons.org",
+        "creativecommons.engineering",
+        "licensebuttons.net",
+        "csis.org"
       ]
     }
   ]
