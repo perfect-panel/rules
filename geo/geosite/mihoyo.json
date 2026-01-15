@@ -3,6 +3,14 @@
   "rules": [
     {
       "domain_suffix": [
+        "genshinimpact.com",
+        "honkaiimpact3.com",
+        "honkaistarrail.com",
+        "hoyo.link",
+        "hoyolab.com",
+        "hoyoverse.com",
+        "n0vadesktop.com",
+        "zenlesszonezero.com",
         "mhystatic.com",
         "mhyurl.cn",
         "mihayo.com",
@@ -18,14 +26,6 @@
         "themisweeps.com",
         "yuanshen.com",
         "juequling.com",
-        "genshinimpact.com",
-        "honkaiimpact3.com",
-        "honkaistarrail.com",
-        "hoyo.link",
-        "hoyolab.com",
-        "hoyoverse.com",
-        "n0vadesktop.com",
-        "zenlesszonezero.com",
         "log-upload-os.hoyoverse.com",
         "log-upload.mihoyo.com"
       ],
