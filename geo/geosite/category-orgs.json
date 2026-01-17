@@ -3,7 +3,6 @@
   "rules": [
     {
       "domain": [
-        "csis-prod.s3.amazonaws.com",
         "a.ppy.sh",
         "assets.ppy.sh",
         "c.ppy.sh",
@@ -12,7 +11,8 @@
         "lazer.ppy.sh",
         "notify.ppy.sh",
         "sentry.ppy.sh",
-        "spectator.ppy.sh"
+        "spectator.ppy.sh",
+        "csis-prod.s3.amazonaws.com"
       ],
       "domain_suffix": [
         "aomedia.org",
@@ -33,27 +33,10 @@
         "creativecommons.org",
         "creativecommons.engineering",
         "licensebuttons.net",
-        "csis.org",
-        "nist.gov",
-        "time.gov",
-        "openmaps.org",
-        "openstreetmap.com",
-        "openstreetmap.net",
-        "openstreetmap.org",
-        "openstreetmaps.org",
-        "osm.org",
-        "osmfoundation.org",
-        "stateofthemap.com",
-        "stateofthemap.org",
-        "ppy.sh",
         "emojipedia.org",
         "worldemojiawards.com",
         "worldemojiday.com",
         "xn--yt8h.la",
-        "f-dro1d.org",
-        "f-droid.com",
-        "f-droid.org",
-        "fdroid.org",
         "ieee.org",
         "ieee.tv",
         "tryengineering.org",
@@ -108,6 +91,23 @@
         "signalprocessingsociety.org",
         "technologyandsociety.org",
         "vtsociety.org",
+        "openmaps.org",
+        "openstreetmap.com",
+        "openstreetmap.net",
+        "openstreetmap.org",
+        "openstreetmaps.org",
+        "osm.org",
+        "osmfoundation.org",
+        "stateofthemap.com",
+        "stateofthemap.org",
+        "ppy.sh",
+        "rolfoundation.org",
+        "rolsociety.org",
+        "csis.org",
+        "f-dro1d.org",
+        "f-droid.com",
+        "f-droid.org",
+        "fdroid.org",
         "acousticbrainz.org",
         "bookbrainz.org",
         "coverartarchive.org",
@@ -116,9 +116,9 @@
         "messybrainz.org",
         "metabrainz.org",
         "musicbrainz.org",
-        "paskoocheh.com",
-        "rolfoundation.org",
-        "rolsociety.org"
+        "nist.gov",
+        "time.gov",
+        "paskoocheh.com"
       ]
     }
   ]
