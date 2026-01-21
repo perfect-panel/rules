@@ -3,8 +3,8 @@
   "rules": [
     {
       "domain": [
-        "cdn.ampproject.org",
-        "firebase-settings.crashlytics.com"
+        "firebase-settings.crashlytics.com",
+        "cdn.ampproject.org"
       ],
       "domain_suffix": [
         "cdn.jetbrains.com",

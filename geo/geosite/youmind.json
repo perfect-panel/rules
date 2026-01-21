@@ -3,8 +3,9 @@
   "rules": [
     {
       "domain_suffix": [
-        "kurogames.com",
-        "aki-game.com"
+        "youmind.ai",
+        "youmind.com",
+        "youmind.site"
       ]
     }
   ]

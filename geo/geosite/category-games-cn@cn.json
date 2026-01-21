@@ -2,10 +2,6 @@
   "version": 2,
   "rules": [
     {
-      "domain_suffix": [
-        "kurogames.com",
-        "aki-game.com"
-      ],
       "domain_regex": "^.+-mihayo\\.akamaized\\.net$"
     }
   ]
