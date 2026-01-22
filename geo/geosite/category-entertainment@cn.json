@@ -18,8 +18,8 @@
       ],
       "domain_suffix": [
         "ggpht.cn",
-        "amazonprimevideo.cn",
-        "amazonprimevideo.com.cn",
+        "leagueoflegends.cn",
+        "lpl.com.cn",
         "steamserver.net",
         "steamusercontent.com",
         "csgo.wmsj.cn",
@@ -36,8 +36,6 @@
         "gstore.val.manlaxy.com",
         "xboxlive.cn",
         "bluearchive-cn.com",
-        "leagueoflegends.cn",
-        "lpl.com.cn",
         "legendofzelda.cn",
         "legendofzelda.com.cn",
         "miitomo.com.cn",
@@ -49,14 +47,16 @@
         "xn--mts47c3w9b1qr.cn",
         "mariokart.cn",
         "mariokart.com.cn",
-        "supermariobros.com.cn"
+        "supermariobros.com.cn",
+        "amazonprimevideo.cn",
+        "amazonprimevideo.com.cn"
       ],
       "domain_regex": [
+        "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$",
+        "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$",
         "^cdn-akamai-.+\\.gog-services\\.com$",
         "^gog-cdn-.+\\.footprint\\.net$",
-        "^images(-\\d)?\\.gog-statics\\.com$",
-        "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$",
-        "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$"
+        "^images(-\\d)?\\.gog-statics\\.com$"
       ]
     }
   ]
