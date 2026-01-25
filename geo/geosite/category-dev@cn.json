@@ -7,11 +7,11 @@
         "firebase-settings.crashlytics.com"
       ],
       "domain_suffix": [
-        "cdn.jetbrains.com",
-        "download-cdn.jetbrains.com.cn",
         "microsoftreactor.cn",
         "microsoftreactor.com.cn",
         "reactorms.com.cn",
+        "cdn.jetbrains.com",
+        "download-cdn.jetbrains.com.cn",
         "researchkit.cn",
         "researchkit.com.cn",
         "swiftui.cn",
