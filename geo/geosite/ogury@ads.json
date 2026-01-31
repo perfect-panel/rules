@@ -3,9 +3,9 @@
   "rules": [
     {
       "domain_suffix": [
+        "ogury.co",
         "ogury.com",
-        "presage.io",
-        "ogury.co"
+        "presage.io"
       ]
     }
   ]

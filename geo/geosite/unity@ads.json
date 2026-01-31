@@ -3,12 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "ads.unitychina.cn",
-        "splash-ads.cdn.unity.cn",
-        "splash-ads.unitychina.cn",
-        "unityads.unity.cn",
-        "unityads.unity3d.com",
-        "unityads.unitychina.cn"
+        "iads.unity3d.com",
+        "unityads.unity3d.com"
       ]
     }
   ]

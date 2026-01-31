@@ -160,8 +160,6 @@
         "azure-dns-8.cn",
         "azure-dns-9.cn",
         "azure-dns-10.cn",
-        "microsoftnews.cn",
-        "msn.cn",
         "bing.com.cn",
         "cn.bing.com",
         "cn.bing.net",
@@ -172,6 +170,8 @@
         "microsoftreactor.cn",
         "microsoftreactor.com.cn",
         "reactorms.com.cn",
+        "microsoftnews.cn",
+        "msn.cn",
         "xboxlive.cn"
       ]
     }
