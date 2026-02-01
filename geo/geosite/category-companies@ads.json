@@ -3,10 +3,16 @@
   "rules": [
     {
       "domain": [
-        "sentry.hetzner.company",
-        "analytics.google.com"
+        "analytics.google.com",
+        "sentry.hetzner.company"
       ],
       "domain_suffix": [
+        "ads.yahoo.com",
+        "gemini.yahoo.com",
+        "ysm.yahoo.com",
+        "samsungads.com",
+        "amazon-adsystem.com",
+        "serving-sys.com",
         "graph.whatsapp.com",
         "graph.whatsapp.net",
         "graph.instagram.com",
@@ -14,17 +20,12 @@
         "ads.yahoo.com",
         "gemini.yahoo.com",
         "ysm.yahoo.com",
-        "amazon-adsystem.com",
-        "serving-sys.com",
-        "ads-api.duolingo.com",
-        "metrics.duolingo.com",
-        "analytics.vpc.duolingo.com",
-        "ads.yahoo.com",
-        "gemini.yahoo.com",
-        "ysm.yahoo.com",
+        "advertising.apple.com",
+        "api-adservices.apple.com",
+        "iadsdk.apple.com",
+        "iad.apple.com",
+        "qwapi.com",
         "bingads.com",
-        "collector.github.com",
-        "copilot-telemetry.githubusercontent.com",
         "browser.events.data.msn.cn",
         "browser.events.data.msn.com",
         "clarity.ms",
@@ -33,12 +34,14 @@
         "nelreports.net",
         "collector.github.com",
         "copilot-telemetry.githubusercontent.com",
+        "collector.github.com",
+        "copilot-telemetry.githubusercontent.com",
         "snapads.com",
-        "advertising.apple.com",
-        "api-adservices.apple.com",
-        "iadsdk.apple.com",
-        "iad.apple.com",
-        "qwapi.com",
+        "advertising.adobe.com",
+        "tubemogul.com",
+        "ads-api.duolingo.com",
+        "metrics.duolingo.com",
+        "analytics.vpc.duolingo.com",
         "2mdn-cn.net",
         "2mdn.net",
         "admob-cn.com",
@@ -90,10 +93,7 @@
         "marketingplatform.google.com",
         "pagead.l.google.com",
         "partnerad.l.google.com",
-        "urchin.com",
-        "samsungads.com",
-        "advertising.adobe.com",
-        "tubemogul.com"
+        "urchin.com"
       ],
       "domain_regex": "^adservice\\.google\\.([a-z]{2}|com?)(\\.[a-z]{2})?$"
     }

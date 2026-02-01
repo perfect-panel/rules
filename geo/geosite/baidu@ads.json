@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "syh.zybang.com",
         "adscdn.baidu.com",
         "adx.xiaodutv.com",
         "afd.baidu.com",
@@ -55,7 +56,6 @@
         "wkctj.baidu.com",
         "wm.baidu.com",
         "zz.bdstatic.com",
-        "syh.zybang.com",
         "syh.zybang.com"
       ]
     }
