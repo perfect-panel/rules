@@ -85,6 +85,8 @@
         "microsoftreactor.cn",
         "microsoftreactor.com.cn",
         "reactorms.com.cn",
+        "microsoftnews.cn",
+        "msn.cn",
         "21vbc.com",
         "21vbluecloud.com",
         "21vbluecloud.net",
@@ -170,8 +172,6 @@
         "azure-dns-8.cn",
         "azure-dns-9.cn",
         "azure-dns-10.cn",
-        "microsoftnews.cn",
-        "msn.cn",
         "xboxlive.cn"
       ]
     }
