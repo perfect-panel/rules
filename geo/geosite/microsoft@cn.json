@@ -75,16 +75,7 @@
         "sharepoint.cn",
         "dl.delivery.mp.microsoft.com",
         "download.windowsupdate.com",
-        "bing.com.cn",
-        "cn.bing.com",
-        "cn.bing.net",
-        "cn.mm.bing.net",
-        "ditu.live.com",
-        "r.bing.com",
-        "th.bing.com",
-        "microsoftreactor.cn",
-        "microsoftreactor.com.cn",
-        "reactorms.com.cn",
+        "xboxlive.cn",
         "microsoftnews.cn",
         "msn.cn",
         "21vbc.com",
@@ -172,7 +163,16 @@
         "azure-dns-8.cn",
         "azure-dns-9.cn",
         "azure-dns-10.cn",
-        "xboxlive.cn"
+        "bing.com.cn",
+        "cn.bing.com",
+        "cn.bing.net",
+        "cn.mm.bing.net",
+        "ditu.live.com",
+        "r.bing.com",
+        "th.bing.com",
+        "microsoftreactor.cn",
+        "microsoftreactor.com.cn",
+        "reactorms.com.cn"
       ]
     }
   ]
