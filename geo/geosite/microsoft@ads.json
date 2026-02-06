@@ -3,6 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
+        "collector.github.com",
+        "copilot-telemetry.githubusercontent.com",
         "browser.events.data.msn.cn",
         "browser.events.data.msn.com",
         "clarity.ms",
@@ -11,9 +13,7 @@
         "nelreports.net",
         "collector.github.com",
         "copilot-telemetry.githubusercontent.com",
-        "bingads.com",
-        "collector.github.com",
-        "copilot-telemetry.githubusercontent.com"
+        "bingads.com"
       ]
     }
   ]
