@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain": [
+        "csis-prod.s3.amazonaws.com",
         "a.ppy.sh",
         "assets.ppy.sh",
         "c.ppy.sh",
@@ -11,8 +12,7 @@
         "lazer.ppy.sh",
         "notify.ppy.sh",
         "sentry.ppy.sh",
-        "spectator.ppy.sh",
-        "csis-prod.s3.amazonaws.com"
+        "spectator.ppy.sh"
       ],
       "domain_suffix": [
         "aomedia.org",
@@ -29,6 +29,11 @@
         "who.int",
         "wi-fi.org",
         "wto.org",
+        "ccstatic.org",
+        "creativecommons.org",
+        "creativecommons.engineering",
+        "licensebuttons.net",
+        "csis.org",
         "emojipedia.org",
         "worldemojiawards.com",
         "worldemojiday.com",
@@ -89,24 +94,8 @@
         "vtsociety.org",
         "nist.gov",
         "time.gov",
-        "openmaps.org",
-        "openstreetmap.com",
-        "openstreetmap.net",
-        "openstreetmap.org",
-        "openstreetmaps.org",
-        "osm.org",
-        "osmfoundation.org",
-        "stateofthemap.com",
-        "stateofthemap.org",
         "paskoocheh.com",
         "ppy.sh",
-        "rolfoundation.org",
-        "rolsociety.org",
-        "ccstatic.org",
-        "creativecommons.org",
-        "creativecommons.engineering",
-        "licensebuttons.net",
-        "csis.org",
         "f-dro1d.org",
         "f-droid.com",
         "f-droid.org",
@@ -118,7 +107,18 @@
         "listenbrainz.org",
         "messybrainz.org",
         "metabrainz.org",
-        "musicbrainz.org"
+        "musicbrainz.org",
+        "openmaps.org",
+        "openstreetmap.com",
+        "openstreetmap.net",
+        "openstreetmap.org",
+        "openstreetmaps.org",
+        "osm.org",
+        "osmfoundation.org",
+        "stateofthemap.com",
+        "stateofthemap.org",
+        "rolfoundation.org",
+        "rolsociety.org"
       ]
     }
   ]

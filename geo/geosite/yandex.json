@@ -2,6 +2,7 @@
   "version": 2,
   "rules": [
     {
+      "domain": "yandex-pogoda.static-storage.net",
       "domain_suffix": [
         "yandex",
         "yandex.kg",
