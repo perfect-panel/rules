@@ -21,7 +21,9 @@
         "microsoftstart.com",
         "start.com",
         "microsoftnews.cn",
-        "msn.cn"
+        "msn.cn",
+        "browser.events.data.msn.cn",
+        "browser.events.data.msn.com"
       ]
     }
   ]

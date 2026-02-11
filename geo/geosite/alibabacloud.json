@@ -3,14 +3,14 @@
   "rules": [
     {
       "domain_suffix": [
-        "alibabacloud.com",
-        "alicloud.com",
         "alibabacloud.co.in",
+        "alibabacloud.com",
         "alibabacloud.com.au",
         "alibabacloud.com.hk",
         "alibabacloud.com.my",
         "alibabacloud.com.sg",
-        "alibabacloud.com.tw"
+        "alibabacloud.com.tw",
+        "alicloud.com"
       ]
     }
   ]

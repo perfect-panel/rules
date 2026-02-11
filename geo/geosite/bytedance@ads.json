@@ -17,26 +17,10 @@
         "rtlog3-applog-hl.fqnovel.com",
         "rtlog3-applog.fqnovel.com",
         "rtlog5-applog-hl.fqnovel.com",
-        "rtlog5-applog.fqnovel.com",
-        "ads3-normal-hl.zijieapi.com",
-        "ads3-normal.zijieapi.com",
-        "ads5-normal-hl.zijieapi.com",
-        "ads5-normal.zijieapi.com",
-        "log3-applog-hl.fqnovel.com",
-        "log3-applog.fqnovel.com",
-        "log5-applog-hl.fqnovel.com",
-        "log5-applog.fqnovel.com",
-        "p3-ad-sign.byteimg.com",
-        "p6-ad-sign.byteimg.com",
-        "p9-ad-sign.byteimg.com",
-        "rtlog3-applog-hl.fqnovel.com",
-        "rtlog3-applog.fqnovel.com",
-        "rtlog5-applog-hl.fqnovel.com",
         "rtlog5-applog.fqnovel.com"
       ],
       "domain_suffix": [
         "ad.toutiao.com",
-        "analytics.tiktok.com",
         "bds.snssdk.com",
         "byteadverts.com",
         "ctobsnssdk.com",
@@ -61,7 +45,8 @@
         "pglstatp-toutiao-b.com",
         "pglstatp-toutiao.com",
         "sf3-ttcdn-tos.pstatp.com",
-        "shoppingads.cn"
+        "shoppingads.cn",
+        "analytics.tiktok.com"
       ]
     }
   ]

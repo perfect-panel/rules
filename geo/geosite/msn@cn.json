@@ -4,7 +4,8 @@
     {
       "domain_suffix": [
         "microsoftnews.cn",
-        "msn.cn"
+        "msn.cn",
+        "browser.events.data.msn.cn"
       ]
     }
   ]

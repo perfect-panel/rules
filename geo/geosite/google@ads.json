@@ -8,7 +8,6 @@
         "2mdn.net",
         "admob-cn.com",
         "admob.com",
-        "ads.youtube.com",
         "adsense.com",
         "adsensecustomsearchads.com",
         "adsenseformobileapps.com",
@@ -55,9 +54,9 @@
         "marketingplatform.google.com",
         "pagead.l.google.com",
         "partnerad.l.google.com",
-        "urchin.com"
-      ],
-      "domain_regex": "^adservice\\.google\\.([a-z]{2}|com?)(\\.[a-z]{2})?$"
+        "urchin.com",
+        "ads.youtube.com"
+      ]
     }
   ]
 }

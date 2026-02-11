@@ -3,7 +3,6 @@
   "rules": [
     {
       "domain_suffix": [
-        "yuewen.com",
         "hongxiu.com",
         "lrts.me",
         "qdmm.com",
@@ -13,7 +12,9 @@
         "tingbook.com",
         "xs.cn",
         "xs8.cn",
-        "xxsy.net"
+        "xxsy.net",
+        "yuewen.com",
+        "webnovel.com"
       ]
     }
   ]
