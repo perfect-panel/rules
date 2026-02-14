@@ -3,6 +3,8 @@
   "rules": [
     {
       "domain": [
+        "log-sdk.gifshow.com",
+        "wlog.kuaishou.com",
         "ads3-normal-hl.zijieapi.com",
         "ads3-normal.zijieapi.com",
         "ads5-normal-hl.zijieapi.com",
@@ -18,29 +20,15 @@
         "rtlog3-applog.fqnovel.com",
         "rtlog5-applog-hl.fqnovel.com",
         "rtlog5-applog.fqnovel.com",
-        "log-sdk.gifshow.com",
-        "wlog.kuaishou.com",
         "apilog-web.acfun.cn"
       ],
       "domain_suffix": [
-        "adbehavior.ximalaya.com",
-        "adse.wsa.ximalaya.com",
-        "adse.ximalaya.com",
-        "log-upload.mihoyo.com",
         "adbkwai.com",
         "adkwai.com",
         "adukwai.com",
         "e.kuaishou.cn",
         "e.kuaishou.com",
-        "click.gamersky.com",
-        "ja.gamersky.com",
-        "ja1.gamersky.com",
-        "ja2.gamersky.com",
-        "wmbd.gamersky.com",
-        "apple.www.letv.com",
-        "ark.letv.com",
-        "dc.letv.com",
-        "g3.letv.com",
+        "log-upload.mihoyo.com",
         "click.hunantv.com",
         "da.hunantv.com",
         "da.mgtv.com",
@@ -70,7 +58,19 @@
         "statis.api.3g.youku.com",
         "v6-adashx.ut.youku.com",
         "yk-ssp.ad.youku.com",
-        "ykad-data.youku.com"
+        "ykad-data.youku.com",
+        "apple.www.letv.com",
+        "ark.letv.com",
+        "dc.letv.com",
+        "g3.letv.com",
+        "click.gamersky.com",
+        "ja.gamersky.com",
+        "ja1.gamersky.com",
+        "ja2.gamersky.com",
+        "wmbd.gamersky.com",
+        "adbehavior.ximalaya.com",
+        "adse.wsa.ximalaya.com",
+        "adse.ximalaya.com"
       ]
     }
   ]
