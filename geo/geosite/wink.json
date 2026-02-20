@@ -3,7 +3,6 @@
   "rules": [
     {
       "domain_suffix": [
-        "ngenix.net",
         "restream-media.net",
         "wink.ru"
       ]
