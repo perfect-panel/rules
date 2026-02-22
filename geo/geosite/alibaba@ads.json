@@ -27,8 +27,7 @@
         "tns.simba.taobao.com",
         "track.lc.quark.cn",
         "v6-adashx.ut.taobao.com",
-        "ads.uc.cn",
-        "adslot.uc.cn",
+        "v6-adashx.ut.cainiao.com",
         "adashx.ut.ele.me",
         "h-adashx.ut.ele.me",
         "v6-adashx.ut.ele.me",
@@ -89,7 +88,8 @@
         "logs.amap.com",
         "optimus-ads.amap.com",
         "v6-adashx.ut.amap.com",
-        "v6-adashx.ut.cainiao.com"
+        "ads.uc.cn",
+        "adslot.uc.cn"
       ]
     }
   ]
