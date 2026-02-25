@@ -11,7 +11,8 @@
         "cdn-service.space",
         "cdn2cdn.com",
         "cdn2site.com",
-        "pushbr.com"
+        "pushbr.com",
+        "smarttvcdn.online"
       ],
       "domain_regex": "(\\w+)-static-[0-9]+\\.cdntogo\\.net$"
     }

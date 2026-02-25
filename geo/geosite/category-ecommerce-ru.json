@@ -3,6 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
+        "avito.ru",
+        "avito.st",
         "ozon.ru",
         "ozone.ru",
         "ozonusercontent.com",
@@ -14,9 +16,7 @@
         "wbbasket.ru",
         "wbpay.ru",
         "wibes.ru",
-        "wildberries.ru",
-        "avito.ru",
-        "avito.st"
+        "wildberries.ru"
       ]
     }
   ]
