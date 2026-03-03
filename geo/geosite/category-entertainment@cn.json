@@ -43,21 +43,21 @@
         "steamstatic.com.8686c.com",
         "steamchina.com",
         "gstore.val.manlaxy.com",
-        "yostar.cn",
-        "bluearchive-cn.com",
         "leagueoflegends.cn",
         "lpl.com.cn",
         "xboxlive.cn",
-        "ggpht.cn",
+        "bluearchive-cn.com",
+        "yostar.cn",
         "amazonprimevideo.cn",
-        "amazonprimevideo.com.cn"
+        "amazonprimevideo.com.cn",
+        "ggpht.cn"
       ],
       "domain_regex": [
-        "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$",
-        "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$",
         "^cdn-akamai-.+\\.gog-services\\.com$",
         "^gog-cdn-.+\\.footprint\\.net$",
-        "^images(-\\d)?\\.gog-statics\\.com$"
+        "^images(-\\d)?\\.gog-statics\\.com$",
+        "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$",
+        "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$"
       ]
     }
   ]
