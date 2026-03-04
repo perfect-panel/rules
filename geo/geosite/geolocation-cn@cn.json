@@ -22,6 +22,10 @@
         "ntp5.tencent.com"
       ],
       "domain_suffix": [
+        "cn.pool.ntp.org",
+        "ntp.neu.edu.cn",
+        "ntp.ntsc.ac.cn",
+        "ntp.org.cn",
         "cf-china.info",
         "cf-ns.com",
         "cf-ns.net",
@@ -65,11 +69,7 @@
         "amzndns-cn.biz",
         "amzndns-cn.cn",
         "amzndns-cn.com",
-        "amzndns-cn.net",
-        "cn.pool.ntp.org",
-        "ntp.neu.edu.cn",
-        "ntp.ntsc.ac.cn",
-        "ntp.org.cn"
+        "amzndns-cn.net"
       ],
       "domain_regex": [
         "^.+-mihayo\\.akamaized\\.net$",
