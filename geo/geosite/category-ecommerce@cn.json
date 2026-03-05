@@ -3,6 +3,13 @@
   "rules": [
     {
       "domain_suffix": [
+        "hm.com.cn",
+        "shopee.cn",
+        "shopeesz.com",
+        "booking.cn",
+        "farfetch.cn",
+        "farfetch.com.cn",
+        "farfetch.net.cn",
         "just-do-it.cn",
         "nike-shox.cn",
         "nike.cn",
@@ -66,22 +73,15 @@
         "adidas.cn",
         "adidas.com.cn",
         "adidasspecialtysports.cn",
-        "hm.com.cn",
+        "gucci.cn",
         "ikea.cn",
         "ingka-dt.cn",
         "ingka-internal.cn",
         "ingka-system.cn",
-        "shopee.cn",
-        "shopeesz.com",
-        "gucci.cn",
         "miniso.cn",
         "minisohome.cn",
         "minsio.cn",
         "muji.com.cn",
-        "booking.cn",
-        "farfetch.cn",
-        "farfetch.com.cn",
-        "farfetch.net.cn",
         "walmart.cn"
       ]
     }
