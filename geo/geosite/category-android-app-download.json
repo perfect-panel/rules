@@ -2,7 +2,10 @@
   "version": 2,
   "rules": [
     {
+      "domain": "apkmirror.disqus.com",
       "domain_suffix": [
+        "uptodown.com",
+        "utdstc.com",
         "apkcombo.com",
         "apkmirror.com",
         "apkpure.com",

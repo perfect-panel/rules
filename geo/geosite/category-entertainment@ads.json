@@ -10,9 +10,9 @@
       ],
       "domain_suffix": [
         "ads.youtube.com",
-        "ads-pixiv.net",
         "log-upload-os.hoyoverse.com",
-        "analytics.tiktok.com"
+        "analytics.tiktok.com",
+        "ads-pixiv.net"
       ]
     }
   ]
