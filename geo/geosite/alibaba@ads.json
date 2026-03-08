@@ -30,6 +30,16 @@
         "adashx.ut.ele.me",
         "h-adashx.ut.ele.me",
         "v6-adashx.ut.ele.me",
+        "acjs.aliyun.com",
+        "adash-emas.cn-hangzhou.aliyuncs.com",
+        "adash.man.aliyuncs.com",
+        "alimama.alicdn.com",
+        "atanx.alicdn.com",
+        "atanx2.alicdn.com",
+        "baichuan-sdk.alicdn.com",
+        "nbsdk-baichuan.alicdn.com",
+        "tce.alicdn.com",
+        "v6-adashx.ut.cainiao.com",
         "ads.uc.cn",
         "adslot.uc.cn",
         "aaid.umeng.com",
@@ -79,17 +89,7 @@
         "dualstack-logs.amap.com",
         "logs.amap.com",
         "optimus-ads.amap.com",
-        "v6-adashx.ut.amap.com",
-        "v6-adashx.ut.cainiao.com",
-        "acjs.aliyun.com",
-        "adash-emas.cn-hangzhou.aliyuncs.com",
-        "adash.man.aliyuncs.com",
-        "alimama.alicdn.com",
-        "atanx.alicdn.com",
-        "atanx2.alicdn.com",
-        "baichuan-sdk.alicdn.com",
-        "nbsdk-baichuan.alicdn.com",
-        "tce.alicdn.com"
+        "v6-adashx.ut.amap.com"
       ]
     }
   ]

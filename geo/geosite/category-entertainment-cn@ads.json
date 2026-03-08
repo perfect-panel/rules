@@ -3,9 +3,9 @@
   "rules": [
     {
       "domain": [
+        "apilog-web.acfun.cn",
         "log-sdk.gifshow.com",
         "wlog.kuaishou.com",
-        "apilog-web.acfun.cn",
         "ads3-normal-hl.zijieapi.com",
         "ads3-normal.zijieapi.com",
         "ads5-normal-hl.zijieapi.com",
@@ -23,14 +23,12 @@
         "rtlog5-applog.fqnovel.com"
       ],
       "domain_suffix": [
-        "adbehavior.ximalaya.com",
-        "adse.wsa.ximalaya.com",
-        "adse.ximalaya.com",
-        "apple.www.letv.com",
-        "ark.letv.com",
-        "dc.letv.com",
-        "g3.letv.com",
         "log-upload.mihoyo.com",
+        "click.gamersky.com",
+        "ja.gamersky.com",
+        "ja1.gamersky.com",
+        "ja2.gamersky.com",
+        "wmbd.gamersky.com",
         "adbkwai.com",
         "adkwai.com",
         "adukwai.com",
@@ -39,11 +37,19 @@
         "ads.service.kugou.com",
         "adserviceretry.kglink.cn",
         "adserviceretry.kugou.com",
-        "click.gamersky.com",
-        "ja.gamersky.com",
-        "ja1.gamersky.com",
-        "ja2.gamersky.com",
-        "wmbd.gamersky.com",
+        "apple.www.letv.com",
+        "ark.letv.com",
+        "dc.letv.com",
+        "g3.letv.com",
+        "click.hunantv.com",
+        "da.hunantv.com",
+        "da.mgtv.com",
+        "log.hunantv.com",
+        "log.v2.hunantv.com",
+        "res.hunantv.com",
+        "adbehavior.ximalaya.com",
+        "adse.wsa.ximalaya.com",
+        "adse.ximalaya.com",
         "ad.api.3g.youku.com",
         "ad.api.mobile.youku.com",
         "ad.mobile.youku.com",
@@ -64,13 +70,7 @@
         "statis.api.3g.youku.com",
         "v6-adashx.ut.youku.com",
         "yk-ssp.ad.youku.com",
-        "ykad-data.youku.com",
-        "click.hunantv.com",
-        "da.hunantv.com",
-        "da.mgtv.com",
-        "log.hunantv.com",
-        "log.v2.hunantv.com",
-        "res.hunantv.com"
+        "ykad-data.youku.com"
       ]
     }
   ]
