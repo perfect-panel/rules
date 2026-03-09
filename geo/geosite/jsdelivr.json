@@ -2,11 +2,10 @@
   "version": 2,
   "rules": [
     {
-      "domain": "cdn.jsdelivr.net",
       "domain_suffix": [
+        "esm.run",
         "jsdelivr.com",
-        "jsdelivr.net",
-        "esm.run"
+        "jsdelivr.net"
       ]
     }
   ]
