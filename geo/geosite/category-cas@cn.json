@@ -3,8 +3,6 @@
   "rules": [
     {
       "domain": [
-        "www.microsoft.com",
-        "www.entrust.cn",
         "pki-goog.l.google.com",
         "c.pki.goog",
         "i.pki.goog",
@@ -12,6 +10,8 @@
         "crl.pki.goog",
         "crls.pki.goog",
         "ocsp.pki.goog",
+        "www.entrust.cn",
+        "www.microsoft.com",
         "certs-lb.apple.com.akadns.net",
         "certs.apple.com",
         "crl-lb.apple.com.akadns.net",
@@ -26,21 +26,21 @@
         "crl.globalsign.net"
       ],
       "domain_suffix": [
-        "yahoo.cn",
-        "yahoo.com.cn",
         "sslcom.cn",
-        "oemssl.cn",
-        "oemssl.cn.cdn.cloudflare.net",
-        "sectigochina.com",
-        "sectigochina.com.cdn.cloudflare.net",
-        "trust-provider.cn",
         "dcocsp.cn",
         "digicert.cn",
         "alphassl.com",
         "easy-signing.com",
         "globalsign.cn",
         "globalsign.com",
-        "globalsigncdn.com"
+        "globalsigncdn.com",
+        "oemssl.cn",
+        "oemssl.cn.cdn.cloudflare.net",
+        "sectigochina.com",
+        "sectigochina.com.cdn.cloudflare.net",
+        "trust-provider.cn",
+        "yahoo.cn",
+        "yahoo.com.cn"
       ]
     }
   ]
