@@ -3,18 +3,19 @@
   "rules": [
     {
       "domain_suffix": [
-        "huijistatic.com",
+        "chaz.fun",
+        "allhistory.com",
         "jikipedia.com",
         "mbalib.com",
         "sec-wiki.com",
         "shidianbaike.com",
-        "chaz.fun",
         "fgo.wiki",
-        "huijiwiki.com",
+        "huijistatic.com",
+        "qiuwen.wiki",
         "moegirl.org",
+        "huijiwiki.com",
         "mcmod.cn",
         "qiuwenbaike.cn",
-        "qiuwen.wiki",
         "moegirl.org.cn"
       ]
     }
