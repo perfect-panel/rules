@@ -16,6 +16,8 @@
         "tamtam.chat",
         "youla.io",
         "youla.ru",
+        "imgsmail.ru",
+        "mail.ru",
         "ok.ru",
         "okcdn.ru",
         "mycdn.me",
@@ -56,9 +58,7 @@
         "vkuservideo.ru",
         "vkvideo.ru",
         "dzen.ru",
-        "dzeninfra.ru",
-        "imgsmail.ru",
-        "mail.ru"
+        "dzeninfra.ru"
       ]
     }
   ]

@@ -4,11 +4,11 @@
     {
       "domain_suffix": [
         "ads-twitter.com",
+        "graph.instagram.com",
+        "graph-fallback.instagram.com",
         "analytics.facebook.com",
         "facebookads.com",
-        "pixel.facebook.com",
-        "graph.instagram.com",
-        "graph-fallback.instagram.com"
+        "pixel.facebook.com"
       ]
     }
   ]
