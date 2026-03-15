@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain": [
+        "uplaypc-s-ubisoft.cdn.ubi.com",
         "gog.qtlglb.com",
         "gogalaxy.gog-statics.com",
         "menu-static.gog-statics.com",
@@ -13,10 +14,23 @@
         "gog-cdn.akamaized.net",
         "alibaba.cdn.steampipe.steamcontent.com",
         "lv.queniujq.cn",
-        "xz.pphimalayanrt.com",
-        "uplaypc-s-ubisoft.cdn.ubi.com"
+        "xz.pphimalayanrt.com"
       ],
       "domain_suffix": [
+        "legendofzelda.cn",
+        "legendofzelda.com.cn",
+        "miitomo.com.cn",
+        "nintendolabo.cn",
+        "nintendoswitch.cn",
+        "nintendoswitch.com.cn",
+        "supersmashbros.cn",
+        "supersmashbros.com.cn",
+        "xn--mts47c3w9b1qr.cn",
+        "mariokart.cn",
+        "mariokart.com.cn",
+        "supermariobros.com.cn",
+        "yostar.cn",
+        "bluearchive-cn.com",
         "steamserver.net",
         "steamusercontent.com",
         "csgo.wmsj.cn",
@@ -31,23 +45,9 @@
         "steamstatic.com.8686c.com",
         "steamchina.com",
         "gstore.val.manlaxy.com",
-        "bluearchive-cn.com",
-        "leagueoflegends.cn",
-        "lpl.com.cn",
         "xboxlive.cn",
-        "legendofzelda.cn",
-        "legendofzelda.com.cn",
-        "miitomo.com.cn",
-        "nintendolabo.cn",
-        "nintendoswitch.cn",
-        "nintendoswitch.com.cn",
-        "supersmashbros.cn",
-        "supersmashbros.com.cn",
-        "xn--mts47c3w9b1qr.cn",
-        "mariokart.cn",
-        "mariokart.com.cn",
-        "supermariobros.com.cn",
-        "yostar.cn"
+        "leagueoflegends.cn",
+        "lpl.com.cn"
       ],
       "domain_regex": [
         "^cdn-akamai-.+\\.gog-services\\.com$",
