@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain": [
+        "nvidia.custhelp.com",
         "nvidia.tt.omtrdc.net",
         "cn.download.nvidia.com"
       ],

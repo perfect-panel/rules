@@ -2,7 +2,11 @@
   "version": 2,
   "rules": [
     {
-      "domain": "checkip.amazonaws.com",
+      "domain": [
+        "checkip.amazonaws.com",
+        "ipv4-check-perf.radar.cloudflare.com",
+        "ipv6-check-perf.radar.cloudflare.com"
+      ],
       "domain_suffix": [
         "ipfind.io",
         "geojs.io",

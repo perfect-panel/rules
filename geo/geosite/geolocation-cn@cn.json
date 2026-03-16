@@ -41,10 +41,6 @@
         "cloudflareprod.com",
         "cloudflarestaging.com",
         "cloudflarestoragegw.com",
-        "cn.pool.ntp.org",
-        "ntp.neu.edu.cn",
-        "ntp.ntsc.ac.cn",
-        "ntp.org.cn",
         "a2z.org.cn",
         "amazonaws.cn",
         "amazonaws.com.cn",
@@ -69,7 +65,11 @@
         "amzndns-cn.biz",
         "amzndns-cn.cn",
         "amzndns-cn.com",
-        "amzndns-cn.net"
+        "amzndns-cn.net",
+        "cn.pool.ntp.org",
+        "ntp.neu.edu.cn",
+        "ntp.ntsc.ac.cn",
+        "ntp.org.cn"
       ],
       "domain_regex": [
         "^.+-mihayo\\.akamaized\\.net$",
