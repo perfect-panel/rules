@@ -9,10 +9,10 @@
         "bloodhound.spotify.com"
       ],
       "domain_suffix": [
-        "analytics.tiktok.com",
-        "ads.youtube.com",
         "log-upload-os.hoyoverse.com",
-        "ads-pixiv.net"
+        "ads-pixiv.net",
+        "analytics.tiktok.com",
+        "ads.youtube.com"
       ]
     }
   ]
