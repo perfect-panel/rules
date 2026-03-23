@@ -49,15 +49,6 @@
         "utoken.umeng.com",
         "w.cnzz.com",
         "z.gds.cnzz.com",
-        "adashx.ut.amap.com",
-        "dualstack-logs.amap.com",
-        "logs.amap.com",
-        "optimus-ads.amap.com",
-        "v6-adashx.ut.amap.com",
-        "v6-adashx.ut.cainiao.com",
-        "adashx.ut.ele.me",
-        "h-adashx.ut.ele.me",
-        "v6-adashx.ut.ele.me",
         "ad.api.3g.youku.com",
         "ad.api.mobile.youku.com",
         "ad.mobile.youku.com",
@@ -88,8 +79,17 @@
         "baichuan-sdk.alicdn.com",
         "nbsdk-baichuan.alicdn.com",
         "tce.alicdn.com",
+        "v6-adashx.ut.cainiao.com",
         "ads.uc.cn",
-        "adslot.uc.cn"
+        "adslot.uc.cn",
+        "adashx.ut.ele.me",
+        "h-adashx.ut.ele.me",
+        "v6-adashx.ut.ele.me",
+        "adashx.ut.amap.com",
+        "dualstack-logs.amap.com",
+        "logs.amap.com",
+        "optimus-ads.amap.com",
+        "v6-adashx.ut.amap.com"
       ]
     }
   ]

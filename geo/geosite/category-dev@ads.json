@@ -3,10 +3,10 @@
   "rules": [
     {
       "domain_suffix": [
-        "collector.github.com",
-        "copilot-telemetry.githubusercontent.com",
         "iads.unity3d.com",
-        "unityads.unity3d.com"
+        "unityads.unity3d.com",
+        "collector.github.com",
+        "copilot-telemetry.githubusercontent.com"
       ]
     }
   ]
