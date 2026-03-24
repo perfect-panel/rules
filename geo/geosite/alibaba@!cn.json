@@ -11,6 +11,14 @@
         "alipaymo.com",
         "tmall.ru",
         "fliggy.hk",
+        "alibabacloud.co.in",
+        "alibabacloud.com",
+        "alibabacloud.com.au",
+        "alibabacloud.com.hk",
+        "alibabacloud.com.my",
+        "alibabacloud.com.sg",
+        "alibabacloud.com.tw",
+        "alicloud.com",
         "oss-ap-northeast-1.aliyuncs.com",
         "oss-ap-northeast-2.aliyuncs.com",
         "oss-ap-south-1.aliyuncs.com",
@@ -25,15 +33,7 @@
         "oss-eu-west-1.aliyuncs.com",
         "oss-me-east-1.aliyuncs.com",
         "oss-us-east-1.aliyuncs.com",
-        "oss-us-west-1.aliyuncs.com",
-        "alibabacloud.co.in",
-        "alibabacloud.com",
-        "alibabacloud.com.au",
-        "alibabacloud.com.hk",
-        "alibabacloud.com.my",
-        "alibabacloud.com.sg",
-        "alibabacloud.com.tw",
-        "alicloud.com"
+        "oss-us-west-1.aliyuncs.com"
       ]
     }
   ]
