@@ -18,6 +18,10 @@
         "telega.me",
         "youla.io",
         "youla.ru",
+        "dzen.ru",
+        "dzeninfra.ru",
+        "imgsmail.ru",
+        "mail.ru",
         "ok.ru",
         "okcdn.ru",
         "mycdn.me",
@@ -56,11 +60,7 @@
         "vkuservideo.com",
         "vkuservideo.net",
         "vkuservideo.ru",
-        "vkvideo.ru",
-        "dzen.ru",
-        "dzeninfra.ru",
-        "imgsmail.ru",
-        "mail.ru"
+        "vkvideo.ru"
       ]
     }
   ]
