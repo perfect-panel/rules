@@ -10,6 +10,7 @@
         "roovza.skadsdk.appsflyersdk.com"
       ],
       "domain_suffix": [
+        "webnovel.com",
         "bytedapm.com",
         "byteoversea.com",
         "muscdn.com",
@@ -41,8 +42,7 @@
         "tiktokcdn.com.edgesuite.net",
         "tiktokv.com.edgekey.net",
         "tiktokv.com.edgesuite.net",
-        "analytics.tiktok.com",
-        "webnovel.com"
+        "analytics.tiktok.com"
       ]
     }
   ]
