@@ -2,7 +2,10 @@
   "version": 2,
   "rules": [
     {
-      "domain": "lastfm.freetls.fastly.net",
+      "domain": [
+        "lastfm.freetls.fastly.net",
+        "ws.audioscrobbler.com"
+      ],
       "domain_suffix": "last.fm"
     }
   ]
