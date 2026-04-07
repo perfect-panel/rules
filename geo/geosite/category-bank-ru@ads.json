@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "clickstream.sberbank.ru",
+        "error-tracking.megamarket.tech",
+        "sentry.sberauto.com",
+        "tracing-http.megamarket.tech",
+        "visor.sberbank.ru"
+      ],
+      "domain_suffix": "sbermarketing.ru"
+    }
+  ]
+}

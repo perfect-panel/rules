@@ -3,11 +3,12 @@
   "rules": [
     {
       "domain_suffix": [
+        "ifastps.com.cn",
+        "cloudru.cn",
         "futuesop.com",
         "futuniuniu.com",
         "futunn.com",
-        "futustatic.com",
-        "ifastps.com.cn"
+        "futustatic.com"
       ]
     }
   ]
