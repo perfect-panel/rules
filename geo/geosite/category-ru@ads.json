@@ -3,11 +3,6 @@
   "rules": [
     {
       "domain": [
-        "clickstream.sberbank.ru",
-        "error-tracking.megamarket.tech",
-        "sentry.sberauto.com",
-        "tracing-http.megamarket.tech",
-        "visor.sberbank.ru",
         "adfox.yandex.ru",
         "adfstat.yandex.ru",
         "ads.yandex.com",
@@ -34,10 +29,14 @@
         "report-partners.appmetrica.yandex.net",
         "report.ap.yandex-net.ru",
         "report.appmetrica.yandex.net",
-        "yabs.yandex.ru"
+        "yabs.yandex.ru",
+        "clickstream.sberbank.ru",
+        "error-tracking.megamarket.tech",
+        "sentry.sberauto.com",
+        "tracing-http.megamarket.tech",
+        "visor.sberbank.ru"
       ],
       "domain_suffix": [
-        "sbermarketing.ru",
         "adfox.ru",
         "admetrica.ru",
         "ads.yandex",
@@ -45,7 +44,8 @@
         "webvisor.org",
         "yads.tech",
         "yandex-metrica.ru",
-        "yandexmetrica.com"
+        "yandexmetrica.com",
+        "sbermarketing.ru"
       ]
     }
   ]
