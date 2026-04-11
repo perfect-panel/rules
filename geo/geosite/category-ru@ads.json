@@ -10,6 +10,7 @@
         "visor.sberbank.ru"
       ],
       "domain_suffix": [
+        "sbermarketing.ru",
         "adfox.ru",
         "admetrica.ru",
         "ads.yandex",
@@ -51,8 +52,7 @@
         "pix.yandex.ru",
         "pixel.yandex.net",
         "report.ap.yandex-net.ru",
-        "yabs.yandex.ru",
-        "sbermarketing.ru"
+        "yabs.yandex.ru"
       ]
     }
   ]
