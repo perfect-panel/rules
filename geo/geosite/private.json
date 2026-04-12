@@ -13,7 +13,8 @@
         "www.routerlogin.com",
         "tplogin.cn",
         "miwifi.com",
-        "www.miwifi.com"
+        "www.miwifi.com",
+        "local.adguard.org"
       ],
       "domain_suffix": [
         "internal",
@@ -130,6 +131,7 @@
         "113.0.203.in-addr.arpa",
         "100.51.198.in-addr.arpa",
         "2.0.192.in-addr.arpa",
+        "kis.v2.scr.kaspersky-labs.com",
         "255.255.255.255.in-addr.arpa",
         "8.b.d.0.1.0.0.2.ip6.arpa",
         "1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa"

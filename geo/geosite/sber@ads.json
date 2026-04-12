@@ -2,14 +2,15 @@
   "version": 2,
   "rules": [
     {
-      "domain": [
+      "domain_suffix": [
+        "sbermarketing.ru",
+        "ads.neon.click",
         "clickstream.sberbank.ru",
         "error-tracking.megamarket.tech",
         "sentry.sberauto.com",
         "tracing-http.megamarket.tech",
         "visor.sberbank.ru"
-      ],
-      "domain_suffix": "sbermarketing.ru"
+      ]
     }
   ]
 }

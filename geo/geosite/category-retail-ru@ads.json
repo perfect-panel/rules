@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ads.x5media.ru",
+        "sentry.x5.ru"
+      ]
+    }
+  ]
+}

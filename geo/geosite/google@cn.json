@@ -146,8 +146,8 @@
         "crl.pki.goog",
         "crls.pki.goog",
         "ocsp.pki.goog",
-        "firebase-settings.crashlytics.com",
-        "redirector.c.play.google.com"
+        "redirector.c.play.google.com",
+        "firebase-settings.crashlytics.com"
       ],
       "domain_suffix": [
         "google.cn",
