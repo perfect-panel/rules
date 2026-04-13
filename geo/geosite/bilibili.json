@@ -2,10 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "domain": [
-        "manga.bilibili.com",
-        "upos-hz-mirrorakam.akamaized.net"
-      ],
+      "domain": "upos-hz-mirrorakam.akamaized.net",
       "domain_suffix": [
         "bilicomic.com",
         "bilicomics.com",
@@ -31,8 +28,15 @@
         "bilibilipay.cn",
         "bilibilipay.com",
         "biligo.com",
+        "huasheng.cn",
         "im9.com",
         "yo9.com",
+        "bilibiligame.cn",
+        "bilibiligame.co",
+        "bilibiligame.net",
+        "biligame.co",
+        "biligame.com",
+        "biligame.net",
         "bilicdn1.com",
         "bilicdn2.com",
         "bilicdn3.com",
@@ -46,12 +50,6 @@
         "hdslb.org",
         "maoercdn.com",
         "mincdn.com",
-        "bilibiligame.cn",
-        "bilibiligame.co",
-        "bilibiligame.net",
-        "biligame.co",
-        "biligame.com",
-        "biligame.net",
         "bilibili.tv",
         "biliintl.com",
         "dreamcast.hk"
