@@ -3,12 +3,23 @@
   "rules": [
     {
       "domain_suffix": [
-        "graph.instagram.com",
-        "graph-fallback.instagram.com",
         "analytics.facebook.com",
         "facebookads.com",
         "pixel.facebook.com",
-        "ads-twitter.com"
+        "graph.instagram.com",
+        "graph-fallback.instagram.com",
+        "ads-twitter.com",
+        "vk-analytics.ru",
+        "adblogger.vk.com",
+        "ads.vk.com",
+        "ads.vk.ru",
+        "analytics.vk.ru",
+        "analytics.vk.com",
+        "ms.vk.com",
+        "ms.vk.ru",
+        "stats.vk-portal.net",
+        "target.vk.com",
+        "target.vk.ru"
       ]
     }
   ]

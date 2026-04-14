@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "vk-analytics.ru",
+        "adblogger.vk.com",
+        "ads.vk.com",
+        "ads.vk.ru",
+        "analytics.vk.ru",
+        "analytics.vk.com",
+        "ms.vk.com",
+        "ms.vk.ru",
+        "stats.vk-portal.net",
+        "target.vk.com",
+        "target.vk.ru"
+      ]
+    }
+  ]
+}

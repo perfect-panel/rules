@@ -4,7 +4,9 @@
     {
       "domain_suffix": [
         "dzen.ru",
-        "dzeninfra.ru"
+        "dzeninfra.ru",
+        "log.dzen.ru",
+        "ms.dzen.ru"
       ]
     }
   ]
