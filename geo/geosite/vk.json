@@ -2,6 +2,17 @@
   "version": 2,
   "rules": [
     {
+      "domain": [
+        "adblogger.vk.com",
+        "adblogger.vk.ru",
+        "ads.vk.com",
+        "ads.vk.ru",
+        "adv.vk.ru",
+        "advk.vk.ru",
+        "analytics.vk.ru",
+        "stats.vk-portal.net",
+        "target.vk.com"
+      ],
       "domain_suffix": [
         "mvk.com",
         "vk.cc",
@@ -40,17 +51,12 @@
         "vkpay.com",
         "vkpay.io",
         "vkpay.ru",
-        "vk-analytics.ru",
-        "adblogger.vk.com",
-        "ads.vk.com",
-        "ads.vk.ru",
-        "analytics.vk.ru",
+        "adv.vk.com",
         "analytics.vk.com",
         "ms.vk.com",
         "ms.vk.ru",
-        "stats.vk-portal.net",
-        "target.vk.com",
-        "target.vk.ru"
+        "target.vk.ru",
+        "vk-analytics.ru"
       ]
     }
   ]
