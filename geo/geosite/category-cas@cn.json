@@ -21,9 +21,9 @@
         "crl.pki.goog",
         "crls.pki.goog",
         "ocsp.pki.goog",
-        "www.microsoft.com",
         "cdn.globalsigncdn.com.cdn.cloudflare.net",
-        "crl.globalsign.net"
+        "crl.globalsign.net",
+        "www.microsoft.com"
       ],
       "domain_suffix": [
         "oemssl.cn",
@@ -33,14 +33,14 @@
         "trust-provider.cn",
         "dcocsp.cn",
         "digicert.cn",
+        "yahoo.cn",
+        "yahoo.com.cn",
+        "sslcom.cn",
         "alphassl.com",
         "easy-signing.com",
         "globalsign.cn",
         "globalsign.com",
-        "globalsigncdn.com",
-        "sslcom.cn",
-        "yahoo.cn",
-        "yahoo.com.cn"
+        "globalsigncdn.com"
       ]
     }
   ]
