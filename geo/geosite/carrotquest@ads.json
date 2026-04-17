@@ -2,7 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "domain_suffix": [
+      "domain": [
         "api-eu.carrotquest.app",
         "api-eu.carrotquest.io",
         "api-ru.carrotquest.app",

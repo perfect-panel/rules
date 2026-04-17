@@ -2,7 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "domain_suffix": [
+      "domain": [
         "ad.ozone.ru",
         "adv.ozon.ru",
         "agency-adv.ozon.ru",

@@ -2,7 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "domain_suffix": [
+      "domain": [
         "ads-gate.wildberries.ru",
         "ads-media.wildberries.ru",
         "ads.wildberries.ru",

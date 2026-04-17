@@ -2,6 +2,12 @@
   "version": 2,
   "rules": [
     {
+      "domain": [
+        "mvideo.edna.io",
+        "ads.x5.ru",
+        "ads.x5media.ru",
+        "sentry.x5.ru"
+      ],
       "domain_suffix": [
         "av.ru",
         "auchan.ru",
@@ -19,7 +25,6 @@
         "fix-price.com",
         "lenta.com",
         "lenta.tech",
-        "magnit.ru",
         "metro-cc.ru",
         "krasnoeibeloe.ru",
         "rostics.ru",
@@ -30,6 +35,10 @@
         "sushiwok.ru",
         "winelab.ru",
         "vkusvill.ru",
+        "acmvid.com",
+        "mvideo.ru",
+        "oskelly.co",
+        "oskelly.ru",
         "5ka.ru",
         "5post.market",
         "abonementx5.ru",
@@ -62,8 +71,12 @@
         "x5q.ru",
         "x5static.net",
         "x5w.ru",
-        "ads.x5media.ru",
-        "sentry.x5.ru"
+        "sokolov.io",
+        "sokolov.ru",
+        "kazanexpress.ru",
+        "magnit.com",
+        "magnit.ru",
+        "mm.ru"
       ]
     }
   ]

@@ -3,10 +3,10 @@
   "rules": [
     {
       "domain": [
+        "disney.my.sentry.io",
         "adeventtracker.spotify.com",
         "adstudio-assets.scdn.co",
-        "bloodhound.spotify.com",
-        "disney.my.sentry.io"
+        "bloodhound.spotify.com"
       ],
       "domain_suffix": [
         "ads-pixiv.net",

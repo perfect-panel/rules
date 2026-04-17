@@ -2,6 +2,23 @@
   "version": 2,
   "rules": [
     {
+      "domain": [
+        "ads-gate.wildberries.ru",
+        "ads-media.wildberries.ru",
+        "ads.wildberries.ru",
+        "advert-api.wb.ru",
+        "advert-api-sandbox.wb.ru",
+        "advert-media-api.wb.ru",
+        "advert-api.wildberries.ru",
+        "advert-api-sandbox.wildberries.ru",
+        "advert-media-api.wildberries.ru",
+        "analytics-stage.wildberries.ru",
+        "analytics.wildberries.ru",
+        "marketing-info.wildberries.ru",
+        "marketplace-sentry.wb.ru",
+        "sentry.wb.ru",
+        "web-analytics.wildberries.ru"
+      ],
       "domain_suffix": [
         "digital-wb.ru",
         "digitalwb.ru",
@@ -100,22 +117,7 @@
         "wolfberries.ru",
         "xn--80acbjgmges7ca.xn--p1ai",
         "xn--80acbjgsdq2cl.xn--p1ai",
-        "wildberries.co.il",
-        "ads-gate.wildberries.ru",
-        "ads-media.wildberries.ru",
-        "ads.wildberries.ru",
-        "advert-api.wb.ru",
-        "advert-api-sandbox.wb.ru",
-        "advert-media-api.wb.ru",
-        "advert-api.wildberries.ru",
-        "advert-api-sandbox.wildberries.ru",
-        "advert-media-api.wildberries.ru",
-        "analytics-stage.wildberries.ru",
-        "analytics.wildberries.ru",
-        "marketing-info.wildberries.ru",
-        "marketplace-sentry.wb.ru",
-        "sentry.wb.ru",
-        "web-analytics.wildberries.ru"
+        "wildberries.co.il"
       ]
     }
   ]

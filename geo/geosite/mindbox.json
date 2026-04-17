@@ -2,6 +2,15 @@
   "version": 2,
   "rules": [
     {
+      "domain": [
+        "api-js.mindbox.ru",
+        "api-ru.mindbox.cloud",
+        "api-staging.mindbox.ru",
+        "api.mindbox.cloud",
+        "api.mindbox.ru",
+        "sentry.mindbox.ru",
+        "sentry.popmechanic.ru"
+      ],
       "domain_suffix": [
         "botmechanic.io",
         "ceosummit.ru",
@@ -15,16 +24,9 @@
         "popmechanic.io",
         "popmechanic.ru",
         "summitceo.ru",
-        "api-js.mindbox.ru",
-        "api-ru.mindbox.cloud",
-        "api-staging.mindbox.ru",
-        "api.mindbox.cloud",
-        "api.mindbox.ru",
         "e.mindbox.ru",
         "g.mindbox.ru",
-        "s.mindbox.ru",
-        "sentry.mindbox.ru",
-        "sentry.popmechanic.ru"
+        "s.mindbox.ru"
       ]
     }
   ]
