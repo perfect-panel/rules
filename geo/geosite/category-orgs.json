@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain": [
+        "csis-prod.s3.amazonaws.com",
         "a.ppy.sh",
         "assets.ppy.sh",
         "c.ppy.sh",
@@ -11,8 +12,7 @@
         "lazer.ppy.sh",
         "notify.ppy.sh",
         "sentry.ppy.sh",
-        "spectator.ppy.sh",
-        "csis-prod.s3.amazonaws.com"
+        "spectator.ppy.sh"
       ],
       "domain_suffix": [
         "aomedia.org",
@@ -99,14 +99,8 @@
         "signalprocessingsociety.org",
         "technologyandsociety.org",
         "vtsociety.org",
-        "acousticbrainz.org",
-        "bookbrainz.org",
-        "coverartarchive.org",
-        "critiquebrainz.org",
-        "listenbrainz.org",
-        "messybrainz.org",
-        "metabrainz.org",
-        "musicbrainz.org",
+        "nist.gov",
+        "time.gov",
         "openmaps.org",
         "openstreetmap.com",
         "openstreetmap.net",
@@ -117,16 +111,11 @@
         "stateofthemap.com",
         "stateofthemap.org",
         "paskoocheh.com",
-        "ppy.sh",
         "ccstatic.org",
         "creativecommons.org",
         "creativecommons.engineering",
         "licensebuttons.net",
         "csis.org",
-        "nist.gov",
-        "time.gov",
-        "rolfoundation.org",
-        "rolsociety.org",
         "emojipedia.org",
         "worldemojiawards.com",
         "worldemojiday.com",
@@ -134,7 +123,18 @@
         "f-dro1d.org",
         "f-droid.com",
         "f-droid.org",
-        "fdroid.org"
+        "fdroid.org",
+        "acousticbrainz.org",
+        "bookbrainz.org",
+        "coverartarchive.org",
+        "critiquebrainz.org",
+        "listenbrainz.org",
+        "messybrainz.org",
+        "metabrainz.org",
+        "musicbrainz.org",
+        "ppy.sh",
+        "rolfoundation.org",
+        "rolsociety.org"
       ]
     }
   ]
