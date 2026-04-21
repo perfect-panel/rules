@@ -11,8 +11,10 @@
       "domain_suffix": [
         "av.ru",
         "auchan.ru",
+        "audiohead.ru",
         "bristol.ru",
         "detmir.ru",
+        "coolera.ru",
         "dixy.ru",
         "dodois.com",
         "dodois.io",
@@ -20,13 +22,17 @@
         "dodopizza.ru",
         "dodostatic.net",
         "dostaevsky.ru",
+        "doctorhead.ru",
         "evrasia.rest",
         "vkusnoitochka.ru",
         "fix-price.com",
+        "lamoda.ru",
         "lenta.com",
         "lenta.tech",
         "metro-cc.ru",
+        "notik.ru",
         "krasnoeibeloe.ru",
+        "regard.ru",
         "rostics.ru",
         "uni.rest",
         "unirest.tech",
@@ -35,10 +41,6 @@
         "sushiwok.ru",
         "winelab.ru",
         "vkusvill.ru",
-        "kazanexpress.ru",
-        "magnit.com",
-        "magnit.ru",
-        "mm.ru",
         "acmvid.com",
         "mvideo.ru",
         "oskelly.co",
@@ -76,7 +78,11 @@
         "x5static.net",
         "x5w.ru",
         "sokolov.io",
-        "sokolov.ru"
+        "sokolov.ru",
+        "kazanexpress.ru",
+        "magnit.com",
+        "magnit.ru",
+        "mm.ru"
       ]
     }
   ]
