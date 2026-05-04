@@ -4,8 +4,7 @@
     {
       "domain": [
         "www.entrust.cn",
-        "cdn.globalsigncdn.com.cdn.cloudflare.net",
-        "crl.globalsign.net",
+        "www.microsoft.com",
         "certs-lb.apple.com.akadns.net",
         "certs.apple.com",
         "crl-lb.apple.com.akadns.net",
@@ -23,14 +22,10 @@
         "crl.pki.goog",
         "crls.pki.goog",
         "ocsp.pki.goog",
-        "www.microsoft.com"
+        "cdn.globalsigncdn.com.cdn.cloudflare.net",
+        "crl.globalsign.net"
       ],
       "domain_suffix": [
-        "alphassl.com",
-        "easy-signing.com",
-        "globalsign.cn",
-        "globalsign.com",
-        "globalsigncdn.com",
         "dcocsp.cn",
         "digicert.cn",
         "oemssl.cn",
@@ -38,9 +33,14 @@
         "sectigochina.com",
         "sectigochina.com.cdn.cloudflare.net",
         "trust-provider.cn",
-        "sslcom.cn",
         "yahoo.cn",
-        "yahoo.com.cn"
+        "yahoo.com.cn",
+        "sslcom.cn",
+        "alphassl.com",
+        "easy-signing.com",
+        "globalsign.cn",
+        "globalsign.com",
+        "globalsigncdn.com"
       ]
     }
   ]
