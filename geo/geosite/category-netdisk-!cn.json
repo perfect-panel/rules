@@ -1,0 +1,67 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "paper-attachments.s3.amazonaws.com",
+        "o4504926511693824.ingest.sentry.io"
+      ],
+      "domain_suffix": [
+        "onedrive",
+        "onedriveupdater",
+        "dropbox.com",
+        "mega.io",
+        "mega.nz",
+        "sharepointonline.com",
+        "microsoftpersonalcontent.com",
+        "onedrive.com",
+        "sharepoint.cn",
+        "livefilestore.com",
+        "sharepoint.com",
+        "1drv.com",
+        "getdropbox.com",
+        "pikpakdrive.com",
+        "dropboxstatic.com",
+        "dropboxpartners.com",
+        "dropboxmail.com",
+        "1024terabox.com",
+        "dropboxforums.com",
+        "mypikpak.com",
+        "mypikpak.net",
+        "pickpackapp.com",
+        "pikpak.io",
+        "pikpak.me",
+        "dropboxusercontent.com",
+        "dropboxinsiders.com",
+        "terabox.com",
+        "freeterabox.com",
+        "nephobox.com",
+        "bestclouddrive.com",
+        "terabox1024.com",
+        "teraboxcdn.com",
+        "userdrive.org",
+        "usersdrive.com",
+        "db.tt",
+        "dropbox-dns.com",
+        "dropboxforum.com",
+        "dropbox.tech",
+        "dropboxapi.com",
+        "dropboxbusiness.com",
+        "dropboxcaptcha.com",
+        "mega.co.nz",
+        "onedrive.live.com",
+        "photos.live.com",
+        "oneclient.sfx.ms",
+        "storage.live.com",
+        "spoprod-a.akamaihd.net",
+        "storage.msn.com",
+        "skydrive.wns.windows.com"
+      ],
+      "domain_keyword": [
+        "1drv",
+        "onedrive",
+        "skydrive"
+      ]
+    }
+  ]
+}

@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "ipify.cn",
         "iplark.com",
         "ipw.cn",
         "whois.pconline.com.cn"
