@@ -2,7 +2,14 @@
   "version": 2,
   "rules": [
     {
-      "domain_suffix": "ficbook.net"
+      "domain_suffix": [
+        "fanfictionero.com",
+        "fic.fan",
+        "ficador.com",
+        "ficbook.net",
+        "ficmania.com",
+        "teinon.net"
+      ]
     }
   ]
 }

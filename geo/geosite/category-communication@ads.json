@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "adsgram.ai",
         "graph.whatsapp.com",
         "graph.whatsapp.net"
       ]
