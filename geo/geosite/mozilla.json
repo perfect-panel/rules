@@ -4,24 +4,24 @@
     {
       "domain": "mdn.mozillademos.org",
       "domain_suffix": [
+        "mdn.dev",
         "mozgcp.net",
-        "mozilla.com",
         "mozilla.community",
         "mozilla.net",
         "mozilla.org",
         "extensionworkshop.com",
         "bugzilla.org",
-        "getpocket.com",
-        "seamonkey-project.org",
         "thunderbird.net",
-        "firefox.com",
         "firefoxusercontent.com",
-        "mdn.dev",
+        "mozilla.com",
+        "getpocket.com",
         "mdnplay.dev",
         "mdnyalp.dev",
-        "developer.allizom.org",
+        "seamonkey-project.org",
+        "firefox.com",
+        "mdn.mozit.cloud",
         "mdn.allizom.net",
-        "mdn.mozit.cloud"
+        "developer.allizom.org"
       ]
     }
   ]
