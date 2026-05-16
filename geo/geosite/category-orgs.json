@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain": [
+        "csis-prod.s3.amazonaws.com",
         "a.ppy.sh",
         "assets.ppy.sh",
         "c.ppy.sh",
@@ -11,8 +12,7 @@
         "lazer.ppy.sh",
         "notify.ppy.sh",
         "sentry.ppy.sh",
-        "spectator.ppy.sh",
-        "csis-prod.s3.amazonaws.com"
+        "spectator.ppy.sh"
       ],
       "domain_suffix": [
         "aomedia.org",
@@ -30,8 +30,7 @@
         "who.int",
         "wi-fi.org",
         "wto.org",
-        "rolfoundation.org",
-        "rolsociety.org",
+        "csis.org",
         "ieee.org",
         "ieee.tv",
         "tryengineering.org",
@@ -86,14 +85,6 @@
         "signalprocessingsociety.org",
         "technologyandsociety.org",
         "vtsociety.org",
-        "acousticbrainz.org",
-        "bookbrainz.org",
-        "coverartarchive.org",
-        "critiquebrainz.org",
-        "listenbrainz.org",
-        "messybrainz.org",
-        "metabrainz.org",
-        "musicbrainz.org",
         "openmaps.org",
         "openstreetmap.com",
         "openstreetmap.net",
@@ -103,15 +94,13 @@
         "osmfoundation.org",
         "stateofthemap.com",
         "stateofthemap.org",
-        "paskoocheh.com",
         "ppy.sh",
-        "nist.gov",
-        "time.gov",
+        "rolfoundation.org",
+        "rolsociety.org",
         "ccstatic.org",
         "creativecommons.org",
         "creativecommons.engineering",
         "licensebuttons.net",
-        "csis.org",
         "emojipedia.org",
         "worldemojiawards.com",
         "worldemojiday.com",
@@ -135,7 +124,18 @@
         "grapheneos.page",
         "grapheneos.social",
         "seamlessupdate.app",
-        "vanadium.app"
+        "vanadium.app",
+        "acousticbrainz.org",
+        "bookbrainz.org",
+        "coverartarchive.org",
+        "critiquebrainz.org",
+        "listenbrainz.org",
+        "messybrainz.org",
+        "metabrainz.org",
+        "musicbrainz.org",
+        "nist.gov",
+        "time.gov",
+        "paskoocheh.com"
       ]
     }
   ]
