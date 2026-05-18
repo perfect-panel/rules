@@ -28,6 +28,10 @@
         "mcd.cn",
         "mcdchina.net",
         "mcdonalds.com.cn",
+        "cn.pool.ntp.org",
+        "ntp.neu.edu.cn",
+        "ntp.ntsc.ac.cn",
+        "ntp.org.cn",
         "a2z.org.cn",
         "amazonaws.cn",
         "amazonaws.com.cn",
@@ -71,11 +75,7 @@
         "cloudflareperf.com",
         "cloudflareprod.com",
         "cloudflarestaging.com",
-        "cloudflarestoragegw.com",
-        "cn.pool.ntp.org",
-        "ntp.neu.edu.cn",
-        "ntp.ntsc.ac.cn",
-        "ntp.org.cn"
+        "cloudflarestoragegw.com"
       ],
       "domain_regex": [
         ".+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top)$",
