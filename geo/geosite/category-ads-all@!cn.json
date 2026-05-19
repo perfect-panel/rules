@@ -3,8 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "htrace.wetvinfo.com",
         "dt.dbankcloud.ru",
+        "htrace.wetvinfo.com",
         "analytics.tiktok.com"
       ]
     }
