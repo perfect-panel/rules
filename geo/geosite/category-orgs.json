@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain": [
+        "csis-prod.s3.amazonaws.com",
         "a.ppy.sh",
         "assets.ppy.sh",
         "c.ppy.sh",
@@ -11,8 +12,7 @@
         "lazer.ppy.sh",
         "notify.ppy.sh",
         "sentry.ppy.sh",
-        "spectator.ppy.sh",
-        "csis-prod.s3.amazonaws.com"
+        "spectator.ppy.sh"
       ],
       "domain_suffix": [
         "aomedia.org",
@@ -30,6 +30,7 @@
         "who.int",
         "wi-fi.org",
         "wto.org",
+        "csis.org",
         "attestation.app",
         "grapheneos.app",
         "grapheneos.ca",
@@ -55,7 +56,6 @@
         "osmfoundation.org",
         "stateofthemap.com",
         "stateofthemap.org",
-        "paskoocheh.com",
         "rolfoundation.org",
         "rolsociety.org",
         "ccstatic.org",
@@ -70,10 +70,6 @@
         "f-droid.com",
         "f-droid.org",
         "fdroid.org",
-        "nist.gov",
-        "time.gov",
-        "ppy.sh",
-        "csis.org",
         "ieee.org",
         "ieee.tv",
         "tryengineering.org",
@@ -135,7 +131,11 @@
         "listenbrainz.org",
         "messybrainz.org",
         "metabrainz.org",
-        "musicbrainz.org"
+        "musicbrainz.org",
+        "nist.gov",
+        "time.gov",
+        "paskoocheh.com",
+        "ppy.sh"
       ]
     }
   ]
