@@ -17,6 +17,9 @@
         "gog-cdn.akamaized.net"
       ],
       "domain_suffix": [
+        "xboxlive.cn",
+        "bluearchive-cn.com",
+        "yostar.cn",
         "legendofzelda.cn",
         "legendofzelda.com.cn",
         "miitomo.com.cn",
@@ -43,9 +46,6 @@
         "steamstatic.com.8686c.com",
         "steamchina.com",
         "gstore.val.manlaxy.com",
-        "bluearchive-cn.com",
-        "yostar.cn",
-        "xboxlive.cn",
         "leagueoflegends.cn",
         "lpl.com.cn"
       ],
