@@ -3,7 +3,6 @@
   "rules": [
     {
       "domain": [
-        "uplaypc-s-ubisoft.cdn.ubi.com",
         "gog.qtlglb.com",
         "gogalaxy.gog-statics.com",
         "menu-static.gog-statics.com",
@@ -14,12 +13,10 @@
         "gog-cdn.akamaized.net",
         "alibaba.cdn.steampipe.steamcontent.com",
         "lv.queniujq.cn",
-        "xz.pphimalayanrt.com"
+        "xz.pphimalayanrt.com",
+        "uplaypc-s-ubisoft.cdn.ubi.com"
       ],
       "domain_suffix": [
-        "bluearchive-cn.com",
-        "leagueoflegends.cn",
-        "lpl.com.cn",
         "steamserver.net",
         "steamusercontent.com",
         "csgo.wmsj.cn",
@@ -35,7 +32,6 @@
         "steamchina.com",
         "gstore.val.manlaxy.com",
         "xboxlive.cn",
-        "yostar.cn",
         "legendofzelda.cn",
         "legendofzelda.com.cn",
         "miitomo.com.cn",
@@ -47,14 +43,18 @@
         "xn--mts47c3w9b1qr.cn",
         "mariokart.cn",
         "mariokart.com.cn",
-        "supermariobros.com.cn"
+        "supermariobros.com.cn",
+        "yostar.cn",
+        "leagueoflegends.cn",
+        "lpl.com.cn",
+        "bluearchive-cn.com"
       ],
       "domain_regex": [
-        "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$",
-        "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$",
         "^cdn-akamai-.+\\.gog-services\\.com$",
         "^gog-cdn-.+\\.footprint\\.net$",
-        "^images(-\\d)?\\.gog-statics\\.com$"
+        "^images(-\\d)?\\.gog-statics\\.com$",
+        "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$",
+        "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$"
       ]
     }
   ]
