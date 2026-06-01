@@ -2,6 +2,7 @@
   "version": 2,
   "rules": [
     {
+      "domain": "mozilla-ohttp.fastly-edge.com",
       "domain_suffix": [
         "chrome",
         "librewolf.net",
