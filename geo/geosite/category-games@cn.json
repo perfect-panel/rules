@@ -3,7 +3,6 @@
   "rules": [
     {
       "domain": [
-        "uplaypc-s-ubisoft.cdn.ubi.com",
         "gog.qtlglb.com",
         "gogalaxy.gog-statics.com",
         "menu-static.gog-statics.com",
@@ -14,10 +13,10 @@
         "gog-cdn.akamaized.net",
         "alibaba.cdn.steampipe.steamcontent.com",
         "lv.queniujq.cn",
-        "xz.pphimalayanrt.com"
+        "xz.pphimalayanrt.com",
+        "uplaypc-s-ubisoft.cdn.ubi.com"
       ],
       "domain_suffix": [
-        "xboxlive.cn",
         "bluearchive-cn.com",
         "legendofzelda.cn",
         "legendofzelda.com.cn",
@@ -34,6 +33,7 @@
         "leagueoflegends.cn",
         "lpl.com.cn",
         "yostar.cn",
+        "xboxlive.cn",
         "steamserver.net",
         "steamusercontent.com",
         "csgo.wmsj.cn",
