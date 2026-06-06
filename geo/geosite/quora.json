@@ -2,6 +2,7 @@
   "version": 2,
   "rules": [
     {
+      "domain": "www.quora.com.cdn.cloudflare.net",
       "domain_suffix": [
         "qr.ae",
         "quora.com",

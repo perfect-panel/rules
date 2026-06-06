@@ -13,6 +13,8 @@
         "alipaymo.com",
         "tmall.ru",
         "fliggy.hk",
+        "youku.tv",
+        "youkuplay.com",
         "alibabacloud.co.in",
         "alibabacloud.com",
         "alibabacloud.com.au",
@@ -35,9 +37,7 @@
         "oss-eu-west-1.aliyuncs.com",
         "oss-me-east-1.aliyuncs.com",
         "oss-us-east-1.aliyuncs.com",
-        "oss-us-west-1.aliyuncs.com",
-        "youku.tv",
-        "youkuplay.com"
+        "oss-us-west-1.aliyuncs.com"
       ]
     }
   ]
