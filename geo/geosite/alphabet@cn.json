@@ -108,7 +108,6 @@
         "www.destinationurl.com",
         "www.gstatic.com",
         "www.pxcc.com",
-        "redirector.c.play.google.com",
         "pki-goog.l.google.com",
         "c.pki.goog",
         "i.pki.goog",
@@ -116,6 +115,7 @@
         "crl.pki.goog",
         "crls.pki.goog",
         "ocsp.pki.goog",
+        "redirector.c.play.google.com",
         "firebase-settings.crashlytics.com"
       ],
       "domain_suffix": [
