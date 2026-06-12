@@ -2,7 +2,11 @@
   "version": 2,
   "rules": [
     {
-      "domain": "firebase-settings.crashlytics.com"
+      "domain": [
+        "crashlyticsreports-pa.googleapis.com",
+        "firebase-settings.crashlytics.com",
+        "update.crashlytics.com"
+      ]
     }
   ]
 }
