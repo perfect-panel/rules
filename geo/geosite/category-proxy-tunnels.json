@@ -3,11 +3,6 @@
   "rules": [
     {
       "domain_suffix": [
-        "pinggy.io",
-        "pinggy.link",
-        "tailscale.com",
-        "tailscale.io",
-        "ts.net",
         "equinox.io",
         "ngrok-agent.com",
         "ngrok-free.app",
@@ -18,7 +13,12 @@
         "ngrok.dev",
         "ngrok.io",
         "ngrok.pizza",
-        "ngrok.pro"
+        "ngrok.pro",
+        "pinggy.io",
+        "pinggy.link",
+        "tailscale.com",
+        "tailscale.io",
+        "ts.net"
       ]
     }
   ]
