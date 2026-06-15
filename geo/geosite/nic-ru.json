@@ -3,8 +3,10 @@
   "rules": [
     {
       "domain_suffix": [
-        "log-upload-os.hoyoverse.com",
-        "log-upload.mihoyo.com"
+        "nichost.ru",
+        "nic.ru",
+        "r01.ru",
+        "sweb.ru"
       ]
     }
   ]
