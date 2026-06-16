@@ -17,6 +17,10 @@
         "uplaypc-s-ubisoft.cdn.ubi.com"
       ],
       "domain_suffix": [
+        "ggpht.cn",
+        "amazonprimevideo.cn",
+        "amazonprimevideo.com.cn",
+        "xboxlive.cn",
         "steamserver.net",
         "steamusercontent.com",
         "csgo.wmsj.cn",
@@ -31,6 +35,8 @@
         "steamstatic.com.8686c.com",
         "steamchina.com",
         "gstore.val.manlaxy.com",
+        "bluearchive-cn.com",
+        "yostar.cn",
         "legendofzelda.cn",
         "legendofzelda.com.cn",
         "miitomo.com.cn",
@@ -43,21 +49,15 @@
         "mariokart.cn",
         "mariokart.com.cn",
         "supermariobros.com.cn",
-        "yostar.cn",
-        "bluearchive-cn.com",
-        "xboxlive.cn",
         "leagueoflegends.cn",
-        "lpl.com.cn",
-        "ggpht.cn",
-        "amazonprimevideo.cn",
-        "amazonprimevideo.com.cn"
+        "lpl.com.cn"
       ],
       "domain_regex": [
-        "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$",
-        "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$",
         "^cdn-akamai-.+\\.gog-services\\.com$",
         "^gog-cdn-.+\\.footprint\\.net$",
-        "^images(-\\d)?\\.gog-statics\\.com$"
+        "^images(-\\d)?\\.gog-statics\\.com$",
+        "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$",
+        "^epicgames-download\\d-\\d+\\.file\\.myqcloud\\.com$"
       ]
     }
   ]
