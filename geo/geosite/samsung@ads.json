@@ -2,7 +2,10 @@
   "version": 2,
   "rules": [
     {
-      "domain_suffix": "samsungads.com"
+      "domain_suffix": [
+        "samsungadhub.com",
+        "samsungads.com"
+      ]
     }
   ]
 }
