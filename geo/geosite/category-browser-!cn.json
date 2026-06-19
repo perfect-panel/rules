@@ -6,7 +6,7 @@
       "domain_suffix": [
         "chrome",
         "netsurf-browser.org",
-        "censorship.no",
+        "torproject.org",
         "minbrowser.org",
         "brave.com",
         "bromite.org",
@@ -28,13 +28,13 @@
         "vivaldi.com",
         "waterfox.net",
         "zen-browser.app",
+        "censorship.no",
         "epicbrowser.com",
         "extendfirefox.com",
         "firefox.com",
         "firefox.hu",
         "firefoxtweetmachine.com",
         "firefoxusercontent.com",
-        "torproject.org",
         "browser.kagi.com"
       ]
     }
