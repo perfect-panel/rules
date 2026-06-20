@@ -28,8 +28,6 @@
         "oss-me-east-1.aliyuncs.com",
         "oss-us-east-1.aliyuncs.com",
         "oss-us-west-1.aliyuncs.com",
-        "youku.tv",
-        "youkuplay.com",
         "alibabacloud.co.in",
         "alibabacloud.com",
         "alibabacloud.com.au",
@@ -37,7 +35,9 @@
         "alibabacloud.com.my",
         "alibabacloud.com.sg",
         "alibabacloud.com.tw",
-        "alicloud.com"
+        "alicloud.com",
+        "youku.tv",
+        "youkuplay.com"
       ]
     }
   ]

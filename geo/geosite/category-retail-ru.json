@@ -41,10 +41,6 @@
         "sushiwok.ru",
         "winelab.ru",
         "vkusvill.ru",
-        "kazanexpress.ru",
-        "magnit.com",
-        "magnit.ru",
-        "mm.ru",
         "acmvid.com",
         "mvideo.ru",
         "oskelly.co",
@@ -82,7 +78,11 @@
         "x5static.net",
         "x5w.ru",
         "sokolov.io",
-        "sokolov.ru"
+        "sokolov.ru",
+        "kazanexpress.ru",
+        "magnit.com",
+        "magnit.ru",
+        "mm.ru"
       ]
     }
   ]
