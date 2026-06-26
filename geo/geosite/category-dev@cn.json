@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain": [
+        "download.visualstudio.microsoft.com",
         "crashlyticsreports-pa.googleapis.com",
         "firebase-settings.crashlytics.com",
         "update.crashlytics.com",

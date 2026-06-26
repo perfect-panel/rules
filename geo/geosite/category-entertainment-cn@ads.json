@@ -23,6 +23,7 @@
         "rtlog5-applog.fqnovel.com"
       ],
       "domain_suffix": [
+        "log-upload.mihoyo.com",
         "adbkwai.com",
         "adkwai.com",
         "adukwai.com",
@@ -37,6 +38,12 @@
         "ark.letv.com",
         "dc.letv.com",
         "g3.letv.com",
+        "click.hunantv.com",
+        "da.hunantv.com",
+        "da.mgtv.com",
+        "log.hunantv.com",
+        "log.v2.hunantv.com",
+        "res.hunantv.com",
         "ad.tencentmusic.com",
         "adstats.tencentmusic.com",
         "monitor.music.qq.com",
@@ -44,19 +51,12 @@
         "stat.y.qq.com",
         "tmead.y.qq.com",
         "tmeadcomm.y.qq.com",
-        "ads.service.kugou.com",
-        "adserviceretry.kglink.cn",
-        "adserviceretry.kugou.com",
         "adbehavior.ximalaya.com",
         "adse.wsa.ximalaya.com",
         "adse.ximalaya.com",
-        "log-upload.mihoyo.com",
-        "click.hunantv.com",
-        "da.hunantv.com",
-        "da.mgtv.com",
-        "log.hunantv.com",
-        "log.v2.hunantv.com",
-        "res.hunantv.com"
+        "ads.service.kugou.com",
+        "adserviceretry.kglink.cn",
+        "adserviceretry.kugou.com"
       ]
     }
   ]

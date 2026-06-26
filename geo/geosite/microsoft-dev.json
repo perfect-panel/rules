@@ -7,7 +7,6 @@
         "bingsettingssearch.trafficmanager.net",
         "default.exp-tas.com",
         "developer.microsoft.com",
-        "download.visualstudio.microsoft.com",
         "dtlgalleryint.cloudapp.net",
         "packages.microsoft.com",
         "poshtestgallery.cloudapp.net",
@@ -18,7 +17,8 @@
         "vscode-sync.trafficmanager.net",
         "vscode.blob.core.windows.net",
         "vscode.search.windows.net",
-        "vsmarketplacebadge.apphb.com"
+        "vsmarketplacebadge.apphb.com",
+        "download.visualstudio.microsoft.com"
       ],
       "domain_suffix": [
         "adaptivecards.io",
