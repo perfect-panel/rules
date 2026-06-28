@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain": [
+        "stats.avito.ru",
         "ad.ozone.ru",
         "adv.ozon.ru",
         "agency-adv.ozon.ru",
@@ -35,12 +36,13 @@
         "marketing-info.wildberries.ru",
         "marketplace-sentry.wb.ru",
         "sentry.wb.ru",
-        "web-analytics.wildberries.ru",
-        "stats.avito.ru"
+        "web-analytics.wildberries.ru"
       ],
       "domain_suffix": [
-        "wbr.by",
-        "ozon.by",
+        "avito.ru",
+        "avito.st",
+        "ozon.travel",
+        "ozonstatus.ru",
         "ozoncard.ru",
         "o3team.ru",
         "o-courier.ru",
@@ -48,7 +50,7 @@
         "ozon-dostavka.ru",
         "ozoncamp.pro",
         "ozon.tech",
-        "wbrep.ru",
+        "ozon.by",
         "ozon.com",
         "o3.ru",
         "xn--e1adjldbbpv.xn--90ais",
@@ -77,7 +79,7 @@
         "ozonsport.ru",
         "ozon.tm",
         "ozonusercontent.com",
-        "ozon.travel",
+        "digital-wb.ru",
         "digitalwb.ru",
         "etradebook.ru",
         "geobasket.ru",
@@ -109,11 +111,11 @@
         "wbmail.ru",
         "wbmotivator.ru",
         "wbpay.ru",
-        "digital-wb.ru",
-        "ozonstatus.ru",
-        "wbtek.ru",
-        "wbstatic.ru",
+        "wbr.by",
+        "wbrep.ru",
         "wbstatic.net",
+        "wbstatic.ru",
+        "wbtek.ru",
         "wbwh.ru",
         "wbwh.tech",
         "wibes.com",
@@ -174,12 +176,10 @@
         "wolfberries.ru",
         "xn--80acbjgmges7ca.xn--p1ai",
         "xn--80acbjgsdq2cl.xn--p1ai",
-        "avito.ru",
-        "avito.st",
+        "ozon.com.by",
         "ozonru.co.il",
         "ozon.com.kz",
         "ewisdom.us.kg",
-        "ozon.com.by",
         "wildberries.co.il"
       ]
     }
