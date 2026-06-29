@@ -4,10 +4,10 @@
     {
       "domain_suffix": [
         "tvbc.com.cn",
-        "etnet.com.cn",
-        "etnetchina.com.cn",
         "cn-cdn1.skymansion.net",
-        "thetype.cloud"
+        "thetype.cloud",
+        "etnet.com.cn",
+        "etnetchina.com.cn"
       ]
     }
   ]
