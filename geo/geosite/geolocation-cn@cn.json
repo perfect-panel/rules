@@ -69,15 +69,15 @@
         "cloudflareprod.com",
         "cloudflarestaging.com",
         "cloudflarestoragegw.com",
-        "cn.pool.ntp.org",
-        "ntp.neu.edu.cn",
-        "ntp.ntsc.ac.cn",
-        "ntp.org.cn",
+        "starbucks.com.cn",
         "4008-517-517.cn",
         "mcd.cn",
         "mcdchina.net",
         "mcdonalds.com.cn",
-        "starbucks.com.cn"
+        "cn.pool.ntp.org",
+        "ntp.neu.edu.cn",
+        "ntp.ntsc.ac.cn",
+        "ntp.org.cn"
       ],
       "domain_regex": [
         ".+\\.awsdns-cn-[0-9][0-9]\\.(biz|com|net|top)$",
