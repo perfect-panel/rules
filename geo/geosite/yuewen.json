@@ -3,6 +3,16 @@
   "rules": [
     {
       "domain_suffix": [
+        "aireads.cn",
+        "chatdrama.cn",
+        "chatdrama.net",
+        "chatqidian.cn",
+        "chatqidian.net",
+        "chattext.cn",
+        "chatwrite.net",
+        "chatxiaoxiang.com",
+        "chatyuewen.cn",
+        "dishu3.com",
         "hongxiu.com",
         "qdmm.com",
         "qidian.com",
@@ -12,6 +22,7 @@
         "xs.cn",
         "xs8.cn",
         "xxsy.net",
+        "xxsypro.com",
         "yuewen.com",
         "webnovel.com"
       ]
