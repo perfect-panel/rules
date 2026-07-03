@@ -5,8 +5,9 @@
       "domain": [
         "copilot-telemetry-service.githubusercontent.com",
         "copilot-telemetry.githubusercontent.com",
+        "browser-intake-datadoghq.com",
         "o33249.ingest.sentry.io",
-        "browser-intake-datadoghq.com"
+        "openai.qualtrics.com"
       ]
     }
   ]

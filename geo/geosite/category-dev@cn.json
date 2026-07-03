@@ -3,11 +3,11 @@
   "rules": [
     {
       "domain": [
-        "download.visualstudio.microsoft.com",
         "crashlyticsreports-pa.googleapis.com",
         "firebase-settings.crashlytics.com",
         "update.crashlytics.com",
-        "cdn.ampproject.org"
+        "cdn.ampproject.org",
+        "download.visualstudio.microsoft.com"
       ],
       "domain_suffix": [
         "researchkit.cn",
