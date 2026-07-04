@@ -6,8 +6,8 @@
         "crashlyticsreports-pa.googleapis.com",
         "firebase-settings.crashlytics.com",
         "update.crashlytics.com",
-        "cdn.ampproject.org",
-        "download.visualstudio.microsoft.com"
+        "download.visualstudio.microsoft.com",
+        "cdn.ampproject.org"
       ],
       "domain_suffix": [
         "researchkit.cn",
