@@ -3,6 +3,9 @@
   "rules": [
     {
       "domain": [
+        "www.entrust.cn",
+        "cdn.globalsigncdn.com.cdn.cloudflare.net",
+        "crl.globalsign.net",
         "pki-goog.l.google.com",
         "c.pki.goog",
         "i.pki.goog",
@@ -10,9 +13,6 @@
         "crl.pki.goog",
         "crls.pki.goog",
         "ocsp.pki.goog",
-        "cdn.globalsigncdn.com.cdn.cloudflare.net",
-        "crl.globalsign.net",
-        "www.entrust.cn",
         "certs-lb.apple.com.akadns.net",
         "certs.apple.com",
         "crl-lb.apple.com.akadns.net",
@@ -23,19 +23,19 @@
         "valid.origin-apple.com.akadns.net"
       ],
       "domain_suffix": [
-        "alphassl.com",
-        "easy-signing.com",
-        "globalsign.cn",
-        "globalsign.com",
-        "globalsigncdn.com",
         "oemssl.cn",
         "oemssl.cn.cdn.cloudflare.net",
         "sectigochina.com",
         "sectigochina.com.cdn.cloudflare.net",
         "trust-provider.cn",
-        "sslcom.cn",
         "dcocsp.cn",
-        "digicert.cn"
+        "digicert.cn",
+        "alphassl.com",
+        "easy-signing.com",
+        "globalsign.cn",
+        "globalsign.com",
+        "globalsigncdn.com",
+        "sslcom.cn"
       ]
     }
   ]
