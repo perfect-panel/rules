@@ -10,8 +10,7 @@
         "gog.qtlglb.com"
       ],
       "domain_suffix": [
-        "leagueoflegends.cn",
-        "lpl.com.cn",
+        "bluearchive-cn.com",
         "steamserver.net",
         "steamusercontent.com",
         "csgo.com.cn",
@@ -28,8 +27,8 @@
         "steamstatic.com.8686c.com",
         "steamchina.com",
         "gstore.val.manlaxy.com",
-        "xboxlive.cn",
-        "yostar.cn",
+        "leagueoflegends.cn",
+        "lpl.com.cn",
         "legendofzelda.cn",
         "legendofzelda.com.cn",
         "miitomo.com.cn",
@@ -42,7 +41,8 @@
         "mariokart.cn",
         "mariokart.com.cn",
         "supermariobros.com.cn",
-        "bluearchive-cn.com"
+        "yostar.cn",
+        "xboxlive.cn"
       ],
       "domain_regex": [
         "^.+-mihayo\\.akamaized\\.net$",
