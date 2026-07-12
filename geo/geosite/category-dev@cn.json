@@ -10,13 +10,13 @@
         "cdn.ampproject.org"
       ],
       "domain_suffix": [
-        "microsoftreactor.cn",
-        "microsoftreactor.com.cn",
-        "reactorms.com.cn",
         "researchkit.cn",
         "researchkit.com.cn",
         "swiftui.cn",
         "swiftui.com.cn",
+        "microsoftreactor.cn",
+        "microsoftreactor.com.cn",
+        "reactorms.com.cn",
         "jetbrains.com.cn",
         "cdn.jetbrains.com"
       ]

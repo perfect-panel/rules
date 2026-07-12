@@ -3,6 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
+        "getsentry.com",
+        "sentry.dev",
         "sentry.io",
         "sentry-cdn.com"
       ]
