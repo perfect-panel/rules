@@ -6,10 +6,11 @@
         "alibaba.cdn.steampipe.steamcontent.com",
         "lv.queniujq.cn",
         "xz.pphimalayanrt.com",
-        "gog.qtlglb.com",
-        "uplaypc-s-ubisoft.cdn.ubi.com"
+        "uplaypc-s-ubisoft.cdn.ubi.com",
+        "gog.qtlglb.com"
       ],
       "domain_suffix": [
+        "bluearchive-cn.com",
         "legendofzelda.cn",
         "legendofzelda.com.cn",
         "miitomo.com.cn",
@@ -38,11 +39,10 @@
         "steamstatic.com.8686c.com",
         "steamchina.com",
         "gstore.val.manlaxy.com",
-        "xboxlive.cn",
         "yostar.cn",
-        "bluearchive-cn.com",
         "leagueoflegends.cn",
-        "lpl.com.cn"
+        "lpl.com.cn",
+        "xboxlive.cn"
       ],
       "domain_regex": [
         "^.+-mihayo\\.akamaized\\.net$",
