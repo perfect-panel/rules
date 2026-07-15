@@ -9,11 +9,11 @@
         "disney.my.sentry.io"
       ],
       "domain_suffix": [
+        "ads-pixiv.net",
         "ads.youtube.com",
-        "analytics.tiktok.com",
         "log-upload-os.hoyoverse.com",
         "insights-collector.gog.com",
-        "ads-pixiv.net"
+        "analytics.tiktok.com"
       ]
     }
   ]
