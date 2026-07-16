@@ -2,7 +2,10 @@
   "version": 2,
   "rules": [
     {
-      "domain_suffix": "spacex.com"
+      "domain_suffix": [
+        "spacex.com",
+        "starlink.com"
+      ]
     }
   ]
 }

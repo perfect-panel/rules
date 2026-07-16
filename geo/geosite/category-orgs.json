@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain": [
+        "csis-prod.s3.amazonaws.com",
         "a.ppy.sh",
         "assets.ppy.sh",
         "c.ppy.sh",
@@ -11,8 +12,7 @@
         "lazer.ppy.sh",
         "notify.ppy.sh",
         "sentry.ppy.sh",
-        "spectator.ppy.sh",
-        "csis-prod.s3.amazonaws.com"
+        "spectator.ppy.sh"
       ],
       "domain_suffix": [
         "aomedia.org",
@@ -30,6 +30,10 @@
         "who.int",
         "wi-fi.org",
         "wto.org",
+        "f-dro1d.org",
+        "f-droid.com",
+        "f-droid.org",
+        "fdroid.org",
         "attestation.app",
         "grapheneos.app",
         "grapheneos.ca",
@@ -100,18 +104,6 @@
         "signalprocessingsociety.org",
         "technologyandsociety.org",
         "vtsociety.org",
-        "nist.gov",
-        "time.gov",
-        "ppy.sh",
-        "f-dro1d.org",
-        "f-droid.com",
-        "f-droid.org",
-        "fdroid.org",
-        "csis.org",
-        "emojipedia.org",
-        "worldemojiawards.com",
-        "worldemojiday.com",
-        "xn--yt8h.la",
         "acousticbrainz.org",
         "bookbrainz.org",
         "coverartarchive.org",
@@ -120,6 +112,8 @@
         "messybrainz.org",
         "metabrainz.org",
         "musicbrainz.org",
+        "nist.gov",
+        "time.gov",
         "openmaps.org",
         "openstreetmap.com",
         "openstreetmap.net",
@@ -130,12 +124,18 @@
         "stateofthemap.com",
         "stateofthemap.org",
         "paskoocheh.com",
-        "rolfoundation.org",
-        "rolsociety.org",
         "ccstatic.org",
         "creativecommons.org",
         "creativecommons.engineering",
-        "licensebuttons.net"
+        "licensebuttons.net",
+        "csis.org",
+        "emojipedia.org",
+        "worldemojiawards.com",
+        "worldemojiday.com",
+        "xn--yt8h.la",
+        "ppy.sh",
+        "rolfoundation.org",
+        "rolsociety.org"
       ]
     }
   ]
