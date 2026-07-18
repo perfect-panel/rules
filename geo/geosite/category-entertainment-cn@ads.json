@@ -3,7 +3,6 @@
   "rules": [
     {
       "domain": [
-        "apilog-web.acfun.cn",
         "ads3-normal-hl.zijieapi.com",
         "ads3-normal.zijieapi.com",
         "ads5-normal-hl.zijieapi.com",
@@ -20,7 +19,8 @@
         "rtlog5-applog-hl.fqnovel.com",
         "rtlog5-applog.fqnovel.com",
         "log-sdk.gifshow.com",
-        "wlog.kuaishou.com"
+        "wlog.kuaishou.com",
+        "apilog-web.acfun.cn"
       ],
       "domain_suffix": [
         "ad.tencentmusic.com",
@@ -36,12 +36,10 @@
         "adbehavior.ximalaya.com",
         "adse.wsa.ximalaya.com",
         "adse.ximalaya.com",
-        "click.gamersky.com",
-        "ja.gamersky.com",
-        "ja1.gamersky.com",
-        "ja2.gamersky.com",
-        "wmbd.gamersky.com",
-        "log-upload.mihoyo.com",
+        "apple.www.letv.com",
+        "ark.letv.com",
+        "dc.letv.com",
+        "g3.letv.com",
         "click.hunantv.com",
         "da.hunantv.com",
         "da.mgtv.com",
@@ -53,10 +51,12 @@
         "adukwai.com",
         "e.kuaishou.cn",
         "e.kuaishou.com",
-        "apple.www.letv.com",
-        "ark.letv.com",
-        "dc.letv.com",
-        "g3.letv.com"
+        "click.gamersky.com",
+        "ja.gamersky.com",
+        "ja1.gamersky.com",
+        "ja2.gamersky.com",
+        "wmbd.gamersky.com",
+        "log-upload.mihoyo.com"
       ]
     }
   ]

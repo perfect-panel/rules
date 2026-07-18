@@ -3,11 +3,11 @@
   "rules": [
     {
       "domain_suffix": [
-        "kinopoisk.ru",
-        "wink.am",
+        "cdnvideo.ru",
+        "cdnvideohub.com",
         "trbcdn.net",
         "kinorium.com",
-        "cdnvideo.ru",
+        "24h.tv",
         "amediateka.ru",
         "beeline.tv",
         "ivi.ru",
@@ -15,10 +15,8 @@
         "smotreshka.tv",
         "start.ru",
         "tvigle.ru",
-        "cdnvideohub.com",
         "viju.ru",
-        "24h.tv",
-        "rtbcdn.ru",
+        "promodj.com",
         "okkoapi.tv",
         "playfamily.ru",
         "okko.sport",
@@ -26,10 +24,12 @@
         "restream-media.net",
         "restream.ru",
         "more.tv",
-        "promodj.com",
+        "wink.am",
         "wink.ru",
         "rutube.ru",
         "rutubelist.ru",
+        "rtbcdn.ru",
+        "kinopoisk.ru",
         "kinopoisk-ru.clstorage.net"
       ]
     }
