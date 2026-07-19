@@ -3,7 +3,6 @@
   "rules": [
     {
       "domain": [
-        "csis-prod.s3.amazonaws.com",
         "a.ppy.sh",
         "assets.ppy.sh",
         "c.ppy.sh",
@@ -12,7 +11,8 @@
         "lazer.ppy.sh",
         "notify.ppy.sh",
         "sentry.ppy.sh",
-        "spectator.ppy.sh"
+        "spectator.ppy.sh",
+        "csis-prod.s3.amazonaws.com"
       ],
       "domain_suffix": [
         "aomedia.org",
@@ -30,11 +30,6 @@
         "who.int",
         "wi-fi.org",
         "wto.org",
-        "ccstatic.org",
-        "creativecommons.org",
-        "creativecommons.engineering",
-        "licensebuttons.net",
-        "csis.org",
         "emojipedia.org",
         "worldemojiawards.com",
         "worldemojiday.com",
@@ -55,10 +50,6 @@
         "grapheneos.social",
         "seamlessupdate.app",
         "vanadium.app",
-        "f-dro1d.org",
-        "f-droid.com",
-        "f-droid.org",
-        "fdroid.org",
         "ieee.org",
         "ieee.tv",
         "tryengineering.org",
@@ -121,6 +112,18 @@
         "messybrainz.org",
         "metabrainz.org",
         "musicbrainz.org",
+        "ppy.sh",
+        "rolfoundation.org",
+        "rolsociety.org",
+        "ccstatic.org",
+        "creativecommons.org",
+        "creativecommons.engineering",
+        "licensebuttons.net",
+        "csis.org",
+        "f-dro1d.org",
+        "f-droid.com",
+        "f-droid.org",
+        "fdroid.org",
         "nist.gov",
         "time.gov",
         "openmaps.org",
@@ -132,10 +135,7 @@
         "osmfoundation.org",
         "stateofthemap.com",
         "stateofthemap.org",
-        "paskoocheh.com",
-        "ppy.sh",
-        "rolfoundation.org",
-        "rolsociety.org"
+        "paskoocheh.com"
       ]
     }
   ]
