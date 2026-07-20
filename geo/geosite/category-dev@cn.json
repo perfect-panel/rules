@@ -10,15 +10,15 @@
         "update.crashlytics.com"
       ],
       "domain_suffix": [
-        "microsoftreactor.cn",
-        "microsoftreactor.com.cn",
-        "reactorms.com.cn",
         "jetbrains.com.cn",
         "cdn.jetbrains.com",
         "researchkit.cn",
         "researchkit.com.cn",
         "swiftui.cn",
-        "swiftui.com.cn"
+        "swiftui.com.cn",
+        "microsoftreactor.cn",
+        "microsoftreactor.com.cn",
+        "reactorms.com.cn"
       ]
     }
   ]
