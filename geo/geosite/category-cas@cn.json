@@ -28,14 +28,14 @@
         "sectigochina.com",
         "sectigochina.com.cdn.cloudflare.net",
         "trust-provider.cn",
-        "dcocsp.cn",
-        "digicert.cn",
+        "sslcom.cn",
         "alphassl.com",
         "easy-signing.com",
         "globalsign.cn",
         "globalsign.com",
         "globalsigncdn.com",
-        "sslcom.cn"
+        "dcocsp.cn",
+        "digicert.cn"
       ]
     }
   ]

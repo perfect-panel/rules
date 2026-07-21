@@ -3,8 +3,9 @@
   "rules": [
     {
       "domain_suffix": [
-        "log-upload-os.hoyoverse.com",
-        "insights-collector.gog.com"
+        "formula1.com",
+        "f1.com",
+        "f1tv.com"
       ]
     }
   ]
