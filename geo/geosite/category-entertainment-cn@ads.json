@@ -23,18 +23,6 @@
         "apilog-web.acfun.cn"
       ],
       "domain_suffix": [
-        "log-upload.mihoyo.com",
-        "adbkwai.com",
-        "adkwai.com",
-        "adukwai.com",
-        "e.kuaishou.cn",
-        "e.kuaishou.com",
-        "click.hunantv.com",
-        "da.hunantv.com",
-        "da.mgtv.com",
-        "log.hunantv.com",
-        "log.v2.hunantv.com",
-        "res.hunantv.com",
         "ad.tencentmusic.com",
         "adstats.tencentmusic.com",
         "monitor.music.qq.com",
@@ -53,10 +41,22 @@
         "ja1.gamersky.com",
         "ja2.gamersky.com",
         "wmbd.gamersky.com",
+        "adbkwai.com",
+        "adkwai.com",
+        "adukwai.com",
+        "e.kuaishou.cn",
+        "e.kuaishou.com",
+        "click.hunantv.com",
+        "da.hunantv.com",
+        "da.mgtv.com",
+        "log.hunantv.com",
+        "log.v2.hunantv.com",
+        "res.hunantv.com",
         "apple.www.letv.com",
         "ark.letv.com",
         "dc.letv.com",
-        "g3.letv.com"
+        "g3.letv.com",
+        "log-upload.mihoyo.com"
       ]
     }
   ]
