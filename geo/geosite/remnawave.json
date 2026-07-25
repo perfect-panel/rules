@@ -3,9 +3,9 @@
   "rules": [
     {
       "domain_suffix": [
-        "adsgram.ai",
-        "graph.whatsapp.com",
-        "graph.whatsapp.net"
+        "docs.rw",
+        "log.rw",
+        "try.rw"
       ]
     }
   ]
