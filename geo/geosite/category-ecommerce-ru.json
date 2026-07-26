@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain": [
+        "stats.avito.ru",
         "ad.ozone.ru",
         "adv.ozon.ru",
         "agency-adv.ozon.ru",
@@ -35,12 +36,13 @@
         "marketing-info.wildberries.ru",
         "marketplace-sentry.wb.ru",
         "sentry.wb.ru",
-        "web-analytics.wildberries.ru",
-        "stats.avito.ru"
+        "web-analytics.wildberries.ru"
       ],
       "domain_suffix": [
-        "wbmotivator.ru",
-        "wildberries.kz",
+        "avito.ru",
+        "avito.st",
+        "flowwow-images.com",
+        "flowwow.com",
         "funpay.com",
         "funpay.ru",
         "sfunpay.com",
@@ -74,7 +76,7 @@
         "ozonpartners.by",
         "ozonpartners.ru",
         "ozonrocet.by",
-        "flowwow-images.com",
+        "ozonroket.by",
         "xn----8sbahiqzthbd0bn.xn--p1ai",
         "ozonru.com",
         "ozonru.eu",
@@ -111,9 +113,9 @@
         "wbbasket.ru",
         "wbcontent.net",
         "wbdubna.ru",
-        "wibes.com",
-        "flowwow.com",
-        "ozonroket.by",
+        "wbkids.ru",
+        "wbmail.ru",
+        "wbmotivator.ru",
         "wbpay.ru",
         "wbr.by",
         "wbrep.ru",
@@ -122,7 +124,7 @@
         "wbtek.ru",
         "wbwh.ru",
         "wbwh.tech",
-        "wbkids.ru",
+        "wibes.com",
         "wibes.ru",
         "wildberries.am",
         "wildberries.by",
@@ -130,7 +132,7 @@
         "wildberries.eu",
         "wildberries.ge",
         "wildberries.kg",
-        "wbmail.ru",
+        "wildberries.kz",
         "wildberries.lt",
         "wildberries.ru",
         "wildberries.tj",
@@ -180,12 +182,10 @@
         "wolfberries.ru",
         "xn--80acbjgmges7ca.xn--p1ai",
         "xn--80acbjgsdq2cl.xn--p1ai",
-        "avito.ru",
-        "avito.st",
+        "ozon.com.by",
         "ozonru.co.il",
         "ozon.com.kz",
         "ewisdom.us.kg",
-        "ozon.com.by",
         "wildberries.co.il"
       ]
     }
