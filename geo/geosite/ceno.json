@@ -2,7 +2,10 @@
   "version": 2,
   "rules": [
     {
-      "domain_suffix": "censorship.no"
+      "domain_suffix": [
+        "ceno.app",
+        "censorship.no"
+      ]
     }
   ]
 }

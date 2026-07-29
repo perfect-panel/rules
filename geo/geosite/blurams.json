@@ -2,7 +2,10 @@
   "version": 2,
   "rules": [
     {
-      "domain_suffix": "blurams.com"
+      "domain_suffix": [
+        "blurams.app",
+        "blurams.com"
+      ]
     }
   ]
 }
