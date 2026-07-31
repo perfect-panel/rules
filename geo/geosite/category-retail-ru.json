@@ -14,8 +14,11 @@
         "audiohead.ru",
         "bristol.ru",
         "detmir.ru",
+        "citilink.ru",
         "coolera.ru",
         "dixy.ru",
+        "dns-shop.ru",
+        "dns-com.ru",
         "dodois.com",
         "dodois.io",
         "dodopizza.com",
@@ -42,10 +45,6 @@
         "sushiwok.ru",
         "winelab.ru",
         "vkusvill.ru",
-        "kazanexpress.ru",
-        "magnit.com",
-        "magnit.ru",
-        "mm.ru",
         "acmvid.com",
         "mvideo.ru",
         "oskelly.co",
@@ -83,7 +82,11 @@
         "x5static.net",
         "x5w.ru",
         "sokolov.io",
-        "sokolov.ru"
+        "sokolov.ru",
+        "kazanexpress.ru",
+        "magnit.com",
+        "magnit.ru",
+        "mm.ru"
       ]
     }
   ]

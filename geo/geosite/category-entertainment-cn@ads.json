@@ -23,16 +23,6 @@
         "wlog.kuaishou.com"
       ],
       "domain_suffix": [
-        "apple.www.letv.com",
-        "ark.letv.com",
-        "dc.letv.com",
-        "g3.letv.com",
-        "log-upload.mihoyo.com",
-        "click.gamersky.com",
-        "ja.gamersky.com",
-        "ja1.gamersky.com",
-        "ja2.gamersky.com",
-        "wmbd.gamersky.com",
         "ad.tencentmusic.com",
         "adstats.tencentmusic.com",
         "monitor.music.qq.com",
@@ -40,12 +30,17 @@
         "stat.y.qq.com",
         "tmead.y.qq.com",
         "tmeadcomm.y.qq.com",
-        "adbehavior.ximalaya.com",
-        "adse.wsa.ximalaya.com",
-        "adse.ximalaya.com",
         "ads.service.kugou.com",
         "adserviceretry.kglink.cn",
         "adserviceretry.kugou.com",
+        "adbehavior.ximalaya.com",
+        "adse.wsa.ximalaya.com",
+        "adse.ximalaya.com",
+        "click.gamersky.com",
+        "ja.gamersky.com",
+        "ja1.gamersky.com",
+        "ja2.gamersky.com",
+        "wmbd.gamersky.com",
         "click.hunantv.com",
         "da.hunantv.com",
         "da.mgtv.com",
@@ -56,7 +51,12 @@
         "adkwai.com",
         "adukwai.com",
         "e.kuaishou.cn",
-        "e.kuaishou.com"
+        "e.kuaishou.com",
+        "log-upload.mihoyo.com",
+        "apple.www.letv.com",
+        "ark.letv.com",
+        "dc.letv.com",
+        "g3.letv.com"
       ]
     }
   ]
