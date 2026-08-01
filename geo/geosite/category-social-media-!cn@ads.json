@@ -17,7 +17,6 @@
         "analytics.facebook.com",
         "facebookads.com",
         "pixel.facebook.com",
-        "ads-twitter.com",
         "graph.instagram.com",
         "graph-fallback.instagram.com",
         "adv.vk.com",
@@ -25,7 +24,8 @@
         "ms.vk.com",
         "ms.vk.ru",
         "target.vk.ru",
-        "vk-analytics.ru"
+        "vk-analytics.ru",
+        "ads-twitter.com"
       ]
     }
   ]
