@@ -2,10 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "domain_suffix": [
-        "mytvsuper.com",
-        "tvb.com"
-      ]
+      "domain_suffix": "mytvsuper.com"
     }
   ]
 }

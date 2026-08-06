@@ -3,9 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "3lateral.com",
-        "artstation.com",
-        "capturingreality.com",
+        "playparagon.com",
+        "shadowcomplex.com",
         "cubicmotion.com",
         "battlebreakers.com",
         "eac-cdn.com",
@@ -18,20 +17,22 @@
         "fortnite.com",
         "hyprsense.com",
         "paragon.com",
-        "playparagon.com",
-        "quixel.com",
-        "quixel.se",
+        "capturingreality.com",
+        "3lateral.com",
+        "spyjinx.com",
         "radgametools.com",
         "realityscan.com",
         "roborecall.com",
-        "shadowcomplex.com",
+        "quixel.com",
         "sketchfab.com",
-        "spyjinx.com",
+        "quixel.se",
         "twinmotion.com",
         "unrealengine.com",
         "unrealtournament.com",
-        "egdownload.fastly-edge.com",
-        "fortnite-vod.akamaized.net"
+        "artstationmedia.com",
+        "artstation.com",
+        "fortnite-vod.akamaized.net",
+        "egdownload.fastly-edge.com"
       ],
       "domain_regex": [
         "^epicgames-download\\d\\.akamaized\\.net$",
