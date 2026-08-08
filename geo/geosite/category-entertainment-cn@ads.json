@@ -23,11 +23,18 @@
         "apilog-web.acfun.cn"
       ],
       "domain_suffix": [
+        "log-upload.mihoyo.com",
         "click.gamersky.com",
         "ja.gamersky.com",
         "ja1.gamersky.com",
         "ja2.gamersky.com",
         "wmbd.gamersky.com",
+        "click.hunantv.com",
+        "da.hunantv.com",
+        "da.mgtv.com",
+        "log.hunantv.com",
+        "log.v2.hunantv.com",
+        "res.hunantv.com",
         "adbkwai.com",
         "adkwai.com",
         "adukwai.com",
@@ -49,14 +56,7 @@
         "adserviceretry.kugou.com",
         "adbehavior.ximalaya.com",
         "adse.wsa.ximalaya.com",
-        "adse.ximalaya.com",
-        "click.hunantv.com",
-        "da.hunantv.com",
-        "da.mgtv.com",
-        "log.hunantv.com",
-        "log.v2.hunantv.com",
-        "res.hunantv.com",
-        "log-upload.mihoyo.com"
+        "adse.ximalaya.com"
       ]
     }
   ]
