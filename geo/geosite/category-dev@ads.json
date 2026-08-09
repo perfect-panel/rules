@@ -7,6 +7,7 @@
         "copilot-telemetry.githubusercontent.com"
       ],
       "domain_suffix": [
+        "collector.github.com",
         "analytics.cloud.unity3d.com",
         "api2.amplitude.com",
         "config.uca.cloud.unity3d.com",
@@ -15,8 +16,7 @@
         "iads.unity3d.com",
         "perf.cloud.unity3d.com",
         "perf-events.cloud.unity3d.com",
-        "unityads.unity3d.com",
-        "collector.github.com"
+        "unityads.unity3d.com"
       ]
     }
   ]
