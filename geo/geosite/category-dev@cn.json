@@ -3,7 +3,6 @@
   "rules": [
     {
       "domain": [
-        "cdn.ampproject.org",
         "cdn.apple-mapkit.com",
         "cdn1.apple-mapkit.com",
         "cdn2.apple-mapkit.com",
@@ -15,6 +14,7 @@
         "cdn-cn3.apple-mapkit.com",
         "cdn-cn4.apple-mapkit.com",
         "download.visualstudio.microsoft.com",
+        "cdn.ampproject.org",
         "crashlyticsreports-pa.googleapis.com",
         "firebase-settings.crashlytics.com",
         "update.crashlytics.com"
