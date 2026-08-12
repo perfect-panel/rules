@@ -14,10 +14,10 @@
         "cdn-cn3.apple-mapkit.com",
         "cdn-cn4.apple-mapkit.com",
         "download.visualstudio.microsoft.com",
-        "cdn.ampproject.org",
         "crashlyticsreports-pa.googleapis.com",
         "firebase-settings.crashlytics.com",
-        "update.crashlytics.com"
+        "update.crashlytics.com",
+        "cdn.ampproject.org"
       ],
       "domain_suffix": [
         "researchkit.cn",
