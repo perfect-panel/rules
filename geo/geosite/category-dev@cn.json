@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain": [
+        "cdn.ampproject.org",
         "cdn.apple-mapkit.com",
         "cdn1.apple-mapkit.com",
         "cdn2.apple-mapkit.com",
@@ -16,7 +17,6 @@
         "crashlyticsreports-pa.googleapis.com",
         "firebase-settings.crashlytics.com",
         "update.crashlytics.com",
-        "cdn.ampproject.org",
         "download.visualstudio.microsoft.com"
       ],
       "domain_suffix": [
@@ -24,11 +24,11 @@
         "researchkit.com.cn",
         "swiftui.cn",
         "swiftui.com.cn",
-        "jetbrains.com.cn",
-        "cdn.jetbrains.com",
         "microsoftreactor.cn",
         "microsoftreactor.com.cn",
-        "reactorms.com.cn"
+        "reactorms.com.cn",
+        "jetbrains.com.cn",
+        "cdn.jetbrains.com"
       ]
     }
   ]
