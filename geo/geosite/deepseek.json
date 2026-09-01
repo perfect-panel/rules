@@ -2,7 +2,10 @@
   "version": 2,
   "rules": [
     {
-      "domain_suffix": "deepseek.com"
+      "domain_suffix": [
+        "deepseek.com",
+        "deepseeksvc.com"
+      ]
     }
   ]
 }
