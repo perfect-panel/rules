@@ -4,7 +4,7 @@
     {
       "domain_suffix": [
         "viju.ru",
-        "rutube.ru",
+        "kinopoisk.ru",
         "kinescopecdn.net",
         "trbcdn.net",
         "kinorium.com",
@@ -19,13 +19,9 @@
         "tvigle.ru",
         "cdnvideohub.com",
         "cdnvideo.ru",
-        "rtbcdn.ru",
-        "rutubelist.ru",
-        "promodj.com",
-        "rutube.sport",
-        "kinopoisk.ru",
-        "wink.ru",
         "okkoapi.tv",
+        "rutube.sport",
+        "promodj.com",
         "playfamily.ru",
         "okko.sport",
         "okko.tv",
@@ -33,6 +29,10 @@
         "restream.ru",
         "more.tv",
         "wink.am",
+        "wink.ru",
+        "rutube.ru",
+        "rutubelist.ru",
+        "rtbcdn.ru",
         "kinopoisk-ru.clstorage.net"
       ]
     }
