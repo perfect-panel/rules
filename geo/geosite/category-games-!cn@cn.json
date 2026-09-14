@@ -21,11 +21,9 @@
         "mariokart.cn",
         "mariokart.com.cn",
         "supermariobros.com.cn",
+        "bluearchive-cn.com",
         "leagueoflegends.cn",
         "lpl.com.cn",
-        "bluearchive-cn.com",
-        "yostar.cn",
-        "xboxlive.cn",
         "steamserver.net",
         "steamusercontent.com",
         "csgo.com.cn",
@@ -41,7 +39,9 @@
         "steampowered.com.8686c.com",
         "steamstatic.com.8686c.com",
         "steamchina.com",
-        "gstore.val.manlaxy.com"
+        "gstore.val.manlaxy.com",
+        "xboxlive.cn",
+        "yostar.cn"
       ],
       "domain_regex": [
         "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$",
