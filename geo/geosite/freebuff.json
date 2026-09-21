@@ -3,9 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "adsgram.ai",
-        "graph.whatsapp.com",
-        "graph.whatsapp.net"
+        "codebuff.com",
+        "freebuff.com"
       ]
     }
   ]
