@@ -3,10 +3,6 @@
   "rules": [
     {
       "domain_suffix": [
-        "ligadobra.ru",
-        "ligastavok-csr.ru",
-        "ligastavok.ru",
-        "sozvezdie-dobra.ru",
         "win-line.ru",
         "winline.ru",
         "winlinebet.ru",
@@ -15,7 +11,11 @@
         "bk6bba-resources.com",
         "bk6bba-resources.ru",
         "fon.bet",
-        "fon.promo"
+        "fon.promo",
+        "ligadobra.ru",
+        "ligastavok-csr.ru",
+        "ligastavok.ru",
+        "sozvezdie-dobra.ru"
       ]
     }
   ]
