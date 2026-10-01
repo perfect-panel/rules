@@ -11,10 +11,10 @@
         "microsoftads.com",
         "msads.net",
         "nelreports.net",
-        "collector.github.com",
         "browser.events.data.msn.cn",
         "browser.events.data.msn.com",
-        "bingads.com"
+        "bingads.com",
+        "collector.github.com"
       ]
     }
   ]
