@@ -3,7 +3,6 @@
   "rules": [
     {
       "domain": [
-        "stats.avito.ru",
         "ad.ozone.ru",
         "adv.ozon.ru",
         "agency-adv.ozon.ru",
@@ -36,7 +35,8 @@
         "marketing-info.wildberries.ru",
         "marketplace-sentry.wb.ru",
         "sentry.wb.ru",
-        "web-analytics.wildberries.ru"
+        "web-analytics.wildberries.ru",
+        "stats.avito.ru"
       ]
     }
   ]
