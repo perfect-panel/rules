@@ -2,12 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "domain": [
-        "copilot-telemetry-service.githubusercontent.com",
-        "copilot-telemetry.githubusercontent.com"
-      ],
       "domain_suffix": [
-        "collector.github.com",
         "analytics.cloud.unity3d.com",
         "config.uca.cloud.unity3d.com",
         "cdp.cloud.unity3d.com",

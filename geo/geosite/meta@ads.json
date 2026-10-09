@@ -3,8 +3,6 @@
   "rules": [
     {
       "domain_suffix": [
-        "graph.whatsapp.com",
-        "graph.whatsapp.net",
         "analytics.facebook.com",
         "facebookads.com",
         "pixel.facebook.com",
