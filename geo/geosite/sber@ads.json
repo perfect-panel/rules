@@ -10,10 +10,10 @@
         "visor.sberbank.ru"
       ],
       "domain_suffix": [
-        "ads.sber.ru",
-        "clickstream.sberbank.ru",
         "neon.click",
-        "sbermarketing.ru"
+        "sbermarketing.ru",
+        "ads.sber.ru",
+        "clickstream.sberbank.ru"
       ]
     }
   ]
