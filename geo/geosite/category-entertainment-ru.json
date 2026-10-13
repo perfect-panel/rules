@@ -3,8 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "cdnvideo.ru",
-        "cdnvideohub.com",
+        "viju.ru",
+        "kinopoisk.ru",
         "kinescopecdn.net",
         "trbcdn.net",
         "kinorium.com",
@@ -17,9 +17,11 @@
         "smotreshka.tv",
         "start.ru",
         "tvigle.ru",
-        "viju.ru",
-        "promodj.com",
+        "cdnvideohub.com",
+        "cdnvideo.ru",
         "okkoapi.tv",
+        "rutube.sport",
+        "promodj.com",
         "playfamily.ru",
         "okko.sport",
         "okko.tv",
@@ -31,8 +33,6 @@
         "rutube.ru",
         "rutubelist.ru",
         "rtbcdn.ru",
-        "rutube.sport",
-        "kinopoisk.ru",
         "kinopoisk-ru.clstorage.net"
       ]
     }
