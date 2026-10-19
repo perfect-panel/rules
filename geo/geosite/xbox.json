@@ -2,10 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "domain": [
-        "flightsimulator.azureedge.net",
-        "prodforza.blob.core.windows.net"
-      ],
+      "domain": "prodforza.blob.core.windows.net",
       "domain_suffix": [
         "xbox",
         "gamepass.com",
@@ -31,8 +28,6 @@
         "xboxservices.com",
         "xboxstudios.com",
         "xbx.lv",
-        "asobostudio.com",
-        "flightsimulator.com",
         "beth.games",
         "bethesda.net",
         "bethesdagamestudios.com",
