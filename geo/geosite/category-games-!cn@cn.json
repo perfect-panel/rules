@@ -9,8 +9,10 @@
         "xz.pphimalayanrt.com"
       ],
       "domain_suffix": [
-        "xboxlive.cn",
         "yostar.cn",
+        "xboxlive.cn",
+        "leagueoflegends.cn",
+        "lpl.com.cn",
         "legendofzelda.cn",
         "legendofzelda.com.cn",
         "miitomo.com.cn",
@@ -23,8 +25,7 @@
         "mariokart.cn",
         "mariokart.com.cn",
         "supermariobros.com.cn",
-        "leagueoflegends.cn",
-        "lpl.com.cn",
+        "bluearchive-cn.com",
         "steamserver.net",
         "steamusercontent.com",
         "csgo.com.cn",
@@ -40,8 +41,7 @@
         "steampowered.com.8686c.com",
         "steamstatic.com.8686c.com",
         "steamchina.com",
-        "gstore.val.manlaxy.com",
-        "bluearchive-cn.com"
+        "gstore.val.manlaxy.com"
       ],
       "domain_regex": [
         "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$",
