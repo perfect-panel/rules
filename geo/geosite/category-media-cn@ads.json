@@ -3,7 +3,6 @@
   "rules": [
     {
       "domain_suffix": [
-        "ad.cctv.com",
         "adx.36kr.com",
         "adnet.sohu.com",
         "ads.sohu.com",
@@ -20,7 +19,8 @@
         "qpb.sohu.com",
         "qpb1.sohu.com",
         "reke.at.sohu.com",
-        "track.sohu.com"
+        "track.sohu.com",
+        "ad.cctv.com"
       ]
     }
   ]
