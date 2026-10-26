@@ -14,6 +14,9 @@
         "target.vk.com"
       ],
       "domain_suffix": [
+        "analytics.facebook.com",
+        "facebookads.com",
+        "pixel.facebook.com",
         "graph.instagram.com",
         "graph-fallback.instagram.com",
         "ads-twitter.com",
@@ -22,10 +25,7 @@
         "ms.vk.com",
         "ms.vk.ru",
         "target.vk.ru",
-        "vk-analytics.ru",
-        "analytics.facebook.com",
-        "facebookads.com",
-        "pixel.facebook.com"
+        "vk-analytics.ru"
       ]
     }
   ]

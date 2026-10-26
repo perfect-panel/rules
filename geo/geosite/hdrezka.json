@@ -3,17 +3,22 @@
   "rules": [
     {
       "domain_suffix": [
-        "hdrezka-home.tv",
-        "hdrezka.ac",
+        "rezka.ag",
+        "rezka.fi",
         "hdrezka.ag",
         "hdrezka.cm",
         "hdrezka.co",
         "hdrezka.me",
+        "hdrezka.ac",
         "hdrezka.org",
+        "hdrezka-home.tv",
         "hdrezka.site",
-        "rezka.ag",
+        "statichdrezka.ac",
         "hdrzk.org",
-        "stream.voidboost.cc"
+        "voidslam.org",
+        "stream.voidboost.cc",
+        "stream.voidboost.one",
+        "static.voidboost.com"
       ]
     }
   ]
