@@ -18,7 +18,9 @@
         "vscode.blob.core.windows.net",
         "vscode.search.windows.net",
         "vsmarketplacebadge.apphb.com",
-        "download.visualstudio.microsoft.com"
+        "dc.services.visualstudio.com",
+        "download.visualstudio.microsoft.com",
+        "rt.services.visualstudio.com"
       ],
       "domain_suffix": [
         "adaptivecards.io",

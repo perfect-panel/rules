@@ -5,7 +5,6 @@
       "domain_suffix": [
         "meitu.com",
         "meitudata.com",
-        "meitustat.com",
         "designkit.cn",
         "kaipai.com",
         "meipai.com",
@@ -15,7 +14,8 @@
         "roboneo.com",
         "whee.com",
         "wink.cn",
-        "zcool.com.cn"
+        "zcool.com.cn",
+        "meitustat.com"
       ]
     }
   ]

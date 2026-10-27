@@ -27,7 +27,6 @@
         "tns.simba.taobao.com",
         "track.lc.quark.cn",
         "v6-adashx.ut.taobao.com",
-        "v6-adashx.ut.cainiao.com",
         "adashx.ut.ele.me",
         "h-adashx.ut.ele.me",
         "v6-adashx.ut.ele.me",
@@ -42,11 +41,7 @@
         "baichuan-sdk.alicdn.com",
         "nbsdk-baichuan.alicdn.com",
         "tce.alicdn.com",
-        "adashx.ut.amap.com",
-        "dualstack-logs.amap.com",
-        "logs.amap.com",
-        "optimus-ads.amap.com",
-        "v6-adashx.ut.amap.com",
+        "v6-adashx.ut.cainiao.com",
         "aaid.umeng.com",
         "alog.umeng.com",
         "alog.umengcloud.com",
@@ -89,7 +84,12 @@
         "statis.api.3g.youku.com",
         "v6-adashx.ut.youku.com",
         "yk-ssp.ad.youku.com",
-        "ykad-data.youku.com"
+        "ykad-data.youku.com",
+        "adashx.ut.amap.com",
+        "dualstack-logs.amap.com",
+        "logs.amap.com",
+        "optimus-ads.amap.com",
+        "v6-adashx.ut.amap.com"
       ]
     }
   ]
