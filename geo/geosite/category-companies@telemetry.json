@@ -3,14 +3,21 @@
   "rules": [
     {
       "domain": [
-        "sentry.mindbox.ru",
-        "sentry.popmechanic.ru",
         "dc.applicationinsights.azure.com",
         "live.applicationinsights.azure.com",
         "copilot-telemetry-service.githubusercontent.com",
         "copilot-telemetry.githubusercontent.com",
         "dc.services.visualstudio.com",
         "rt.services.visualstudio.com",
+        "sentry.iptv.rt.ru",
+        "analytics.mobile.yandex.net",
+        "log.strm.yandex.ru",
+        "mc.yandex.com",
+        "mc.yandex.net",
+        "mc.yango.com",
+        "sentry.hetzner.company",
+        "sentry.mindbox.ru",
+        "sentry.popmechanic.ru",
         "sentry-ng.g.smailru.net",
         "srch-telemeter10.g.smailru.net",
         "sentry.dev-my.com",
@@ -22,20 +29,13 @@
         "stats.rustore.ru",
         "stats.telega.info",
         "stats.vk-portal.net",
+        "incoming.telemetry.mozilla.org",
+        "incoming-telemetry.thunderbird.net",
         "crashlyticsreports-pa.googleapis.com",
         "firebase-settings.crashlytics.com",
         "firebaselogging-pa.googleapis.com",
         "firebaselogging.googleapis.com",
-        "update.crashlytics.com",
-        "sentry.hetzner.company",
-        "analytics.mobile.yandex.net",
-        "log.strm.yandex.ru",
-        "mc.yandex.com",
-        "mc.yandex.net",
-        "mc.yango.com",
-        "incoming.telemetry.mozilla.org",
-        "incoming-telemetry.thunderbird.net",
-        "sentry.iptv.rt.ru"
+        "update.crashlytics.com"
       ],
       "domain_suffix": [
         "applicationinsights.io",
@@ -49,9 +49,9 @@
         "in.applicationinsights.azure.com",
         "cafe.github.com",
         "collector.github.com",
-        "apptracer.ru",
-        "metrics.viqeo.tv",
-        "log.dzen.ru",
+        "adobestats.io",
+        "analytics.vpc.duolingo.com",
+        "metrics.duolingo.com",
         "appmetrica.yandex.com",
         "appmetrica.yandex.net",
         "appmetrica.yandex.ru",
@@ -65,9 +65,9 @@
         "webvisor.org",
         "yandex-metrica.ru",
         "yandexmetrica.com",
-        "adobestats.io",
-        "analytics.vpc.duolingo.com",
-        "metrics.duolingo.com"
+        "apptracer.ru",
+        "metrics.viqeo.tv",
+        "log.dzen.ru"
       ]
     }
   ]

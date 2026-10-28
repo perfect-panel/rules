@@ -3,9 +3,9 @@
   "rules": [
     {
       "domain_suffix": [
+        "meitustat.com",
         "shuqistat.com",
-        "cloudflareinsights-cn.com",
-        "meitustat.com"
+        "cloudflareinsights-cn.com"
       ]
     }
   ]

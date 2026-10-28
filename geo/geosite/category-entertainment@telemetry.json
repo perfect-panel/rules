@@ -3,8 +3,8 @@
   "rules": [
     {
       "domain": [
-        "disney.my.sentry.io",
-        "sentry.ppy.sh"
+        "sentry.ppy.sh",
+        "disney.my.sentry.io"
       ],
       "domain_suffix": [
         "insights-collector.gog.com",
