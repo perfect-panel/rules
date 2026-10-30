@@ -17,10 +17,10 @@
         "sngmta.qq.com",
         "tpstelemetry.tencent.com",
         "trace.qq.com",
-        "badjs.weixinbridge.com",
         "monitor.music.qq.com",
         "report.tencentmusic.com",
-        "stat.y.qq.com"
+        "stat.y.qq.com",
+        "badjs.weixinbridge.com"
       ]
     }
   ]
