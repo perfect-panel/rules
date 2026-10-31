@@ -5,8 +5,8 @@
       "domain": "sentry.ppy.sh",
       "domain_suffix": [
         "log-upload.mihoyo.com",
-        "log-upload-os.hoyoverse.com",
-        "insights-collector.gog.com"
+        "insights-collector.gog.com",
+        "log-upload-os.hoyoverse.com"
       ]
     }
   ]
