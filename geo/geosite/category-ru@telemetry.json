@@ -3,11 +3,16 @@
   "rules": [
     {
       "domain": [
-        "analytics.mobile.yandex.net",
-        "log.strm.yandex.ru",
-        "mc.yandex.com",
-        "mc.yandex.net",
-        "mc.yango.com",
+        "metrika.kontur.ru",
+        "sentry.kontur.host",
+        "error-tracking.megamarket.tech",
+        "metrics.21-school.ru",
+        "sentry.sberauto.com",
+        "tracing-http.megamarket.tech",
+        "sentry.iptv.rt.ru",
+        "sentry.x5.ru",
+        "sentry.mindbox.ru",
+        "sentry.popmechanic.ru",
         "stats.avito.ru",
         "sentry.ozon.ru",
         "analytics-stage.wildberries.ru",
@@ -15,15 +20,6 @@
         "marketplace-sentry.wb.ru",
         "sentry.wb.ru",
         "web-analytics.wildberries.ru",
-        "sentry.x5.ru",
-        "error-tracking.megamarket.tech",
-        "metrics.21-school.ru",
-        "sentry.sberauto.com",
-        "tracing-http.megamarket.tech",
-        "sentry.mindbox.ru",
-        "sentry.popmechanic.ru",
-        "metrika.kontur.ru",
-        "sentry.kontur.host",
         "sentry-ng.g.smailru.net",
         "srch-telemeter10.g.smailru.net",
         "sentry.dev-my.com",
@@ -35,9 +31,18 @@
         "stats.rustore.ru",
         "stats.telega.info",
         "stats.vk-portal.net",
-        "sentry.iptv.rt.ru"
+        "analytics.mobile.yandex.net",
+        "log.strm.yandex.ru",
+        "mc.yandex.com",
+        "mc.yandex.net",
+        "mc.yango.com"
       ],
       "domain_suffix": [
+        "clickstream.sberbank.ru",
+        "clickstream.sberbank.ru",
+        "apptracer.ru",
+        "metrics.viqeo.tv",
+        "log.dzen.ru",
         "appmetrica.yandex.com",
         "appmetrica.yandex.net",
         "appmetrica.yandex.ru",
@@ -50,12 +55,7 @@
         "webvisor.com",
         "webvisor.org",
         "yandex-metrica.ru",
-        "yandexmetrica.com",
-        "clickstream.sberbank.ru",
-        "clickstream.sberbank.ru",
-        "apptracer.ru",
-        "metrics.viqeo.tv",
-        "log.dzen.ru"
+        "yandexmetrica.com"
       ]
     }
   ]
