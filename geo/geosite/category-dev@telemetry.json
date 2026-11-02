@@ -14,11 +14,11 @@
         "rt.services.visualstudio.com"
       ],
       "domain_suffix": [
+        "cafe.github.com",
+        "collector.github.com",
         "analytics.cloud.unity3d.com",
         "perf.cloud.unity3d.com",
-        "perf-events.cloud.unity3d.com",
-        "cafe.github.com",
-        "collector.github.com"
+        "perf-events.cloud.unity3d.com"
       ]
     }
   ]
