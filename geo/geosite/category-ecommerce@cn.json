@@ -3,17 +3,9 @@
   "rules": [
     {
       "domain_suffix": [
-        "ikea.cn",
-        "ingka-dt.cn",
-        "ingka-internal.cn",
-        "ingka-system.cn",
         "gucci.cn",
-        "shopee.cn",
-        "shopeesz.com",
-        "adidas.cn",
-        "adidas.com.cn",
-        "adidasspecialtysports.cn",
         "booking.cn",
+        "walmart.cn",
         "adcommerce.cn",
         "appforebay.cn",
         "connectcommerce.cn",
@@ -51,9 +43,6 @@
         "kijijidns.com.cn",
         "mobileinternational.com.cn",
         "terapeak.cn",
-        "muji.com.cn",
-        "walmart.cn",
-        "hm.com.cn",
         "just-do-it.cn",
         "nike-shox.cn",
         "nike.cn",
@@ -82,7 +71,18 @@
         "farfetch.net.cn",
         "miniso.cn",
         "minisohome.cn",
-        "minsio.cn"
+        "minsio.cn",
+        "hm.com.cn",
+        "muji.com.cn",
+        "ikea.cn",
+        "ingka-dt.cn",
+        "ingka-internal.cn",
+        "ingka-system.cn",
+        "shopee.cn",
+        "shopeesz.com",
+        "adidas.cn",
+        "adidas.com.cn",
+        "adidasspecialtysports.cn"
       ]
     }
   ]

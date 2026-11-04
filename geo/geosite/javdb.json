@@ -8,7 +8,7 @@
         "jdbimgs.com",
         "jdbstatic.com"
       ],
-      "domain_regex": "javdb\\d+\\.com$"
+      "domain_regex": "(^|\\.)javdb\\d+\\.com$"
     }
   ]
 }
