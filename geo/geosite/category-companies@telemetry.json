@@ -9,11 +9,9 @@
         "copilot-telemetry.githubusercontent.com",
         "dc.services.visualstudio.com",
         "rt.services.visualstudio.com",
-        "analytics.mobile.yandex.net",
-        "log.strm.yandex.ru",
-        "mc.yandex.com",
-        "mc.yandex.net",
-        "mc.yango.com",
+        "sentry.mindbox.ru",
+        "sentry.popmechanic.ru",
+        "sentry.iptv.rt.ru",
         "crashlyticsreports-pa.googleapis.com",
         "firebase-settings.crashlytics.com",
         "firebaselogging-pa.googleapis.com",
@@ -22,9 +20,6 @@
         "sentry.hetzner.company",
         "incoming.telemetry.mozilla.org",
         "incoming-telemetry.thunderbird.net",
-        "sentry.mindbox.ru",
-        "sentry.popmechanic.ru",
-        "sentry.iptv.rt.ru",
         "sentry-ng.g.smailru.net",
         "srch-telemeter10.g.smailru.net",
         "sentry.dev-my.com",
@@ -35,7 +30,12 @@
         "stats.dev.telega.info",
         "stats.rustore.ru",
         "stats.telega.info",
-        "stats.vk-portal.net"
+        "stats.vk-portal.net",
+        "analytics.mobile.yandex.net",
+        "log.strm.yandex.ru",
+        "mc.yandex.com",
+        "mc.yandex.net",
+        "mc.yango.com"
       ],
       "domain_suffix": [
         "applicationinsights.io",
@@ -51,6 +51,10 @@
         "collector.github.com",
         "analytics.vpc.duolingo.com",
         "metrics.duolingo.com",
+        "adobestats.io",
+        "apptracer.ru",
+        "metrics.viqeo.tv",
+        "log.dzen.ru",
         "appmetrica.yandex.com",
         "appmetrica.yandex.net",
         "appmetrica.yandex.ru",
@@ -63,11 +67,7 @@
         "webvisor.com",
         "webvisor.org",
         "yandex-metrica.ru",
-        "yandexmetrica.com",
-        "adobestats.io",
-        "apptracer.ru",
-        "metrics.viqeo.tv",
-        "log.dzen.ru"
+        "yandexmetrica.com"
       ]
     }
   ]
