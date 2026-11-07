@@ -20,13 +20,10 @@
         "m-adash.m.taobao.com",
         "retcode.taobao.com",
         "v6-adashx.ut.taobao.com",
+        "adashx.ut.ele.me",
+        "h-adashx.ut.ele.me",
+        "v6-adashx.ut.ele.me",
         "shuqistat.com",
-        "adash-emas.cn-hangzhou.aliyuncs.com",
-        "adash.man.aliyuncs.com",
-        "adashx.ut.amap.com",
-        "dualstack-logs.amap.com",
-        "logs.amap.com",
-        "v6-adashx.ut.amap.com",
         "alog.umeng.com",
         "alog.umengcloud.com",
         "alogs.umeng.com",
@@ -36,6 +33,11 @@
         "plbslog.umeng.com",
         "ulogs.umeng.com",
         "ulogs.umengcloud.com",
+        "adashx.ut.amap.com",
+        "dualstack-logs.amap.com",
+        "logs.amap.com",
+        "v6-adashx.ut.amap.com",
+        "v6-adashx.ut.cainiao.com",
         "adashx.ut.youku.com",
         "e.stat.ykimg.com",
         "h-adashx.ut.youku.com",
@@ -46,10 +48,8 @@
         "stat.youku.com",
         "statis.api.3g.youku.com",
         "v6-adashx.ut.youku.com",
-        "v6-adashx.ut.cainiao.com",
-        "adashx.ut.ele.me",
-        "h-adashx.ut.ele.me",
-        "v6-adashx.ut.ele.me"
+        "adash-emas.cn-hangzhou.aliyuncs.com",
+        "adash.man.aliyuncs.com"
       ]
     }
   ]
