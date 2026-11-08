@@ -3,8 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "log-upload.mihoyo.com",
-        "log-upload-os.hoyoverse.com"
+        "log-upload-os.hoyoverse.com",
+        "log-upload.mihoyo.com"
       ]
     }
   ]
