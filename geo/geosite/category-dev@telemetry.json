@@ -8,10 +8,10 @@
         "firebaselogging-pa.googleapis.com",
         "firebaselogging.googleapis.com",
         "update.crashlytics.com",
-        "dc.services.visualstudio.com",
-        "rt.services.visualstudio.com",
         "copilot-telemetry-service.githubusercontent.com",
-        "copilot-telemetry.githubusercontent.com"
+        "copilot-telemetry.githubusercontent.com",
+        "dc.services.visualstudio.com",
+        "rt.services.visualstudio.com"
       ],
       "domain_suffix": [
         "analytics.cloud.unity3d.com",
