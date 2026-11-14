@@ -3,6 +3,8 @@
   "rules": [
     {
       "domain": [
+        "sentry.mindbox.ru",
+        "sentry.popmechanic.ru",
         "sentry-ng.g.smailru.net",
         "srch-telemeter10.g.smailru.net",
         "sentry.dev-my.com",
@@ -14,34 +16,31 @@
         "stats.rustore.ru",
         "stats.telega.info",
         "stats.vk-portal.net",
-        "sentry.iptv.rt.ru",
+        "dc.services.visualstudio.com",
+        "rt.services.visualstudio.com",
+        "dc.applicationinsights.azure.com",
+        "live.applicationinsights.azure.com",
+        "copilot-telemetry-service.githubusercontent.com",
+        "copilot-telemetry.githubusercontent.com",
+        "incoming.telemetry.mozilla.org",
+        "incoming-telemetry.thunderbird.net",
         "crashlyticsreports-pa.googleapis.com",
         "firebase-settings.crashlytics.com",
         "firebaselogging-pa.googleapis.com",
         "firebaselogging.googleapis.com",
         "update.crashlytics.com",
-        "dc.applicationinsights.azure.com",
-        "live.applicationinsights.azure.com",
-        "copilot-telemetry-service.githubusercontent.com",
-        "copilot-telemetry.githubusercontent.com",
-        "dc.services.visualstudio.com",
-        "rt.services.visualstudio.com",
-        "sentry.mindbox.ru",
-        "sentry.popmechanic.ru",
         "sentry.hetzner.company",
+        "sentry.iptv.rt.ru",
         "analytics.mobile.yandex.net",
         "log.strm.yandex.ru",
         "mc.yandex.com",
         "mc.yandex.net",
-        "mc.yango.com",
-        "incoming.telemetry.mozilla.org",
-        "incoming-telemetry.thunderbird.net"
+        "mc.yango.com"
       ],
       "domain_suffix": [
         "apptracer.ru",
         "metrics.viqeo.tv",
         "log.dzen.ru",
-        "adobestats.io",
         "applicationinsights.io",
         "applicationinsights.net",
         "aria.ms",
@@ -53,8 +52,7 @@
         "in.applicationinsights.azure.com",
         "cafe.github.com",
         "collector.github.com",
-        "analytics.vpc.duolingo.com",
-        "metrics.duolingo.com",
+        "adobestats.io",
         "appmetrica.yandex.com",
         "appmetrica.yandex.net",
         "appmetrica.yandex.ru",
@@ -67,7 +65,9 @@
         "webvisor.com",
         "webvisor.org",
         "yandex-metrica.ru",
-        "yandexmetrica.com"
+        "yandexmetrica.com",
+        "analytics.vpc.duolingo.com",
+        "metrics.duolingo.com"
       ]
     }
   ]

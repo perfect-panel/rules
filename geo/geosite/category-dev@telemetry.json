@@ -3,10 +3,10 @@
   "rules": [
     {
       "domain": [
-        "dc.services.visualstudio.com",
-        "rt.services.visualstudio.com",
         "copilot-telemetry-service.githubusercontent.com",
         "copilot-telemetry.githubusercontent.com",
+        "dc.services.visualstudio.com",
+        "rt.services.visualstudio.com",
         "crashlyticsreports-pa.googleapis.com",
         "firebase-settings.crashlytics.com",
         "firebaselogging-pa.googleapis.com",
