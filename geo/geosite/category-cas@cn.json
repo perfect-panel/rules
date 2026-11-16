@@ -12,7 +12,6 @@
         "crl.pki.goog",
         "crls.pki.goog",
         "ocsp.pki.goog",
-        "www.entrust.cn",
         "certs-lb.apple.com.akadns.net",
         "certs.apple.com",
         "crl-lb.apple.com.akadns.net",
@@ -20,22 +19,23 @@
         "ocsp.apple.com",
         "ocsp2.apple.com",
         "valid.apple.com",
-        "valid.origin-apple.com.akadns.net"
+        "valid.origin-apple.com.akadns.net",
+        "www.entrust.cn"
       ],
       "domain_suffix": [
-        "dcocsp.cn",
-        "digicert.cn",
+        "sslcom.cn",
         "alphassl.com",
         "easy-signing.com",
         "globalsign.cn",
         "globalsign.com",
         "globalsigncdn.com",
+        "dcocsp.cn",
+        "digicert.cn",
         "oemssl.cn",
         "oemssl.cn.cdn.cloudflare.net",
         "sectigochina.com",
         "sectigochina.com.cdn.cloudflare.net",
-        "trust-provider.cn",
-        "sslcom.cn"
+        "trust-provider.cn"
       ]
     }
   ]

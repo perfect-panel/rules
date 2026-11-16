@@ -5,14 +5,17 @@
       "domain": [
         "az764295.vo.msecnd.net",
         "bingsettingssearch.trafficmanager.net",
+        "builds.dotnet.microsoft.com",
         "default.exp-tas.com",
         "developer.microsoft.com",
+        "dotnetcli.trafficmanager.net",
         "dtlgalleryint.cloudapp.net",
         "packages.microsoft.com",
         "poshtestgallery.cloudapp.net",
         "psg-int-centralus.cloudapp.net",
         "psg-int-eastus.cloudapp.net",
         "rink.hockeyapp.net",
+        "sundry-star-net-geo.trafficmanager.net",
         "vscode-sync-insiders.trafficmanager.net",
         "vscode-sync.trafficmanager.net",
         "vscode.blob.core.windows.net",
@@ -20,7 +23,8 @@
         "vsmarketplacebadge.apphb.com",
         "dc.services.visualstudio.com",
         "download.visualstudio.microsoft.com",
-        "rt.services.visualstudio.com"
+        "rt.services.visualstudio.com",
+        "vscode.download.prss.microsoft.com"
       ],
       "domain_suffix": [
         "adaptivecards.io",

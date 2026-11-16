@@ -3,9 +3,9 @@
   "rules": [
     {
       "domain_suffix": [
+        "akstat.io",
         "cloudflareinsights.com",
-        "cloudflareinsights-cn.com",
-        "akstat.io"
+        "cloudflareinsights-cn.com"
       ]
     }
   ]
