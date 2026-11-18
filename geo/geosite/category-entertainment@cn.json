@@ -3,12 +3,10 @@
   "rules": [
     {
       "domain": [
-        "gog.qtlglb.com",
         "alibaba.cdn.steampipe.steamcontent.com",
         "lv.queniujq.cn",
         "xz.pphimalayanrt.com",
-        "amp-api.podcasts.apple.com",
-        "podcasts.apple.com",
+        "gog.qtlglb.com",
         "amp-api-edge-lb-cn.itunes-apple.com.akadns.net",
         "amp-api-edge-lb.itunes-apple.com.akadns.net",
         "aod-ssl.itunes.apple.com",
@@ -63,17 +61,13 @@
         "music.apple.com",
         "musicstatus.music.apple.com",
         "play.music.apple.com",
-        "speedysub.music.apple.com"
+        "speedysub.music.apple.com",
+        "amp-api.podcasts.apple.com",
+        "podcasts.apple.com"
       ],
       "domain_suffix": [
-        "amazonprimevideo.cn",
-        "amazonprimevideo.com.cn",
-        "ggpht.cn",
-        "shanghaidisneyresort.com",
         "leagueoflegends.cn",
         "lpl.com.cn",
-        "yostar.cn",
-        "bluearchive-cn.com",
         "legendofzelda.cn",
         "legendofzelda.com.cn",
         "miitomo.com.cn",
@@ -86,7 +80,6 @@
         "mariokart.cn",
         "mariokart.com.cn",
         "supermariobros.com.cn",
-        "xboxlive.cn",
         "steamserver.net",
         "steamusercontent.com",
         "csgo.com.cn",
@@ -103,11 +96,18 @@
         "steamstatic.com.8686c.com",
         "steamchina.com",
         "gstore.val.manlaxy.com",
+        "xboxlive.cn",
+        "bluearchive-cn.com",
+        "yostar.cn",
+        "shanghaidisneyresort.com",
         "apple-itunes.cn",
         "itunes-apple.cn",
         "itunesapple.cn",
         "itunesradio.cn",
-        "itunesradio.com.cn"
+        "itunesradio.com.cn",
+        "amazonprimevideo.cn",
+        "amazonprimevideo.com.cn",
+        "ggpht.cn"
       ],
       "domain_regex": [
         "^cdn\\d-epicgames-\\d+\\.file\\.myqcloud\\.com$",

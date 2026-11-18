@@ -9,7 +9,6 @@
       "domain_suffix": [
         "lfai.foundation",
         "linuxfoundation.org",
-        "kernel.org",
         "linux.org",
         "openjsf.org",
         "mochajs.org",
@@ -21,7 +20,8 @@
         "electronjs.org",
         "jquery.com",
         "jquerymobile.com",
-        "jqueryui.com"
+        "jqueryui.com",
+        "kernel.org"
       ]
     }
   ]
