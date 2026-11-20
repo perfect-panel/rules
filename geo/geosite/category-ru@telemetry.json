@@ -3,6 +3,17 @@
   "rules": [
     {
       "domain": [
+        "stats.avito.ru",
+        "sentry.ozon.ru",
+        "analytics-stage.wildberries.ru",
+        "analytics.wildberries.ru",
+        "marketplace-sentry.wb.ru",
+        "sentry.wb.ru",
+        "web-analytics.wildberries.ru",
+        "error-tracking.megamarket.tech",
+        "metrics.21-school.ru",
+        "sentry.sberauto.com",
+        "tracing-http.megamarket.tech",
         "metrika.kontur.ru",
         "sentry.kontur.host",
         "analytics.mobile.yandex.net",
@@ -10,14 +21,9 @@
         "mc.yandex.com",
         "mc.yandex.net",
         "mc.yango.com",
-        "sentry.x5.ru",
         "sentry.mindbox.ru",
         "sentry.popmechanic.ru",
-        "error-tracking.megamarket.tech",
-        "metrics.21-school.ru",
-        "sentry.sberauto.com",
-        "tracing-http.megamarket.tech",
-        "sentry.iptv.rt.ru",
+        "sentry.x5.ru",
         "sentry-ng.g.smailru.net",
         "srch-telemeter10.g.smailru.net",
         "sentry.dev-my.com",
@@ -29,15 +35,10 @@
         "stats.rustore.ru",
         "stats.telega.info",
         "stats.vk-portal.net",
-        "stats.avito.ru",
-        "sentry.ozon.ru",
-        "analytics-stage.wildberries.ru",
-        "analytics.wildberries.ru",
-        "marketplace-sentry.wb.ru",
-        "sentry.wb.ru",
-        "web-analytics.wildberries.ru"
+        "sentry.iptv.rt.ru"
       ],
       "domain_suffix": [
+        "clickstream.sberbank.ru",
         "appmetrica.yandex.com",
         "appmetrica.yandex.net",
         "appmetrica.yandex.ru",
@@ -51,11 +52,10 @@
         "webvisor.org",
         "yandex-metrica.ru",
         "yandexmetrica.com",
-        "clickstream.sberbank.ru",
-        "clickstream.sberbank.ru",
         "apptracer.ru",
         "metrics.viqeo.tv",
-        "log.dzen.ru"
+        "log.dzen.ru",
+        "clickstream.sberbank.ru"
       ]
     }
   ]
