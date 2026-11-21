@@ -233,6 +233,8 @@
         "musicstatus.music.apple.com",
         "play.music.apple.com",
         "speedysub.music.apple.com",
+        "amp-api.podcasts.apple.com",
+        "podcasts.apple.com",
         "certs-lb.apple.com.akadns.net",
         "certs.apple.com",
         "crl-lb.apple.com.akadns.net",
@@ -240,9 +242,7 @@
         "ocsp.apple.com",
         "ocsp2.apple.com",
         "valid.apple.com",
-        "valid.origin-apple.com.akadns.net",
-        "amp-api.podcasts.apple.com",
-        "podcasts.apple.com"
+        "valid.origin-apple.com.akadns.net"
       ],
       "domain_suffix": [
         "apple.cn",
@@ -289,13 +289,6 @@
         "itunesapple.cn",
         "itunesradio.cn",
         "itunesradio.com.cn",
-        "apple-icloud.cn",
-        "appleicloud.cn",
-        "icloud-apple.cn",
-        "icloud-content.com.cn",
-        "icloud.com.cn",
-        "icloud.net.cn",
-        "icloudapple.cn",
         "researchkit.cn",
         "researchkit.com.cn",
         "swiftui.cn",
@@ -306,7 +299,14 @@
         "beats4.cn",
         "beatsbydre.com",
         "beatsbydre.com.cn",
-        "beatsep.cn"
+        "beatsep.cn",
+        "apple-icloud.cn",
+        "appleicloud.cn",
+        "icloud-apple.cn",
+        "icloud-content.com.cn",
+        "icloud.com.cn",
+        "icloud.net.cn",
+        "icloudapple.cn"
       ]
     }
   ]
