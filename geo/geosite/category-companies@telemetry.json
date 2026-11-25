@@ -3,12 +3,12 @@
   "rules": [
     {
       "domain": [
-        "sentry.hetzner.company",
         "crashlyticsreports-pa.googleapis.com",
         "firebase-settings.crashlytics.com",
         "firebaselogging-pa.googleapis.com",
         "firebaselogging.googleapis.com",
         "update.crashlytics.com",
+        "sentry.hetzner.company",
         "analytics.mobile.yandex.net",
         "log.strm.yandex.ru",
         "mc.yandex.com",
@@ -25,19 +25,20 @@
         "stats.rustore.ru",
         "stats.telega.info",
         "stats.vk-portal.net",
-        "incoming.telemetry.mozilla.org",
-        "incoming-telemetry.thunderbird.net",
         "sentry.iptv.rt.ru",
-        "sentry.mindbox.ru",
-        "sentry.popmechanic.ru",
         "dc.services.visualstudio.com",
         "rt.services.visualstudio.com",
         "dc.applicationinsights.azure.com",
         "live.applicationinsights.azure.com",
         "copilot-telemetry-service.githubusercontent.com",
-        "copilot-telemetry.githubusercontent.com"
+        "copilot-telemetry.githubusercontent.com",
+        "sentry.mindbox.ru",
+        "sentry.popmechanic.ru",
+        "incoming.telemetry.mozilla.org",
+        "incoming-telemetry.thunderbird.net"
       ],
       "domain_suffix": [
+        "adobestats.io",
         "appmetrica.yandex.com",
         "appmetrica.yandex.net",
         "appmetrica.yandex.ru",
@@ -66,8 +67,7 @@
         "browser.events.data.msn.com",
         "in.applicationinsights.azure.com",
         "cafe.github.com",
-        "collector.github.com",
-        "adobestats.io"
+        "collector.github.com"
       ]
     }
   ]
