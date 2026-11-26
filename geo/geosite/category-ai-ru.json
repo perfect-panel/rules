@@ -3,12 +3,13 @@
   "rules": [
     {
       "domain_suffix": [
-        "aiesa.ru",
+        "polza.ai",
         "copymonkey.app",
+        "devmachine.ai",
         "gerwin.io",
         "giga.chat",
         "gptunnel.ru",
-        "polza.ai",
+        "aiesa.ru",
         "robotext.io",
         "rugpt.io",
         "tokenator.top",
